@@ -15,7 +15,48 @@
 	"name": "CAPITULO 1",
 	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
 	"url": "",
-	"info": ""
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+
+	{
+	"name": "CAPITULO 2",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+
+	{
+	"name": "CAPITULO 3",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+
+	{
+	"name": "CAPITULO 4",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	}
 
 ]
