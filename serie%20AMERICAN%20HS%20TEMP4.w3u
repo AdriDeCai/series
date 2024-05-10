@@ -3,7 +3,7 @@
 
 {
 "name": "AMERICAN CS TEMP1",
-"image": "",
+"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
 "url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20AMERICAN%20HS%20TEMP4.w3u",
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
@@ -13,7 +13,106 @@
 
 	{
 	"name": "CAPITULO 1",
-	"image": "",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 2",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 3",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 4",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 5",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 6",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 7",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 8",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 9",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 10",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
 	"url": "",
 	"info": "",
        	"embed": "",
