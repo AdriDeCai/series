@@ -18,7 +18,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 2",
@@ -29,7 +29,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 3",
@@ -40,7 +40,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 4",
@@ -51,7 +51,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 5",
@@ -62,7 +62,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 6",
@@ -73,7 +73,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 7",
@@ -84,7 +84,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 8",
@@ -95,7 +95,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	},
 	{
 	"name": "Capitulo 9",
@@ -106,7 +106,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	}
 
 	]
