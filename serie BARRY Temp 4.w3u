@@ -18,7 +18,7 @@
 	"isHost": "",
 	"online": "",
 	"embed": "",
-	"import":
+	"import": false
 	}
 
 	]
