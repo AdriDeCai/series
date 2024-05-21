@@ -1,0 +1,115 @@
+
+{
+"name": "TEMPORADA 1",
+"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+"info": "bY AdriDeCai",
+"url": "",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+	[
+
+	{
+	"name": "Capitulo 1",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 2",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 3",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 4",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 5",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 6",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 7",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 8",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	},
+	{
+	"name": "Capitulo 9",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	}
+
+	]
+}
+
+
