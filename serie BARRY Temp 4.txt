@@ -1,0 +1,27 @@
+
+{
+"name": "TEMPORADA 4",
+"image": "",
+"info": "bY AdriDeCai",
+"url": "",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+	[
+
+	{
+	"name": "Capitulo 1",
+	"url": "",
+	"image": "",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import":
+	}
+
+	]
+}
+
+
