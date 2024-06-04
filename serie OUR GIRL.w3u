@@ -1,6 +1,6 @@
 
 {"name": "OUR GIRL (VOSE)",
-"image": "https://pics.filmaffinity.com/our_girl-647568792-large.jpg",
+"image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
 "url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20OUR%20GIRL.w3u",
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
@@ -9,9 +9,9 @@
 
 	{
 	"name": "CAPITULO 1",
-        "image": "https://pics.filmaffinity.com/our_girl-647568792-large.jpg",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
         "url": "https://filemoon.sx/d/03zo78sd84sw/Ver_our_girl_s01e01_vose_hdtv_avi.mp4",
-       	"info": "[Español 2014]",
+       	"info": "[Español 2013]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -20,9 +20,9 @@
        	},
 	{
 	"name": "CAPITULO 2",
-        "image": "https://pics.filmaffinity.com/our_girl-647568792-large.jpg",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
         "url": "https://filemoon.sx/d/j5lfwybd2wgv/Ver_our_girl_s01e02_vose_hdtv_avi.mp4",
-       	"info": "[Español 2014]",
+       	"info": "[Español 2013]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -31,9 +31,9 @@
        	},
 	{
 	"name": "CAPITULO 3",
-        "image": "https://pics.filmaffinity.com/our_girl-647568792-large.jpg",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
         "url": "https://filemoon.sx/d/s7g2hccqcz47/Ver_our_girl_s01e03_vose_hdtv_avi.mp4",
-       	"info": "[Español 2014]",
+       	"info": "[Español 2013]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -42,9 +42,31 @@
        	},
 	{
 	"name": "CAPITULO 4",
-        "image": "https://pics.filmaffinity.com/our_girl-647568792-large.jpg",
-        "url": "",
-       	"info": "[Español 2014]",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/xw485mpidng7/Ver_our_girl_s01e04_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/cv9xtylw4g3l/Ver_our_girl_s01e05_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/vtil8hqxvitb/Ver_our_girl_s01e06_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
