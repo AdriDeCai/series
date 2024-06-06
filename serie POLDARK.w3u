@@ -5,8 +5,14 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+	"info": "",
+	"stations":
+	[
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
@@ -50,7 +56,73 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+        "url": "https://filemoon.sx/d/r7q26oyzfmh3/Ver_ldrk_1x05_m1080p_mkv.mp4",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+        "url": "https://filemoon.sx/d/at7othouyy4z/Ver_ldrk_1x06_m1080p_mkv.mp4",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+        "url": "https://filemoon.sx/d/gy63269x6u99/Ver_ldrk_1x07_m1080p_mkv.mp4",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+        "url": "https://filemoon.sx/d/wp8kepdqstf8/Ver_ldrk_1x08_m1080p_mkv.mp4",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+	"info": "",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/poldark-559519405-large.jpg",
+        "url": "",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
