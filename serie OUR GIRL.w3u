@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "",
+	"stations":
+	[
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
@@ -73,6 +78,90 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/i4j3obai4x1e/Ver_our_girl_s02e01_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/zk31s17js0ty/Ver_our_girl_s02e02_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/ytal7d2eaeff/Ver_our_girl_s02e03_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/6d2qcu8db96g/Ver_our_girl_s02e04_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "https://filemoon.sx/d/bievxg2ib0lv/Ver_our_girl_s02e05_vose_hdtv_avi.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
+        "url": "",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
   ]
 }
