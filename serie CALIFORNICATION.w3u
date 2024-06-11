@@ -1,0 +1,348 @@
+
+{"name": "CALIFORNICATION",
+"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":[
+
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/nu2ih859vlhy/Californication_1x01_Piloto_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/j4z8i1i71z92/Californication_1x02_Mujer_Hell-A_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/tvue114mazzq/Californication_1x03_La_Puta_De_Babilonia_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/hwphk4dbs2r5/Californication_1x04_Miedo_Y_Asco_En_La_Recaudacion_De_Fondos_720p.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/w0y61q9pnu6o/Californication_1x05_Muchas_Risas_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/rvxz9qydhcdx/Californication_1x06_La_Absenta_Agranda_Los_Sentimientos_720p_AC3.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+      	      {
+	      "name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/kol0sx0s8i5f/Californication_1x07_Inocencia_Interrumpida_720p_AC3_DUAL_Bluray.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "https://filemoon.sx/d/b9r1i9ddxuy0/Californication_1x08_Hijo_De_California_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/0nh7gyj8gucj/Californication_1x09_Lucro_Asqueroso_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/sfebl1oynrvg/Californication_1x10_El_Trio_Del_Diablo_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/rae3xhlf9z4l/Californication_1x11_Pasa_Pagina_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "https://filemoon.sx/d/wnl1onqnx670/Californication_1x12_El_Ultimo_Vals_720p_AC3_DUAL_Bluray_2007.mkv",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+      	      {
+	      "name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	  {
+	      "name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+  	{
+	"name": "TEMPORADA 4",
+	"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+  	{
+	"name": "TEMPORADA 5",
+	"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
+        "url": "",
+       	"info": "[Español 2007]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  }
+
+  ]
+  }
