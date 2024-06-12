@@ -71,6 +71,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/dark_matter-192577821-large.jpg",
+        "url": "https://vidmoly.me/w/l0j9w73mjscy",
+       	"info": "[Español 2024]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
