@@ -72,6 +72,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/beguinas-542683486-large.jpg",
+        "url": "https://vidmoly.me/w/kyxgwd99fl9l",
+       	"info": "[Español 2024]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
