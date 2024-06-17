@@ -7,7 +7,7 @@
 "groups":[
 
 {
-"name": "",
+"name": "TEMPORADA 1",
 "image": "",
 "stations": 
 [
@@ -239,7 +239,106 @@
 	      {
 	      "name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
-        "url": "https://filemoon.sx/d/t4zszxhuyjpc/Spartacus_1x2.mp4",
+        "url": "https://filemoon.sx/d/3a3m92bw23jc/Spartacus_3x1.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/yp381lutcu3m/Spartacus_3x2.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/2zx6zpdem7ty/Spartacus_3x3.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/zs9t75nqvuhw/Spartacus_3x4.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/s45b25e8gjan/Spartacus_3x5.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/v156y90tgl3q/Spartacus_3x6.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/o3lob9oi3i07/Spartacus_3x7.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/v9lpvywj1lup/Spartacus_3x8.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/hu2y9kkwypp1/Spartacus_3x9.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/ckahz3k291wl/Spartacus_3x10.mp4",
        	"info": "[Español 2010]",
        	"embed": "",
        	"isHost": "true",
@@ -258,7 +357,106 @@
 	      {
 	      "name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
-        "url": "https://filemoon.sx/d/t4zszxhuyjpc/Spartacus_1x2.mp4",
+        "url": "https://filemoon.sx/d/7zaghym29z37/Spartacus_4x1.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/pooiio2a2nnf/Spartacus_4x2.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/j459q4vh96r3/Spartacus_4x3.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/9zbvc2f14zd3/Spartacus_4x4.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/kwcpw91i5kdf/Spartacus_4x5.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/qsokf2rx1a14/Spartacus_4x6.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/7cmplp6a6ryr/Spartacus_4x7.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/nyd7ae3897xp/Spartacus_4x8.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/8k29a8r2t4jh/Spartacus_4x9.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/2dcv4fpfx73m/Spartacus_4x10.mp4",
        	"info": "[Español 2010]",
        	"embed": "",
        	"isHost": "true",
