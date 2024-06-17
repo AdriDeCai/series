@@ -4,8 +4,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "",
+"image": "",
+"stations": 
+[
 	      {
 	      "name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
@@ -149,6 +154,65 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+"stations": 
+[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/t4zszxhuyjpc/Spartacus_1x2.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+"stations": 
+[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/t4zszxhuyjpc/Spartacus_1x2.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+},
+
+{
+"name": "TEMPORADA 4",
+"image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+"stations": 
+[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+        "url": "https://filemoon.sx/d/t4zszxhuyjpc/Spartacus_1x2.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+}
 
         ]
         }
