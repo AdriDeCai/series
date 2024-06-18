@@ -18,6 +18,14 @@
        	"import": false
        	},
 	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
+        "url": "https://filemoon.sx/d/vdybnwch6fwt",
+       	"info": "[Latino]",
+       	"isHost": "true",
+       	"online": "true"
+	},
+	{
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.sx/d/25lg6i3219pz/1x02_The_Acolyte_cinepalomitas.mkv",
@@ -29,6 +37,14 @@
        	"import": false
        	},
 	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
+        "url": "https://filemoon.sx/d/78qbk5isz3dz",
+       	"info": "[Latino]",
+       	"isHost": "true",
+       	"online": "true"
+	},
+	{
 	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://vtube.network/0vyadnniq3q5.html",
@@ -38,7 +54,15 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
-       	}
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
+        "url": "https://filemoon.sx/d/860q467jvgas",
+       	"info": "[Latino]",
+       	"isHost": "true",
+       	"online": "true"
+	}
 
 ]
 }
