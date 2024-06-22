@@ -62,7 +62,29 @@
        	"info": "[Latino]",
        	"isHost": "true",
        	"online": "true"
-	}
+	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
+        "url": "https://vidmoly.me/w/xihypoi2397j",
+       	"info": "[Español 2024]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
+        "url": "https://vidmoly.me/w/2vs9ygec1dt3",
+       	"info": "[Latino]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
 
 ]
 }
