@@ -38,6 +38,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/segunda_muerte-677813938-large.jpg",
+        "url": "https://vidmoly.me/w/odgo8jjkt5qs",
+       	"info": "[Español 2024]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
