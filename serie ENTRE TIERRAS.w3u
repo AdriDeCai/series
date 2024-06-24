@@ -1,0 +1,43 @@
+{"name": "ENTRE TIERRAS",
+"image": "",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2023]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2023]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2023]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+}
