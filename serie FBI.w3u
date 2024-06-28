@@ -1,0 +1,66 @@
+{"name": "FBI INTERNATIONAL",
+"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20ACOLYTE.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/vceej0xjdd21/FBI_Internacional_1_x_1.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/gpwkh0qj8kqf/FBI_Internacional_1_x_2.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/okq5ej2xtykw/FBI_Internacional_1_x_3.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/mulr4vz0umlh/FBI_Internacional_1_x_4.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/f5hg17lelgzl/FBI_Internacional_1_x_5.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
