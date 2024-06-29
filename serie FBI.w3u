@@ -328,6 +328,50 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/g5jxoqjnndzz/2x07_-_FBI__x265_.mkv",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/efbb8lg25jsx/2x08_-_FBI__x265_.mkv",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/6sdx8onvmg5n/2x09_-_FBI__x265_.mkv",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://filemoon.sx/d/jgdqqw5rzb64/2x10_-_FBI__x265_.mkv",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 	]
