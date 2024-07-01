@@ -4,8 +4,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+	"stations":
+	[
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
@@ -115,7 +120,160 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+        	{
+	"name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/affccrj30his/Vivir_sin_permiso_11.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/lpqdj9vgcry9/Vivir_sin_permiso_12.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 13",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/1bxqplm42wja/Vivir_sin_permiso_13.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/jt4yk6q7ismo/Vivir_sin_permiso_2x1.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/vfggvpl1rhhd/Vivir_sin_permiso_2x2.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/6qg2vajg7pxt/Vivir_sin_permiso_2x3.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/ekvojo5ofyjf/Vivir_sin_permiso_2x4.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/ok6l2009d3v5/Vivir_sin_permiso_2x5.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/iwm47f6hq2ib/Vivir_sin_permiso_2x6.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/iboudpxhaale/Vivir_sin_permiso_2x7.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/yujjk20xv9dn/Vivir_sin_permiso_2x8.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/62hs7hqy7o8b/Vivir_sin_permiso_2x9.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+        "url": "https://filemoon.sx/d/2gehwar94z79/Vivir_sin_permiso_2x10.mp4",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
         ]
         }
