@@ -52,6 +52,39 @@
        	},
 	{
 	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/presumed_innocent-209652186-large.jpg",
+        "url": "https://vidmoly.me/w/b1zbgxgkfytn",
+       	"info": "[Español 2024]",
+       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"usrAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
         "image": "",
         "url": "",
        	"info": "[Español 2024]",
