@@ -220,7 +220,7 @@
 	{
 	"name": "CAPITULO 11",
         "image": "https://pics.filmaffinity.com/twin_peaks-401853658-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/v82xbir3js4c/Twin_Peaks_-_2x11_-_Baile_de_Disfraces.mp4",
        	"info": "[Español 1990]",
        	"embed": "",
        	"isHost": "true",
@@ -360,7 +360,106 @@
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/8wk6bo9ry9px/Twin_Peaks_-_3x01_-_Mi_le_o_tiene_un_mensaje_para_ti.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/kisb0ck2gcxq/Twin_Peaks_-_3x02_La_estrellas_giran_y_un_tiempo_se_presenta.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/gv8mcl4xrk34/Twin_Peaks_-_3x03_-_Llamada_de_ayuda.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/94u5x4347g7n/Twin_Peaks_-_3x04_-_...trae_algunos_recuerdos.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/83mfjla7hmeq/Twin_Peaks_-_3x05_-_Archivos.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/pa3drlpzwx7g/Twin_Peaks_-_3x06_-_No_te_mueras.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/y7shg3qvm0xu/Twin_Peaks_-_3x07_-_Hay_un_cuerpo.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/rosq2mvxat9r/Twin_Peaks_-_3x08_-_Tienes_fuego.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/r2m21fi6cfpq/Twin_Peaks_-_3x09_-_Esta_es_la_silla.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/sqwe48cx8r6w/Twin_Peaks_-_3x10_-_Laura_es_la_elegida.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -368,6 +467,7 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+
   ]
   }
 
