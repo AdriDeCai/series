@@ -466,8 +466,84 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/yt7hmoj50ndc/Twin_Peaks_-_3x11_-_Hay_fuego_a_donde_vas.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/m5yutvo73e68/Twin_Peaks_-_3x12_-_Vamos_alla.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 13",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/q7n16z6yyh86/Twin_Peaks_-_3x13_-_Que_historia_es_esa__Charlie.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 14",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/l7j6sgsk4ab3/Twin_Peaks_-_3x14_-_Somos_como_el_so_ador.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 15",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/ygpartato14c/Twin_Peaks_-_3x15_-_Haya_algo_de_miedo_en_dejarse_llevar.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 16",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/ye1o9hci2uog/Twin_Peaks_-_3x16_-_No_llames__no_hay_timbre.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 17",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/2r2x6y3c39y5/Twin_Peaks_-_3x17_-_El_pasado_dicta_el_futuro.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
-
   ]
   }
 
