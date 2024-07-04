@@ -1,0 +1,68 @@
+{"name": "TWIN PEAKS",
+"image": "https://pics.filmaffinity.com/twin_peaks-401853658-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":[
+
+  {
+  "name": "TEMPORADA 1",
+  "image": "https://www.imdb.com/title/tt0098936/mediaviewer/rm1882244352/?ref_=tt_ov_i",
+  "stations":
+  [
+	{
+	      "name": "CAPITULO 1",
+        "image": "https://www.imdb.com/title/tt0098936/mediaviewer/rm1882244352/?ref_=tt_ov_i",
+        "url": "",
+       	"info": "[Español 1990]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+   {
+  "name": "TEMPORADA 2",
+  "image": "https://pics.filmaffinity.com/twin_peaks-401853658-large.jpg",
+  "stations":
+  [
+	{
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/twin_peaks-401853658-large.jpg",
+        "url": "",
+       	"info": "[Español 1990]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+      	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  },
+
+    {
+  "name": "TEMPORADA 3",
+  "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+  "stations":
+  [
+	{
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+  ]
+  }
+
+  ]
+  }
+
