@@ -101,7 +101,7 @@
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.sx/d/smxabzh5txng/1x05_The_Acolyte__latino_.mp4",
        	"info": "[Latino]",
-       	"embed": "true",
+       	"embed": "",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
