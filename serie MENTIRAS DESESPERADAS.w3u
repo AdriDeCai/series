@@ -53,7 +53,7 @@
 	{
 	"name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/ws4qyzytif2i/S01_E05_Mentiras_Desesperadas_m720p_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -64,7 +64,7 @@
 	{
 	"name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/eiqrhqm3tcv6/S01_E06_Mentiras_Desesperadas_m720p_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -75,7 +75,7 @@
 	{
 	"name": "CAPITULO 7",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/jouq39rvy9u7/S01_E07_Mentiras_Desesperadas_m720p_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -86,7 +86,7 @@
 	{
 	"name": "CAPITULO 8",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/4eamb0e6jo4q/S01_E08_Mentiras_Desesperadas_m720p_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -97,7 +97,7 @@
 	{
 	"name": "CAPITULO 9",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/0u39z2pc8lyz/S01_E09_Mentiras_Desesperadas_m720p_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -108,7 +108,84 @@
 	{
 	"name": "CAPITULO 10",
         "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/th1ymaewqrth/S01_E10_Mentiras_Desesperadas.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/amzswc5w4522/S01_E11_Mentiras_Desesperadass_Verdad_Har_Libres_mp4__1_.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/e872ruzgsu2q/S01_E12_Mentiras_Desesperadas_m720p_mp4.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 13",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/qgy8dd6cqwgk/S01_E13_Mentiras_Desesperadas_m720p_mp4.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 14",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/fd8tyrtc2y25/S01_E14_Mentiras_Desesperadas_m720p_mp4.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 15",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/0r1dwdg335ai/S01_E15_Mentiras_Desesperadas__Las_Mentiras_Curan_mp4.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 16",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/nxaj0ynqzy66/S01_E16_Mentiras_Desesperadas_m720p_mp4.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 17",
+        "image": "https://pics.filmaffinity.com/pedaco_de_mim-896074527-large.jpg",
+        "url": "https://filemoon.sx/d/rnq91qf28ffq/S01_E17_Mentiras_Desesperadas_Otra_Mitad_mp4.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
