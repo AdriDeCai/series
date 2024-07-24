@@ -543,6 +543,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 18",
+        "image": "https://pics.filmaffinity.com/twin_peaks_the_return-472583578-large.jpg",
+        "url": "https://filemoon.sx/d/h1i4nelcjnl6",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
   ]
   }
