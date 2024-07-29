@@ -4,10 +4,15 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
-	      {
-	      "name": "CAPITULO 1",
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
         "url": "https://filemoon.sx/d/wnko0mt81zk1/Loki_1x01.mp4",
        	"info": "[Español 2021]",
@@ -72,6 +77,82 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/bluwdmiwdxf2/Loki_2x01.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/y6tejc1rty5z/Loki_2x02.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/ck21g0014l2a/Loki_2x03.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/x33iixnik51z/Loki_2x04.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/hrxyowewmg6r/Loki_2x05.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/tylvz0nsx55k/Loki_2x06_Un_glorioso_prop_sito.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
