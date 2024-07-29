@@ -4,8 +4,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"gropups":[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+	"stations":
+	[
 	      {
 	      "name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
@@ -94,6 +99,65 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+	"stations":
+	[
+	      	{
+		"name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+	"stations":
+	[
+		{
+		"name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+	"stations":
+	[
+	      {
+	      "name": "CAPITULO 1",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+	      	"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		}
+	]
+	}
 
 ]
 }
