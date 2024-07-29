@@ -1,0 +1,81 @@
+{"name": "LOKI",
+"image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/wnko0mt81zk1/Loki_1x01.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/6ljb6j0io4ti/Loki_1x02.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/trol3wk2op94/Loki_1x03.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/1geo1ptiob8s/Loki_1x04.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/84dtnatxdf79/Loki_1x05.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+        "url": "https://filemoon.sx/d/98tr3ssbn53x/Loki_1x06.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
+
+
+
+
