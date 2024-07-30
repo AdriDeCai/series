@@ -228,7 +228,106 @@
 		{
 		"name": "CAPITULO 1",
         	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
-        	"url": "",
+        	"url": "https://filemoon.sx/d/tdglnk4qndgq/Black_Sails_3x01.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 2",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/q9r4eg5sdbwf/Black_Sails_3x02.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 3",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/1v5kvcoob504/Black_Sails_3x03.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 4",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/zomeq94fm62c/Black_Sails_3x04.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 5",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/0hk1527l30d8/Black_Sails_3x05.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 6",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/rymktji93ine/Black_Sails_3x06.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 7",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/4r7vhvx2z2ka/Black_Sails_3x07.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 8",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/qdrro9ielnda/Black_Sails_3x08.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 9",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/hh3c4jxwyacq/Black_Sails_3x09.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 10",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/1ybgh9x84m7k/Black_Sails_3x10__fin_de_temporada_.mp4",
        		"info": "[Español 2014]",
        		"embed": "",
        		"isHost": "true",
@@ -244,15 +343,114 @@
 	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
 	"stations":
 	[
-	      {
-	      "name": "CAPITULO 1",
+		{
+		"name": "CAPITULO 1",
         	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
-        	"url": "",
+        	"url": "https://filemoon.sx/d/vtm42sjtic2w/Black_Sails_4x01.mp4",
        		"info": "[Español 2014]",
        		"embed": "",
        		"isHost": "true",
        		"online": "true",
-	      	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 2",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/3o14qprobgrh/Black_Sails_4x02.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 3",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/1epzu49o2ksm/Black_Sails_4x03.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 4",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/8zdplbtid94m/Black_Sails_4x04.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 5",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/cvy9wil1lnlt/Black_Sails_4x05.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 6",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/hjsldan6jlvc/Black_Sails_4x06.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 7",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/64v76oxj7ck7/Black_Sails_4x07.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 8",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/43xq752xwoie/Black_Sails_4x08.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 9",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/eui9ield66sg/Black_Sails_4x09.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       		"import": false
+       		},
+		{
+		"name": "CAPITULO 10",
+        	"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+        	"url": "https://filemoon.sx/d/jbw7fk8mpurk/Black_Sails_4x10__fin_de_temporada_.mp4",
+       		"info": "[Español 2014]",
+       		"embed": "",
+       		"isHost": "true",
+       		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
        		"import": false
        		}
 	]
