@@ -18,7 +18,7 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -29,7 +29,7 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -40,7 +40,7 @@
        	"import": false
        	},
         {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -51,7 +51,7 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -62,7 +62,7 @@
        	"import": false
        	},
         {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -73,7 +73,7 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 7",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -84,7 +84,7 @@
        	"import": false
        	},
         {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 8",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -95,7 +95,7 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 9",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -106,7 +106,7 @@
        	"import": false
        	},
         {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 10",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
@@ -117,7 +117,29 @@
        	"import": false
        	},
 	      {
-	      "name": "CAPITULO 1",
+	      "name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
+        "url": "",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
+        "url": "",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 13",
         "image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
         "url": "",
        	"info": "[Español 2019]",
