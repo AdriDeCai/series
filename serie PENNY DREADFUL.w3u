@@ -22,6 +22,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	      {
         "name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/13s73ktoob5n/Ver_penny_dreadful_s01e02_esp_hdtv_mp4.mp4",
@@ -32,8 +33,9 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 3",
-        "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
+     "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/13s73ktoob5n/Ver_penny_dreadful_s01e02_esp_hdtv_mp4.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
@@ -42,6 +44,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/8hge6ko9qfi6/Ver_penny_dreadful_s01e04_esp_hdtv_mp4.mp4",
@@ -52,6 +55,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/16s8ccp83r0c/Ver_penny_dreadful_s01e05_esp_hdtv_mp4.mp4",
@@ -114,6 +118,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/vi2wg7bza5qs/Ver_penny_dreadful_s02e02_esp_hdtv_mp4.mp4",
@@ -124,6 +129,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/phhqz5vj8mqw/Ver_penny_dreadful_s02e03_esp_hdtv_mp4.mp4",
@@ -134,6 +140,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/n7ddeetqe302/Ver_penny_dreadful_s02e04_esp_hdtv_mp4.mp4",
@@ -144,6 +151,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/o2da9h1bpywl/Ver_penny_dreadful_s02e05_esp_hdtv_mp4.mp4",
@@ -228,6 +236,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/ejy4wcee3027/Ver_penny_dreadful_s03e02_esp_hdtv_avi.mp4",
@@ -238,6 +247,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/pcg7006b4a99/Ver_penny_dreadful_s03e03_esp_hdtv_avi.mp4",
@@ -248,6 +258,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/m2gpc63e13xq/Ver_penny_dreadful_s03e04_esp_hdtv_avi.mp4",
@@ -258,6 +269,7 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+  	      { 
         "name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
         "url": "https://filemoon.sx/d/z9eigwc2l6a5/Ver_penny_dreadful_s03e05_esp_hdtv_avi.mp4",
