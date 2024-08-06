@@ -98,6 +98,28 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+                	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+                	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
   ]
   },
@@ -186,6 +208,28 @@
        	},
                 	{
 	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+                	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+                	{
+	"name": "CAPITULO 10",
         "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
         "url": "",
        	"info": "[Español 2022]",
