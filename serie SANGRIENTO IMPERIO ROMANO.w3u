@@ -76,9 +76,61 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	}
+  ]
+  },
+
+  {
+  "name": "TEMPORADA 2",
+  "image": "https://pics.filmaffinity.com/ro man_empire-396638983-large.jpg",
+  "stations":
+  [
+        {
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	},
         {
-	"name": "CAPITULO 7",
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
         "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
        	"info": "[Español 2024]",
@@ -92,38 +144,52 @@
   },
 
   {
-  "name": "TEMPORADA 2",
-  "image": "https://pics.filmaffinity.com/ro man_empire-396638983-large.jpg",
-  "stations":
-  [
-        {
-	      "name": "CAPITULO 1",
-        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
-        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
-       	"info": "[Español 2024]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	}
-  ]
-  },
-
-  {
   "name": "TEMPORADA 3",
   "image": "https://pics.filmaffinity.com/ro man_empire-396638983-large.jpg",
   "stations":
   [
         {
-	      "name": "CAPITULO 1",
+	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
         "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/roman_empire-396638983-large.jpg",
+        "url": "https://filemoon.sx/d/ivnyw9nvt56c/1x01_The_Acolyte_cinepalomitas.mkv",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
   ]
