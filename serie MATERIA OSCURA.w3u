@@ -53,7 +53,7 @@
 	{
 	"name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/dark_matter-192577821-large.jpg",
-        "url": "https://filemoon.sx/d/wp5tf5ef9e3d/1x05_Materia_Oscura_cinepalomitas.mkv",
+        "url": "https://listeamed.net/v/dNjgOl4z97NO9Wn",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
@@ -77,12 +77,30 @@
         "image": "https://pics.filmaffinity.com/dark_matter-192577821-large.jpg",
         "url": "https://filemoon.sx/d/c90k4hcyvus8",
        	"info": "[Español 2024]",
-       	"embed": "true",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "",
+        "url": "",
+       	"info": "[Español 2024]",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
-
 ]
 }
