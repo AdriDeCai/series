@@ -1,0 +1,33 @@
+{"name": "Cicatriz",
+"image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
+        "url": "https://filemoon.sx/d/n90xquv6eii4/Ver_Cicatriz_1x01_1080.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
+        "url": "https://filemoon.sx/d/38shy7eu6fau/Ver_Cicatriz_1x02_1080.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
