@@ -27,6 +27,28 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
+        "url": "https://filemoon.sx/d/su0cjf7ojezb/Ver_Cicatriz_1x03_1080.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
+        "url": "https://filemoon.sx/d/33zdj6tuehws/Ver_Cicatriz_1x04_1080.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
