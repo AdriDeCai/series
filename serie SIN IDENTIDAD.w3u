@@ -1,7 +1,7 @@
 
 {"name": "Sin Identidad",
 "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SIN%20IDENTIDAD.w3u",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SIN%20IDENTIDAD.w3u"
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
@@ -123,7 +123,7 @@
 	      {
 	      "name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/42w8c42sphch/2x01_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -134,7 +134,7 @@
 	      {
 	      "name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/71521w9p935q/2x02_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -142,10 +142,10 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-        	      {
-	      "name": "CAPITULO 3",
+        {
+	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/q4uh6wfp8vik/2x03_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -156,7 +156,7 @@
         	      {
 	      "name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/5z060ss18qs3/2x04_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -167,7 +167,7 @@
         	      {
 	      "name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/t7go702ono87/2x05_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -178,7 +178,7 @@
         	      {
 	      "name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/bboc2sd8wwi5/2x06_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -189,7 +189,7 @@
         	      {
 	      "name": "CAPITULO 7",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/hxz8vs8vo1s0/2x07_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
@@ -197,15 +197,81 @@
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-        	      {
-	      "name": "CAPITULO 8",
+        {
+	"name": "CAPITULO 8",
         "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/v2yw08up5y5r/2x08_Sin_identidad.mp4",
        	"info": "[Español 2014]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/nonh1g7hmiy5/2x09_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/u3pwnezhdanz/2x10_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/8h7qua58b6t4/2x11_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/wjpmur4v6ecy/2x12_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 13",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/ep3044i91t53/2x13_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	"name": "CAPITULO 14",
+        "image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
+        "url": "https://filemoon.sx/d/3kb99niq0y29/2x14_Sin_identidad.mp4",
+       	"info": "[Español 2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
 	]
