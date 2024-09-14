@@ -65,6 +65,39 @@
        	"online": "true",
 	      "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/la_caza_monteperdido-384669852-large.jpg",
+        "url": "https://filemoon.sx/d/bad4uj1ij9dm/La_caza_monteperdido_720p_Castellano_1x06_mkv.mp4",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/la_caza_monteperdido-384669852-large.jpg",
+        "url": "https://filemoon.sx/d/qilax1k6myts/La_caza_monteperdido_720p_Castellano_1x07_mkv.mp4",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/la_caza_monteperdido-384669852-large.jpg",
+        "url": "https://filemoon.sx/d/8k2lnzaz9q4m/La_caza_monteperdido_720p_Castellano_1x08_mkv.mp4",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
   ]
   },
