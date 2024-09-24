@@ -1,0 +1,100 @@
+{
+"name": "Juego de la Muerte",
+"image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "CAPITULO 1",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/cwyfp18qorwd/1x01_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 2",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/36tumpu0ouql/1x02_Juego_de_la_Muerte_m1080p.mp4.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 3",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/4go5z7laqdw8/1x03_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 4",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/749hgr425xju/1x04_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 5",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/wv8ax7mua37p/1x05_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 6",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/rn24ihyv5tjc/1x06_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 7",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/6b0nw1wlbghx/1x07_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "CAPITULO 8",
+  "image": "https://pics.filmaffinity.com/death_s_game-871637094-large.jpg",
+  "url": "https://filemoon.sx/d/g3tiseka0u12/1x08_Juego_de_la_Muerte_m1080p.mp4",
+  "info": "[Español 2023]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+  
+]
+}
