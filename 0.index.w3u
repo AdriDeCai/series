@@ -7,17 +7,17 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
-	{
-	"name": "CAPITULO 1",
-  "image": "",
-  "url": "",
-  "info": "[Español 2024]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  }
+{
+"name": "CAPITULO 1",
+"image": "",
+"url": "",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
 
 ]
 }
