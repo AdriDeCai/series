@@ -241,6 +241,124 @@
 "import": false
 }
 ]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/tpq4entdc6np/3x01_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/uvhofgtoc759/3x02_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/n2pe70m3tudr/3x03_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/z60bowu62pn2/3x04_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/pmzexdkaudh9/3x05_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/di4h5mtfpuqe/3x06_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/wfkezp19yh6s/3x07_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/v91vht32fzch/3x08_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/jmpgnrksu89s/3x09_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+"url": "https://filemoon.sx/d/q2yo9c49iek4/3x10_Absentia_m1080p_Cast.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 
