@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
@@ -94,6 +99,104 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/8lKQxYQVq3XxDGY",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/m7WJxg1J4njOBze",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/eL2157KdmXo5rw4",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/QNB7xAW2bZ7O0WG",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/k3gG5q83w4kO1N2",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/qA3WOmMGb1rOKkz",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/e028E6eR3aBxYAv",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://listeamed.net/v/pVa4E8vMPym5kzM",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
