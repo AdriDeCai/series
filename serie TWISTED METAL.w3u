@@ -1,0 +1,34 @@
+{
+"name": "Twisted Metal",
+"image": "https://pics.filmaffinity.com/twisted_metal-121166903-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie%20DARK.",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/twisted_metal-121166903-large.jpg",
+"url": "",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/twisted_metal-121166903-large.jpg",
+"url": "",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
