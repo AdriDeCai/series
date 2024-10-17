@@ -5,12 +5,17 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/8ozgENDLAKn5mjA",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -21,7 +26,7 @@
 {
 "name": "CAPITULO 2",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/VqbX53Bg948OQzp",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -32,7 +37,7 @@
 {
 "name": "CAPITULO 3",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/04rQxWLWPNjEb2N",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -43,7 +48,7 @@
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/ZMVoErb8DZWE9Pa",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -54,7 +59,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/nyg9EKMDkWK5bk4",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -65,7 +70,7 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/ZMVoErb8DWWE9Pa",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -76,7 +81,7 @@
 {
 "name": "CAPITULO 7",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/27BaOna1g9QEMDX",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -87,7 +92,7 @@
 {
 "name": "CAPITULO 8",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/8lKQxYQVMk2xDGY",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -98,7 +103,7 @@
 {
 "name": "CAPITULO 9",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/nyg9EKMDkdj5bk4",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
@@ -109,13 +114,111 @@
 {
 "name": "CAPITULO 10",
 "image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-"url": "",
+"url": "https://listeamed.net/v/PKN4OwWnq3NODLj",
 "info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/6zeREa0DRYrxZPa",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/m7WJxg1JX8nOBze",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/PlBVEZ10480xDv9",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/PlBVEZ1048gxDv9",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/wP20501e46Lxdmy",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/edVqE4lrpb1EYWm",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/qL0YEyzPdkLODRX",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
+"url": "https://listeamed.net/v/e028E6eRboyxYAv",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
