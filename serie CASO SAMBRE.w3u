@@ -1,0 +1,78 @@
+{
+"name": "Caso del Sambre, El",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://filemoon.sx/d/av091k4nfifh/El_caso_del_Sambre_1x01.mp4",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://filemoon.sx/d/i9jzjwb4r2by/El_caso_del_Sambre_1x02.mp4",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://filemoon.sx/d/12alsl9a80gy/El_caso_del_Sambre_1x03.mp4",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://filemoon.sx/d/srxiowbipwba/El_caso_del_Sambre_1x05.mp4",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
+"url": "https://filemoon.sx/d/dzgcrghnlhzd/El_caso_del_Sambre_1x06__Fin_.mp4",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
