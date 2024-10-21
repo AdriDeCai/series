@@ -9,7 +9,7 @@
 
 {
 "name": "TEMPORADA 1",
-"image": "",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 "stations":
 [
 {
@@ -127,7 +127,7 @@
 
 {
 "name": "TEMPORADA 2",
-"image": "",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 "stations":
 [
 {
@@ -245,7 +245,7 @@
 
 {
 "name": "TEMPORADA 3",
-"image": "",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 "stations":
 [
 {
@@ -351,6 +351,102 @@
 "name": "CAPITULO 10",
 "image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 "url": "https://filemoon.sx/d/4sf7fvfciyxc/Solo_Asesinatos_en_el_edificio_3x10.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 4",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/byq8s1xgtjwe/Solo_asesinatos_en_el_edificio_HDTV_720pCap_401wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/5bviyauyq517/Solo_asesinatos_en_el_edificio_HDTV_720pCap_402wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/vxifir5f7qka/Solo_asesinatos_en_el_edificio_HDTV_720pCap_404wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/gun8hc9i2iag/Solo_asesinatos_en_el_edificio_HDTV_720pCap_405wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/xy0f0ebvhs34/Solo_asesinatos_en_el_edificio_HDTV_720pCap_406wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/c5gp8byql9ts/Solo_asesinatos_en_el_edificio_HDTV_720pCap_407wolfmax4k_com.mp4",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
+"url": "https://filemoon.sx/d/o4802xea6xut/Solo_asesinatos_en_el_edificio_HDTV_720pCap_408wolfmax4k_com.mp4",
 "info": "[Español 2021]",
 "embed": "",
 "isHost": "true",
