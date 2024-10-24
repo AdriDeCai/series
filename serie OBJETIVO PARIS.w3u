@@ -1,0 +1,45 @@
+{
+"name": "Objetivo: Paris",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://listeamed.net/v/P0poO1BL8Xd5z17",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://listeamed.net/v/P0poO1BL82d5z17",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://listeamed.net/v/04rQxWLdXgJEb2N",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
