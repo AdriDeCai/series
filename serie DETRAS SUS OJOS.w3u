@@ -1,0 +1,65 @@
+{
+"name": "Detrás De Sus Ojos",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Capitulo 1",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+ 		"url":"https://filemoon.sx/d/gxrmxlp742pz",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Capitulo 2",
+		"info":"",
+		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+		"url":"https://filemoon.sx/d/k92e59cynku7",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 3",
+		"info":"",
+		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+		"url":"https://filemoon.sx/d/kav0lh47f6d8",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 4",
+		"info":"",
+		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+		"url":"https://filemoon.sx/d/bnaj0xpb8vz8",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 5",
+		"info":"",  
+		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+		"url":"https://filemoon.sx/d/mo3de5fzgmvq",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 6",
+		"info":"",  
+		"image":"https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
+		"url":"https://filemoon.sx/d/tlmw13n5ajqn",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
