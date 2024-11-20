@@ -305,6 +305,16 @@
             "isHost": "true",
             "online": "true",
             "userAgent": "PlusMediaPlayer/0.0.9"
+          },
+          {
+            "name": "CAPITULO 9",
+            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+            "url": "",
+            "info": "[Español 2024]",
+            "embed": "",
+            "isHost": "true",
+            "online": "true",
+            "userAgent": "PlusMediaPlayer/0.0.9"
           }
         ]
       }
