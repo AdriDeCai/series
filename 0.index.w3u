@@ -10,7 +10,7 @@
 {
 "name": "CAPITULO 1",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -21,7 +21,7 @@
 {
 "name": "CAPITULO 2",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -32,7 +32,7 @@
 {
 "name": "CAPITULO 3",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -43,7 +43,7 @@
 {
 "name": "CAPITULO 4",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -54,7 +54,7 @@
 {
 "name": "CAPITULO 5",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -65,7 +65,7 @@
 {
 "name": "CAPITULO 6",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -76,7 +76,7 @@
 {
 "name": "CAPITULO 7",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -87,7 +87,7 @@
 {
 "name": "CAPITULO 8",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -98,7 +98,7 @@
 {
 "name": "CAPITULO 9",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -109,7 +109,7 @@
 {
 "name": "CAPITULO 10",
 "image": "",
-"url": "https://",
+"url": "https:",
 "info": "[Español 2017]",
 "embed": "",
 "isHost": "true",
@@ -120,6 +120,3 @@
 
 ]
 }
-
-
-
