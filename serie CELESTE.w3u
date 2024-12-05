@@ -10,7 +10,7 @@
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
-"url": "https://listeamed.net/v/QNB7xAWvYvXO0WG",
+"url": "https://listeamed.net/v/dNjgOlPlKqVO9Wn",
 "info": "[Español 2024]",
 "embed": "",
 "isHost": "true",
@@ -21,7 +21,51 @@
 {
 "name": "CAPITULO 2",
 "image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
-"url": "https://listeamed.net/v/wP20501Q2v3xdmy",
+"url": "https://listeamed.net/v/vQBYEbBRy84En1m",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+"url": "https://listeamed.net/v/4bQVOj3yDkZ5wKm",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+"url": "https://listeamed.net/v/qA3WOmMYDk1OKkz",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+"url": "https://listeamed.net/v/QNB7xAWvYvXO0WG",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+"url": "https://listeamed.net/v/04rQxWLkmepEb2N",
 "info": "[Español 2024]",
 "embed": "",
 "isHost": "true",
@@ -29,6 +73,8 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
 }
+
+
 
 ]
 }
