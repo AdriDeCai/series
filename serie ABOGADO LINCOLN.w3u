@@ -1,247 +1,362 @@
 {
-"name": "Abogado del Lincoln",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://series-af1cionados.vercel.app/serie%20ABOGADO%20LINCOLN.w3u",
-"info": "bY AdriDeCai",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"telegram": "@YIsus_mEx",
-"groups":[
-
-{
-"name": "TEMPORADA 1",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"stations":
-[
-{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/qA3WOmMJvMJOKkz",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 2",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/3Q0lxBbqXb8xj1J",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 3",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/k3gG5q8Lv3BO1N2",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 4",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/qM1VOPe9jVm5o4k",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 5",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/dNjgOlPAa4qO9Wn",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 6",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/vQBYEbBpjBkEn1m",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 7",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/0DogOGWD6WeOKjM",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 8",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/l4vexvgzaDVE8B9",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 9",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/kKJVORNKBNwO3XD",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 10",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/nyg9EKMGyDa5bk4",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-}
-]
-},
-
-{
-"name": "TEMPORADA 2",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"stations":
-[
-{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/mMq75LL6Xbz5XPB",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 2",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/l4vexvgzajAE8B9",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 3",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/KrdZ5kMPmqZEmX4",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 4",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/edVqE4lMG4QEYWm",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 5",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/wP20501ryN3xdmy",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 6",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/VqbX53BpGMqOQzp",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 7",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/QNB7xAW38y0O0WG",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 8",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/qM1VOPe9jb85o4k",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 9",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/MAlwEMWe8ny5J39",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 10",
-"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
-"url": "https://listeamed.net/v/7QWN5eZjrdlx9oR",
-"info": "[Español 2022]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-}
-]
-}
-
-]
+  "name": "Abogado del Lincoln",
+  "image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
+  "url": "https://series-af1cionados.vercel.app/serie%20ABOGADO%20LINCOLN.w3u",
+  "info": "bY AdriDeCai",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "telegram": "@YIsus_mEx",
+  "groups": 
+  [
+    {
+      "name": "TEMPORADA 1",
+      "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+      "stations":
+      [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/qA3WOmMJvMJOKkz",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBbqXb8xj1J",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/k3gG5q8Lv3BO1N2",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/qM1VOPe9jVm5o4k",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/dNjgOlPAa4qO9Wn",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/vQBYEbBpjBkEn1m",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/0DogOGWD6WeOKjM",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/l4vexvgzaDVE8B9",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/kKJVORNKBNwO3XD",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+          "url": "https://listeamed.net/v/nyg9EKMGyDa5bk4",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 2",
+      "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+      "stations": 
+      [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/mMq75LL6Xbz5XPB",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/l4vexvgzajAE8B9",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/KrdZ5kMPmqZEmX4",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/edVqE4lMG4QEYWm",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/wP20501ryN3xdmy",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/VqbX53BpGMqOQzp",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/QNB7xAW38y0O0WG",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/qM1VOPe9jb85o4k",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/MAlwEMWe8ny5J39",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+          "url": "https://listeamed.net/v/7QWN5eZjrdlx9oR",
+          "info": "[Español 2022]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 3",
+      "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+      "stations": 
+      [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/u1pphyrwt3go",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/brgxpalxarc2",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/staujzzayrlc",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/w2dzlqnh0ckj",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/jah3ypdqegm6",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/akb8oh65ipwd",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/kggeuhzl8rpo",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/sm5kvrgv3zmu",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/3vx3jh1kws3c",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+          "url": "https://sandratableother.com/pw1dli1lvbbx",
+          "info": "[Español 2024]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    }
+  ]
 }
