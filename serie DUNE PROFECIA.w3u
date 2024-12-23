@@ -50,6 +50,28 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
+"url": "https://filemoon.to/d/b2vdhplgkfuy/Dune_1x05__1080_.mp4",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
+"url": "",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 
 ]
