@@ -1,0 +1,56 @@
+{
+"name": "Querida Marnie",
+"image": "https://pics.filmaffinity.com/best_interests-184665747-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/best_interests-184665747-large.jpg",
+"url": "https://listeamed.net/v/7QWN5eZ6Y9bx9oR",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/best_interests-184665747-large.jpg",
+"url": "https://listeamed.net/v/ZMVoErb149eE9Pa",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/best_interests-184665747-large.jpg",
+"url": "https://listeamed.net/v/0DogOGWdmX7OKjM",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/best_interests-184665747-large.jpg",
+"url": "https://listeamed.net/v/P0poO1B8X1D5z17",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
