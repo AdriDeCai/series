@@ -1,0 +1,56 @@
+{
+"name": "Palma, La",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/QNB7xAWbbW0O0WG",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/rabVOQDqqD3EKdW",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/Ro7kOVJqqJqOZWB",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/k3gG5q8ww8jO1N2",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
