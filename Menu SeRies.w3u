@@ -7,6 +7,14 @@
 "info": "Lista_AF1CIONADOS",
 "groups": 
 	[
+
+		{
+		"name": "100 años de soledad",
+		"image": "https://pics.filmaffinity.com/cien_anos_de_soledad-606630216-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20100%20AÑOS%20SOLEDAD.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
 		{
 		"name": "1992",
 		"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
