@@ -569,6 +569,13 @@
 		"import": false
 		},
 		{
+		"name": "Cheers",
+		"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20CHEERS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Chernobyl",
 		"image": "https://pics.filmaffinity.com/chernobyl-183665235-mmed.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Chernobyl.w3u",
