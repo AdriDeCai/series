@@ -99,28 +99,6 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
-},
-{
-"name": "CAPITULO 9",
-"image": "https://pics.filmaffinity.com/goosebumps_the_vanishing-939683011-large.jpg",
-"url": "https:",
-"info": "[Español 2023]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "CAPITULO 10",
-"image": "https://pics.filmaffinity.com/goosebumps_the_vanishing-939683011-large.jpg",
-"url": "https:",
-"info": "[Español 2023]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
 }
 ]
 },
