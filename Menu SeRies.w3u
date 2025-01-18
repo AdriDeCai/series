@@ -541,6 +541,13 @@
 		"import": false
 		},
 		{
+		"name": "Caso Asunta, El",
+		"image": "https://pics.filmaffinity.com/El_caso_Asunta_Miniserie_de_TV-555638165-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Caso.Asunta.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
 		"name": "Caso del Sambre, El",
 		"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CASO%20SAMBRE.w3u",
@@ -580,6 +587,20 @@
 		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CELESTE.w3u",
 		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Chacal, El",
+		"image": "https://lumiere-a.akamaihd.net/v1/images/el_chacal_-_now_streaming_-_disney_e7b3430c.png",
+		"url": "https://af1c1onados.vercel.app/Series.El.Chacal.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Chapo, El",
+		"image": "https://i.postimg.cc/wTTspHqf/chapo.png",
+		"url": "https://af1c1onados.vercel.app/Series.El.Chapo.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -982,27 +1003,6 @@
 		"import": false
 		},
 		{
-		"name": "El Caso Asunta",
-		"image": "https://pics.filmaffinity.com/El_caso_Asunta_Miniserie_de_TV-555638165-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Caso.Asunta.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-		{
-		"name": "El Chacal",
-		"image": "https://lumiere-a.akamaihd.net/v1/images/el_chacal_-_now_streaming_-_disney_e7b3430c.png",
-		"url": "https://af1c1onados.vercel.app/Series.El.Chacal.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Chapo",
-		"image": "https://i.postimg.cc/wTTspHqf/chapo.png",
-		"url": "https://af1c1onados.vercel.app/Series.El.Chapo.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
 		"name": "El Encargado",
 		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
 		"info": "bY. Adri",
@@ -1041,20 +1041,6 @@
 		"name": "El Señor De Los Cielos",
 		"image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
 		"url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Simpatizante",
-		"image": "https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Simpatizante.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Suelo Es Lava",
-		"image": "https://images.justwatch.com/poster/189571985/s718/floor-is-lava.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Floor.lava.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -1705,6 +1691,13 @@
 		"image": "https://pics.filmaffinity.com/leverage_redemption-262442111-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://af1cionados.vercel.app/serie LEVERAGE REDEMPTION.w3u",
+		"import": false
+		},
+		{
+		"name": "Ley y Desorden",
+		"image": "https://pics.filmaffinity.com/mercato-754341406-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20LEY%20DESORDEN.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -2694,6 +2687,13 @@
 		"import": false
 		},
 		{
+		"name": "Simpatizante, El",
+		"image": "https://i.postimg.cc/k5r2XhJK/photo-2024-10-23-19-32-46.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Simpatizante.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Simuladores",
 		"url": "https://af1c1onados.vercel.app/Series.Simuladores.w3u",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
@@ -2758,6 +2758,13 @@
 		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Suelo Es Lava, El",
+		"image": "https://images.justwatch.com/poster/189571985/s718/floor-is-lava.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Floor.lava.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
