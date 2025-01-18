@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/severance-173208648-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/severance-173208648-large.jpg",
@@ -105,6 +110,27 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/severance-173208648-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/severance-173208648-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
