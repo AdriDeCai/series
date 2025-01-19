@@ -5,12 +5,17 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "ESPAÑOL",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/04rQxWLbdodEb2N",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
@@ -21,7 +26,7 @@
 {
 "name": "CAPITULO 2",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/m7WJxg1NBljOBze",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
@@ -32,7 +37,7 @@
 {
 "name": "CAPITULO 3",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/KrdZ5kMYPgMEmX4",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
@@ -43,7 +48,7 @@
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/3Q0lxBbKb1Lxj1J",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
@@ -54,7 +59,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/e028E6eXllMxYAv",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
@@ -65,13 +70,89 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
-"url": "https://listeamed.net/v/dNjgOlPkAQKO9Wn",
+"url": "https:",
 "info": "[Español 2025]",
 "embed": "",
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "VERSION ORIGINAL",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/04rQxWLbdodEb2N",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/m7WJxg1NBljOBze",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/KrdZ5kMYPgMEmX4",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/3Q0lxBbKb1Lxj1J",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/e028E6eXllMxYAv",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/american_primeval-436860640-large.jpg",
+"url": "https://listeamed.net/v/dNjgOlPkAQKO9Wn",
+"info": "[Ingles 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
