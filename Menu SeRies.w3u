@@ -1003,13 +1003,6 @@
 		"import": false
 		},
 		{
-		"name": "El Encargado",
-		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-		"info": "bY. Adri",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20ENCARGADO.w3u",
-		"import": false
-		},
-		{
 		"name": "El Mal",
 		"image": "https://pics.filmaffinity.com/El_mal_Evil_Serie_de_TV-874300610-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Mal.w3u",
@@ -1027,27 +1020,6 @@
 		"name": "El Pingüino",
 		"image": "https://images.abandomoviez.net/dbs/foto/dbs_4926_78.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Pinguino.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Rey Del Cachopo",
-		"image": "https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Rey.del.Cachopo.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Señor De Los Cielos",
-		"image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
-		"url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Tatuador de Auschwitz",
-		"image": "https://pics.filmaffinity.com/El_tatuador_de_Auschwitz_Serie_de_TV-197389485-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Tatuador.de.Auschwitz.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -1077,6 +1049,13 @@
 		"image": "https://i.postimg.cc/Kjz3cqgQ/Il-nome-della-Rosa.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.En.Nombre.De.La.Rosa.w3u",
+		"import": false
+		},
+		{
+		"name": "Encargado, El",
+		"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie%20EL%20ENCARGADO.w3u",
 		"import": false
 		},
 		{
@@ -1764,20 +1743,6 @@
 		"import": false
 		},
 		{
-		"name": "Los Ropers",
-		"image": "https://i.postimg.cc/2SpTzkWy/los-ropers.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Los.Ropers.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Los Soprano",
-		"image": "https://i.postimg.cc/pX18n3wx/00.png",
-		"url": "https://af1c1onados.vercel.app/Series.Los.Soprano.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
 		"name": "Lost (Perdidos)",
 		"image": "https://pics.filmaffinity.com/lost-924104956-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20LOST%20PERDIDOS.w3u",
@@ -2132,6 +2097,13 @@
 		"image": "https://pics.filmaffinity.com/el_nudo-204986984-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20COCINERA%20CASTAMAR.w3u",
 		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Nueva Vida, Una",
+		"image": "https://image.tmdb.org/t/p/w500/9eAwXKhkNUgz1HceyYITi0uREGU.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Una.Nueva.Vida.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -2554,6 +2526,13 @@
 		"import": false
 		},
 		{
+		"name": "Rey Del Cachopo, El",
+		"image": "https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Rey.del.Cachopo.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Reyes de la Noche",
 		"image": "https://pics.filmaffinity.com/reyes_de_la_noche-198570836-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie REYES DE LA NOCHE.w3u",
@@ -2565,6 +2544,13 @@
 		"image": "https://pics.filmaffinity.com/ripley-423947230-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie RIPLEY.w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Ropers, Los",
+		"image": "https://i.postimg.cc/2SpTzkWy/los-ropers.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Los.Ropers.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -2656,6 +2642,13 @@
 		"image": "https://pics.filmaffinity.com/suepsandan-997785204-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SEÑOR%20CASA.w3u",
 		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Señor De Los Cielos, El",
+		"image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
+		"url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -2766,6 +2759,13 @@
 		"image": "https://pics.filmaffinity.com/Somos_los_mejores_Una_nueva_era_Serie_de_TV-126321503-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1c1onados.vercel.app/Series.The.Mighty.Ducks.w3u"
+		},
+		{
+		"name": "Soprano, Los",
+		"image": "https://i.postimg.cc/pX18n3wx/00.png",
+		"url": "https://af1c1onados.vercel.app/Series.Los.Soprano.w3u",
+		"info": "bY. yIsus",
+		"import": false
 		},
 		{
 		"name": "Stranger Things",
@@ -2883,6 +2883,13 @@
 		"name": "Stalks",
 		"url": "https://af1c1onados.vercel.app/Series.Stalk.w3u",
 		"image": "https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Tatuador de Auschwitz, El",
+		"image": "https://pics.filmaffinity.com/El_tatuador_de_Auschwitz_Serie_de_TV-197389485-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Tatuador.de.Auschwitz.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -3080,13 +3087,6 @@
 		"image": "https://pics.filmaffinity.com/the_umbrella_academy-794888543-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie UMBRELLA ACADEMY.w3u",
 		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Una Nueva Vida",
-		"image": "https://image.tmdb.org/t/p/w500/9eAwXKhkNUgz1HceyYITi0uREGU.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Una.Nueva.Vida.w3u",
-		"info": "bY. yIsus",
 		"import": false
 		},
 		{
