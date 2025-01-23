@@ -2694,6 +2694,13 @@
 		"import": false
 		},
 		{
+		"name": "Shogun",
+		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
+		"import": false
+		},
+		{
 		"name": "Silo",
 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 		"info": "bY. yIsus",
@@ -2735,6 +2742,13 @@
 		"import": false
 		},
 		{
+		"name": "Snowfall",
+		"image": "https://i.postimg.cc/Prf8KJDM/Snawfall2017.png",
+		"url": "https://af1c1onados.vercel.app/Series.Snowfall.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Snowpiercer (Rompehielos)",
 		"image": "https://pics.filmaffinity.com/snowpiercer-148583846-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SNOWPIERCER.w3u",
@@ -2745,6 +2759,13 @@
 		"name": "Solo asesinatos en el edificio",
 		"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SOLO%20ASESINATOS%20EDIFICIO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Sombra de la tierra, La",
+		"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20SOMBRA%20TIERRA.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
@@ -2765,76 +2786,6 @@
 		"image": "https://i.postimg.cc/pX18n3wx/00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Los.Soprano.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Stranger Things",
-		"image": "https://i.postimg.cc/BvwhrhZG/stranger1-4.png",
-		"url": "https://af1c1onados.vercel.app/Series.Stranger.Things.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Successions",
-		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Suelo Es Lava, El",
-		"image": "https://images.justwatch.com/poster/189571985/s718/floor-is-lava.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Floor.lava.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Suits, La clave del exito",
-		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
-		"info": "bY. aDri",
-		"url": "https://af1cionados.vercel.app/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
-		"import": false
-		},
-		{
-		"name": "Superman y Lois",
-		"image": "https://pics.filmaffinity.com/superman_lois-182949012-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SUPERMANLOIS.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Supernormal",
-		"image": "https://pics.filmaffinity.com/supernormal-423947470-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SUPERNORMAL.w3u",
-		"info": "bY. Adri",
-		"import": false
-		},
-		{
-		"name": "Shogun",
-		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
-		"import": false
-		},
-		{
-		"name": "Sweet Tooth",
-		"image": "https://es.web.img3.acsta.net/pictures/21/06/05/12/31/0254976.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Sweet.Tooth.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Snowfall",
-		"image": "https://i.postimg.cc/Prf8KJDM/Snawfall2017.png",
-		"url": "https://af1c1onados.vercel.app/Series.Snowfall.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Sombra de la tierra, La",
-		"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20SOMBRA%20TIERRA.w3u",
-		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -2884,6 +2835,62 @@
 		"url": "https://af1c1onados.vercel.app/Series.Stalk.w3u",
 		"image": "https://medias.unifrance.org/medias/108/91/285548/format_page/stalk.jpg",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Stranger Things",
+		"image": "https://i.postimg.cc/BvwhrhZG/stranger1-4.png",
+		"url": "https://af1c1onados.vercel.app/Series.Stranger.Things.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Successions",
+		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Suelo Es Lava, El",
+		"image": "https://images.justwatch.com/poster/189571985/s718/floor-is-lava.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Floor.lava.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Suits, La clave del exito",
+		"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
+		"info": "bY. aDri",
+		"url": "https://af1cionados.vercel.app/serie%20SUITS%2C%20LA%20CLAVE%20DEL%20EXITO.w3u",
+		"import": false
+		},
+		{
+		"name": "Superman y Lois",
+		"image": "https://pics.filmaffinity.com/superman_lois-182949012-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SUPERMANLOIS.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Supernormal",
+		"image": "https://pics.filmaffinity.com/supernormal-423947470-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SUPERNORMAL.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Sweet Tooth",
+		"image": "https://es.web.img3.acsta.net/pictures/21/06/05/12/31/0254976.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Sweet.Tooth.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Sweetpea",
+		"image": "https://pics.filmaffinity.com/sweetpea-787588817-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20SWEETPEA.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
