@@ -7,11 +7,13 @@
 "info":"Lista_AF1CIONADOS",
 "groups":
 [
+
 {
 "name": "TEMPORADA 1",
 "image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
 "stations": 
 [
+
 {
 "name": "CAPITULO 1",
 "image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
@@ -130,7 +132,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 13",
@@ -140,7 +142,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 14",
@@ -150,7 +152,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 15",
@@ -160,7 +162,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 16",
@@ -170,7 +172,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 17",
@@ -180,7 +182,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 18",
@@ -190,7 +192,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 19",
@@ -200,7 +202,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 20",
@@ -210,7 +212,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 21",
@@ -220,7 +222,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "CAPITULO 22",
@@ -230,15 +232,18 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 }
+
 ]
 },
+
 {
 "name": "TEMPORADA 2",
 "image":"https://i.postimg.cc/V6QKvg7X/6a00d8341bfb1653ef017742c31751970d.jpg",
 "stations": 
 [
+
 {
 "name": "CAPITULO 1",
 "image":"https://i.postimg.cc/V6QKvg7X/6a00d8341bfb1653ef017742c31751970d.jpg",
@@ -247,8 +252,9 @@
 "embed":"",
 "isHost":"true",
 "online":"",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 }
+
 ]
 }
  		
