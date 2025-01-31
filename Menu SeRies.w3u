@@ -2442,6 +2442,13 @@
 		"import": false
 		},
 		{
+		"name": "Prime Target",
+		"url": "https://af1c1onados.vercel.app/Series.Prime.Target.w3u",
+		"image":"https://pics.filmaffinity.com/prime_target-859091476-large.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Prison Break",
 		"image": "https://i.postimg.cc/HnDhVkqn/0.png",
 		"url": "https://af1c1onados.vercel.app/Series.Prison.Break.w3u",
@@ -2764,6 +2771,13 @@
 		"import": false
 		},
 		{
+		"name": "Sin Mascaras",
+		"url": "https://af1c1onados.vercel.app/Series.Sin.Mascaras.w3u",
+		"image":"https://pics.filmaffinity.com/teurigeo-534437243-large.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Sin Novedad",
 		"image": "https://pics.filmaffinity.com/sin_novedad-671850975-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SIN%20NOVEDAD.w3u",
@@ -2809,6 +2823,13 @@
 		"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SOMBRA%20TIERRA.w3u",
 		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Sombra del Poder (State of Play)",
+		"url": "https://af1c1onados.vercel.app/Series.Sombra.Poder.w3u",
+		"image":"https://pics.filmaffinity.com/state_of_play-918654492-large.jpg",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
