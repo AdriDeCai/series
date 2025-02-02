@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
@@ -43,7 +48,7 @@
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/qM1VOP9e6JB5o4k",
 "info": "[Español 2019]",
 "embed": "",
 "isHost": "true",
@@ -54,7 +59,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/ZMVoErob6kwO9Pa",
 "info": "[Español 2019]",
 "embed": "",
 "isHost": "true",
@@ -65,7 +70,7 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/P0poO1LBz6dEz17",
 "info": "[Español 2019]",
 "embed": "",
 "isHost": "true",
@@ -87,7 +92,7 @@
 {
 "name": "CAPITULO 8",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/edVqE4MlZg1OYWm",
 "info": "[Español 2019]",
 "embed": "",
 "isHost": "true",
@@ -98,7 +103,7 @@
 {
 "name": "CAPITULO 9",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/P0poO1LBzlLEz17",
 "info": "[Español 2019]",
 "embed": "",
 "isHost": "true",
@@ -109,6 +114,58 @@
 {
 "name": "CAPITULO 10",
 "image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"url": "https://listeamed.net/v/4bQVOjJ3wn3OwKm",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"url": "https://listeamed.net/v/njJYOdZdpnbxe9o",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"url": "https://listeamed.net/v/MAlwEMeWAG4EJ39",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 13",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"url": "https://listeamed.net/v/QNB7xA3WgJAO0WG",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
 "url": "https:",
 "info": "[Español 2019]",
 "embed": "",
@@ -116,6 +173,27 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
+"url": "https:",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
