@@ -160,30 +160,6 @@
           "isHost": "true",
           "online": "true",
           "import": false
-        },
-        {
-          "name": "CAPITULO 7",
-          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
-          "url": "https:",
-          "info": "[Español 2017]",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 8",
-          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
-          "url": "https:",
-          "info": "[Español 2017]",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
         }
       ]
     }
