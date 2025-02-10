@@ -84,6 +84,7 @@
         }
       ]
     },
+
     {
       "name": "TEMPORADA 2",
       "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
@@ -91,7 +92,7 @@
         {
           "name": "CAPITULO 1",
           "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
-          "url": "https:",
+          "url": "https://listeamed.net/v/P0poO1LmPKpEz17",
           "info": "[Español 2022]",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "referer": "",
@@ -101,32 +102,80 @@
           "import": false
         },
         {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https://listeamed.net/v/4bQVOjJRrywOwKm",
+          "info": "[Español 2022]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https://listeamed.net/v/mMq75L6Dba8EXPB",
+          "info": "[Español 2017]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https://listeamed.net/v/edVqE4M94KROYWm",
+          "info": "[Español 2017]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https://listeamed.net/v/vQBYEbpKeMJ5n1m",
+          "info": "[Español 2022]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https://listeamed.net/v/qM1VOP9nbwM5o4k",
+          "info": "[Español 2022]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
+          "url": "https:",
+          "info": "[Español 2017]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
           "name": "CAPITULO 8",
-          "image": "",
-          "url": "https:",
-          "info": "[Español 2017]",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 9",
-          "image": "",
-          "url": "https:",
-          "info": "[Español 2017]",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 10",
-          "image": "",
+          "image": "https://pics.filmaffinity.com/sas_rogue_heroes-556626650-large.jpg",
           "url": "https:",
           "info": "[Español 2017]",
           "userAgent": "PlusMediaPlayer/0.0.9",
