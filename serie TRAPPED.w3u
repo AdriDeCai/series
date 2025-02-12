@@ -14,7 +14,7 @@
 "info": "[Español 2015]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -22,13 +22,13 @@
 {
 "name": "CAPITULO 2",
 "image": "https://pics.filmaffinity.com/ofaerd-593752669-large.jpg",
-"url": "https:",
+"url": "https://powstreem.info/qbvbuv5ysc27",
 "info": "[Español 2015]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
-"online": "true",
+"online": "",
 "import": false
 },
 {
@@ -38,15 +38,15 @@
 "info": "[Español 2015]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
-"embed": "",
-"isHost": "true",
+"embed": "true",
+"isHost": "",
 "online": "true",
 "import": false
 },
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/ofaerd-593752669-large.jpg",
-"url": "https:",
+"url": "https://powstreem.info/qbvbuv5ysc27",
 "info": "[Español 2015]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
