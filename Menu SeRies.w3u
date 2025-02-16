@@ -3121,16 +3121,16 @@
 		"import": false
 		},
 		{
-		"name": "Those about to die",
-		"image": "https://pics.filmaffinity.com/those_about_to_die-770885934-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie THOSE ABOUT TO DIE.w3u",
+		"name": "Tiempo que te doy, El",
+		"image": "https://pics.filmaffinity.com/el_tiempo_que_te_doy-272208550-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20TIEMPO%20QUE%20TE%20DOY.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
-		"name": "Tiempo que te doy, El",
-		"image": "https://pics.filmaffinity.com/el_tiempo_que_te_doy-272208550-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20TIEMPO%20QUE%20TE%20DOY.w3u",
+		"name": "Tiempo entre Costuras",
+		"image": "https://pics.filmaffinity.com/el_tiempo_entre_costuras-341395574-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20TIEMPO%20ENTRE%20COSTURAS.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
@@ -3153,6 +3153,20 @@
 		"image": "https://i.postimg.cc/RFNhLmFZ/tokio-sezon-1.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Tokyo.Vice.w3u",
+		"import": false
+		},
+		{
+		"name": "Tulsa King",
+		"image": "https://i.postimg.cc/jSLzjSG5/Tulsa-King-Season00.png",
+		"url": "https://af1c1onados.vercel.app/Series.Tulsa.King.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "The Agency",
+		"image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.The.Agency.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -3198,17 +3212,10 @@
 		"import": false
 		},
 		{
-		"name": "Tiempo entre Costuras",
-		"image": "https://pics.filmaffinity.com/el_tiempo_entre_costuras-341395574-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20TIEMPO%20ENTRE%20COSTURAS.w3u",
+		"name": "Those about to die",
+		"image": "https://pics.filmaffinity.com/those_about_to_die-770885934-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie THOSE ABOUT TO DIE.w3u",
 		"info": "bY AdriDeCai",
-		"import": false
-		},
-		{
-		"name": "TWD Daryl Dixon",
-		"image": "https://i.postimg.cc/Pr0n6vNX/dixon.png",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.TWD.Daryl.Dixon.w3u",
 		"import": false
 		},
 		{
@@ -3216,27 +3223,6 @@
 		"image": "https://pics.filmaffinity.com/ofaerd-593752669-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20TRAPPED.w3u",
 		"info": "bY AdriDeCai",
-		"import": false
-		},
-		{
-		"name": "TWD Dead City",
-		"image": "https://i.postimg.cc/HsqX2cG7/The-Walking-Dead-Dead-City.png",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.TWD.Dead.City.w3u",
-		"import": false
-		},
-		{
-		"name": "TWD The Ones Who Live",
-		"image": "https://i.postimg.cc/2jgxnWqP/MV5-BYjc3-YWM3-Mjct-ZDAz-Ny00-OWY4-LTkw-Nj-Mt-MWM2-YTg1-ZWRl-MDAw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY3-MDE5-MDY1-V1.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.TWD.The.Ones.Who.Live.w3u",
-		"import": false
-		},
-		{
-		"name": "Tulsa King",
-		"image": "https://i.postimg.cc/jSLzjSG5/Tulsa-King-Season00.png",
-		"url": "https://af1c1onados.vercel.app/Series.Tulsa.King.w3u",
-		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -3258,6 +3244,27 @@
 		"image": "https://i.postimg.cc/yYGGSyZ9/truedetective.png",
 		"url": "https://af1c1onados.vercel.app/Series.True.Detective.w3u",
 		"info": "bY. Falken",
+		"import": false
+		},
+		{
+		"name": "TWD Dead City",
+		"image": "https://i.postimg.cc/HsqX2cG7/The-Walking-Dead-Dead-City.png",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.TWD.Dead.City.w3u",
+		"import": false
+		},
+		{
+		"name": "TWD Daryl Dixon",
+		"image": "https://i.postimg.cc/Pr0n6vNX/dixon.png",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.TWD.Daryl.Dixon.w3u",
+		"import": false
+		},
+		{
+		"name": "TWD The Ones Who Live",
+		"image": "https://i.postimg.cc/2jgxnWqP/MV5-BYjc3-YWM3-Mjct-ZDAz-Ny00-OWY4-LTkw-Nj-Mt-MWM2-YTg1-ZWRl-MDAw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY3-MDE5-MDY1-V1.jpg",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.TWD.The.Ones.Who.Live.w3u",
 		"import": false
 		},
 		{
