@@ -1711,10 +1711,10 @@
 		"import": false
 		},
 		{
-		"name": "Last Light",
-		"image": "https://pics.filmaffinity.com/last_light-102263673-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LAST%20LIGHT.w3u",
-		"info": "bY AdriDeCai",
+		"name": "La Linea Invisible",
+		"image": "https://pics.filmaffinity.com/La_lainea_invisible_Miniserie_de_TV-149776123-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.La.Linea.Invisible.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -1750,6 +1750,13 @@
 		"image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.The.Last.Of.Us.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Last Light",
+		"image": "https://pics.filmaffinity.com/last_light-102263673-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LAST%20LIGHT.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
