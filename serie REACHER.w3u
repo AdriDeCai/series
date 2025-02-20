@@ -197,6 +197,47 @@
 "import": false
 }
 ]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https:",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https:",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https:",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
