@@ -1,0 +1,1528 @@
+
+{
+"name": "SUITS, LA CLAVE DEL ÉXITO",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"image": "https://i.postimg.cc/nhD4bkXt/SUITS-LA-CLAVE-DEL-EXITO.png",
+"telegram": "@AdriDeCai",
+"info": "",
+"groups":
+	[
+        	{
+        	"name": "TEMPORADA 1",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Piloto",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://filemoon.sx/d/4gbf6syidh7q/SUITS_1X01.avi",
+        	"info":"[1x01]",
+		"referer" : "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Errores y omisiones",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://filemoon.sx/d/2yj3382m2kz4/SUITS_1X02.avi",
+        	"info":"[1x02]",
+		"referer" : "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Tras la pista",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://filemoon.sx/d/kjd5j4p8m743/SUITS_1X03.avi",
+        	"info":"[1x03]",
+		"referer" : "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Secretitos atrevidos",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283148.m3u8",
+        	"info":"[1x04][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Sin fianza",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283149.m3u8",
+        	"info":"[1x05][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Secretos del oficio",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283150.m3u8",
+        	"info":"[1x06][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Juego de hombres",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283151.m3u8",
+        	"info":"[1x07][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Crisis de identidad",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283152.m3u8",
+        	"info":"[1x08][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Invicto",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283153.m3u8",
+        	"info":"[1x09][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La vida útil",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283154.m3u8",
+        	"info":"[1x10][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Reglas del juego",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283155.m3u8",
+        	"info":"[1x11][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Pelea de perros",
+        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283156.m3u8",
+        	"info":"[1x12][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+		},
+
+        	{
+        	"name": "TEMPORADA 2",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Lo sabe",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283157.m3u8",
+        	"info":"[2x01][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La elección",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283158.m3u8",
+        	"info":"[2x02][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Ha llegado el nuevo jefe",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283159.m3u8",
+        	"info":"[2x03][MultiAudio]",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "El descubrimiento",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283160.m3u8",
+        	"info":"[2x04][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Punto de break",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283161.m3u8",
+        	"info":"[2x05][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Jugárselo todo",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283162.m3u8",
+        	"info":"[2x06][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Golpe bajo",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283163.m3u8",
+        	"info":"[2x07][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Rebobinar",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283164.m3u8",
+        	"info":"[2x08][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Asterisco",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283165.m3u8",
+		"info":"[2x09][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Solo ante el peligro",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283166.m3u8",
+		"info":"[2x10][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Ángulo muerto",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283167.m3u8",
+        	"info":"[2x11][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La sangre llega al río",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283168.m3u8",
+        	"info":"[2x12][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Zane vs Zane",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283169.m3u8",
+        	"info":"[2x13][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Ha vuelto",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283170.m3u8",
+        	"info":"[2x14][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Normandía",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283171.m3u8",
+        	"info":"[2x15][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Guerra",
+        	"image": "https://i.postimg.cc/h4NwMvmZ/Temporada-2-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70283172.m3u8",
+        	"info":"[2x16][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 3",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "El acuerdo",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291038.m3u8",
+        	"info":"[3x01][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Quiero que me quieras",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291039.m3u8",
+        	"info":"[3x02][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Asuntos pendientes",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291040.m3u8",
+        	"info":"[3x03][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Conflicto de intereses",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291041.m3u8",
+        	"info":"[3x04][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Una sombra de duda",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291042.m3u8",
+        	"info":"[3x05][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La otra vez",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291043.m3u8",
+        	"info":"[3x06][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Es mía",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291044.m3u8",
+        	"info":"[3x07][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Fin del partido",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291045.m3u8",
+        	"info":"[3x08][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Mala fe",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291046.m3u8",
+        	"info":"[3x09][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Quédate",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291047.m3u8",
+        	"info":"[3x10][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Secretos enterrados",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291048.m3u8",
+        	"info":"[3x11][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "El ayer se ha ido",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291049.m3u8",
+        	"info":"[3x12][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Punto sin retorno",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291050.m3u8",
+        	"info":"[3x13][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Infarto",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291051.m3u8",
+        	"info":"[3x14][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Saber cuando retirarse",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291052.m3u8",
+        	"info":"[3x15][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Sin salida",
+        	"image": "https://i.postimg.cc/FzJJZDSR/Temporada-3-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/70291053.m3u8",
+        	"info":"[3x16][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 4",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Uno-Dos-Tres vamos...",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011594.m3u8",
+        	"info":"[4x01][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Desayuno, comida y cena",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011595.m3u8",
+        	"info":"[4x02][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Dos en las rodillas",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011596.m3u8",
+        	"info":"[4x03][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Apalancado",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011597.m3u8",
+        	"info":"[4x04][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Libra de carne",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011598.m3u8",
+        	"info":"[4x05][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Litt the Hell Up",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011599.m3u8",
+        	"info":"[4x06][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Hemos terminado",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011800.m3u8",
+        	"info":"[4x07][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Exposición",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011801.m3u8",
+        	"info":"[4x08][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Se ha ido",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011802.m3u8",
+        	"info":"[4x09][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Esto es Roma",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011803.m3u8",
+        	"info":"[4x10][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Enough Is Enough",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011804.m3u8",
+        	"info":"[4x11][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Respect",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011805.m3u8",
+        	"info":"[4x12][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Fork in the Road",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011806.m3u8",
+        	"info":"[4x13][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Derailed",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011807.m3u8",
+        	"info":"[4x14][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Intent",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011808.m3u8",
+        	"info":"[4x15][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Not Just a Pretty Face",
+        	"image": "https://i.postimg.cc/Wb8J7FF0/Temporada-4-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011809.m3u8",
+        	"info":"[4x16][MultiAudio]",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 5",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Denial",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011811.m3u8",
+        	"info":"5x01",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Compensation",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011812.m3u8",
+        	"info":"5x02",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "No Refills",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011813.m3u8",
+        	"info":"5x03",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "No Puedo Hacerlo",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011814.m3u8",
+        	"info":"5x04",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Toe to Toe",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011815.m3u8",
+        	"info":"5x05",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Privilege",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011816.m3u8",
+        	"info":"5x06",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Hitting Home",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011817.m3u8",
+        	"info":"5x07",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Mea Culpa",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011818.m3u8",
+        	"info":"5x08",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Uninvited Guests",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011819.m3u8",
+        	"info":"5x09",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Faith",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011820.m3u8",
+        	"info":"5x10",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Blowback",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011821.m3u8",
+        	"info":"5x11",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Live to Fight",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011822.m3u8",
+        	"info":"5x12",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "God's Green Earth",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011823.m3u8",
+        	"info":"5x13",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Self-Defence",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011824.m3u8",
+        	"info":"5x14",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Tick Tock",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011825.m3u8",
+        	"info":"5x15",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "25th Hour",
+        	"image": "https://i.postimg.cc/mk2TZDLG/Temporada-5-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80011826.m3u8",
+        	"info":"5x16",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 6",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "To Trouble",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078123.m3u8",
+        	"info":"6x01",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Accounts Payable",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078124.m3u8",
+        	"info":"6x02",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Back on the Map",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078125.m3u8",
+        	"info":"6x03",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Turn",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078126.m3u8",
+        	"info":"6x04",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Trust",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078127.m3u8",
+        	"info":"6x05",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Spain",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078128.m3u8",
+        	"info":"6x06",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Shake the Trees",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078129.m3u8",
+        	"info":"6x07",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Borrowed Time",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078130.m3u8",
+        	"info":"6x08",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "The Hand That Feeds You",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078131.m3u8",
+        	"info":"6x09",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "P.S.L.",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078132.m3u8",
+        	"info":"6x10",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "She's Gone",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078133.m3u8",
+        	"info":"6x11",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "The Painting",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078134.m3u8",
+        	"info":"6x12",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Teeth, Nose, Teeth",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078135.m3u8",
+        	"info":"6x13",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Admission of Guilt",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078136.m3u8",
+        	"info":"6x14",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Quid Pro Quo",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078137.m3u8",
+        	"info":"6x15",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Character and Fitness",
+        	"image": "https://i.postimg.cc/VN8QL6gH/Temporada-6-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80078138.m3u8",
+        	"info":"6x16",
+		"referer" : "referer=https://iosmirror.cc/",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"embed":"",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+       		{
+        	"name": "TEMPORADA 7",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+         	"info":"",
+		"stations": 
+		[
+       		{
+        	"name": "Carne en el asador",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084840.m3u8",
+        	"info":"7x01",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La estatua",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084841.m3u8",
+        	"info":"7x02",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Pesadilla de barro",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084842.m3u8",
+        	"info":"7x03",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Dividir y vencer",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084843.m3u8",
+        	"info":"7x04",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Viviendas en Brooklyn",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084844.m3u8",
+        	"info":"7x05",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "El pasado no perdona",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084845.m3u8",
+        	"info":"7x06",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Absoluta transparencia",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084846.m3u8",
+        	"info":"7x07",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "100",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084847.m3u8",
+        	"info":"7x08",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Vergüenza",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084848.m3u8",
+        	"info":"7x09",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Donna",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084849.m3u8",
+        	"info":"7x10",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "La dura verdad",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084850.m3u8",
+        	"info":"7x11",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Mal hombre",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084851.m3u8",
+        	"info":"7x12",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Inevitable",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084852.m3u8",
+        	"info":"7x13",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Tirando del portero",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084853.m3u8",
+        	"info":"7x14",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Tiny Violin",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084854.m3u8",
+        	"info":"7x15",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Goodbye",
+        	"image": "https://i.postimg.cc/mDP0mHgk/Temporada-7-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/80084855.m3u8",
+        	"info":"7x16",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 8",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Right-Hand Man",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006447.m3u8",
+        	"info":"8x01",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Pecking Order",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006448.m3u8",
+        	"info":"8x02",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Promises, Promises",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006449.m3u8",
+        	"info":"8x03",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Revenue Per Square Foot",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006450.m3u8",
+        	"info":"8x04",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Good Mudding",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006451.m3u8",
+        	"info":"8x05",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Cats, Ballet, Harvey Specter",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006452.m3u8",
+        	"info":"8x06",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Sour Grapes",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006453.m3u8",
+        	"info":"8x07",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Coral Gables",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006454.m3u8",
+        	"info":"8x08",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Motion to Delay",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006455.m3u8",
+        	"info":"8x09",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Managing Partner",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006456.m3u8",
+        	"info":"8x10",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Rocky 8",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006457.m3u8",
+        	"info":"8x11",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Whale Hunt",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006458.m3u8",
+        	"info":"8x12",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "The Greater Good",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006459.m3u8",
+        	"info":"8x13",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Peas in a Pod",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006460.m3u8",
+        	"info":"8x14",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Stalking Horse",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006461.m3u8",
+        	"info":"8x15",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Harvey",
+        	"image": "https://i.postimg.cc/15BJNzyj/Temporada-8-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81006462.m3u8",
+        	"info":"8x16",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	},
+
+        	{
+        	"name": "TEMPORADA 9",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"info":"",
+		"stations": 
+		[
+        	{
+        	"name": "Everything's Changed",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143875.m3u8",
+        	"info":"9x01",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Special Master",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143876.m3u8",
+        	"info":"9x02",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Windmills",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143877.m3u8",
+        	"info":"9x03",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Cairo",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143878.m3u8",
+        	"info":"9x04",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "If the Shoe Fits",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143879.m3u8",
+        	"info":"9x05",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Whatever It Takes",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143880.m3u8",
+        	"info":"9x06",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Scenic Route",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143881.m3u8",
+        	"info":"9x07",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Prisoner's Dilemma",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143882.m3u8",
+        	"info":"9x08",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "Thunder Away",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143883.m3u8",
+        	"info":"9x09",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "One Last Con",
+        	"image": "https://i.postimg.cc/4Npn8KYW/Temporada-9-Suits.jpg",
+        	"url": "https://iosmirror.cc/hls/81143884.m3u8",
+        	"info":"9x10",
+        	"referer" : "referer=https://iosmirror.cc/",
+        	"isHost":"",
+        	"online":"true",
+        	"import": false
+        	}
+		]
+        	}
+	]
+}
+
