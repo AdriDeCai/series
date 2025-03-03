@@ -22,7 +22,7 @@
 		"referer" : "",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"embed":"",
-        	"isHost":"",
+        	"isHost":"true",
         	"online":"true",
         	"import": false
         	},
@@ -34,7 +34,7 @@
 		"referer" : "",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"embed":"",
-        	"isHost":"",
+        	"isHost":"true",
         	"online":"true",
         	"import": false
         	},
@@ -46,7 +46,7 @@
 		"referer" : "",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"embed":"",
-        	"isHost":"",
+        	"isHost":"true",
         	"online":"true",
         	"import": false
         	},
