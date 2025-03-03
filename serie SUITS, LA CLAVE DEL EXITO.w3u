@@ -51,16 +51,16 @@
         	"import": false
         	},
         	{
-        	"name": "Secretitos atrevidos",
-        	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
-        	"url": "https://iosmirror.cc/hls/70283148.m3u8",
-        	"info":"[1x04][MultiAudio]",
-		"referer" : "referer=https://iosmirror.cc/",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"embed":"",
-        	"isHost":"",
-        	"online":"true",
-        	"import": false
+          	"name": "Secretitos atrevidos",
+          	"image": "https://i.postimg.cc/T3zj3VTV/Temporada-1-Suits.jpg",
+          	"url": "https://s24.nm-cdn3.top/files/70283148/720p/720p.m3u8?in=1e243ebc8e2c568834995145d32c9438::933695f8b5e57b0d855946ff8e3b4ba7::1741016760::se",
+          	"info": "[1x04][MultiAudio]",
+          	"referer": "https://netfree.cc/",
+          	"userAgent": "PlusMediaPlayer/0.0.9",
+          	"embed": "",
+          	"isHost": "",
+          	"online": "true",
+          	"import": false
         	},
         	{
         	"name": "Sin fianza",
