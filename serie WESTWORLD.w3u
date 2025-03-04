@@ -1,381 +1,362 @@
 {
-"name": "WESTWORLD",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://series-af1cionados.vercel.app/serie%20WESTWORLD.w3u",
-"image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
-"telegram": "@AdriDeCai",
-"info": "",
-"groups":
-	[
-
-	{
-        "name": "TEMPORADA 1",
-        "info":"2016",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-	"stations":
-	[
-
-	{
-        "name": "El original",
-        "info":"1x01",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/1yjfjeungf3m/1x01_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Castaña",
-        "info":"1x02",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/vno4xuou9lxj/1x02_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "El parásito",
-        "info":"1x03",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/0o4g3sw30s7i/1x03_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "La teoría de la disonancia ",
-        "info":"1x04",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/ey8iygghegbk/1x04_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Contrapasso",
-        "info":"1x05",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/yb2vfp8uvpsx/1x05_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "El adversario",
-        "info":"1x06",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/vf9f43z33xdf/1x06_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Trompe L'Oeil ",
-        "info":"1x07",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/2gpasv2auruq/1x07_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Trace Decay ",
-        "info":"1x08",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/4xfbyofzgmth/1x08_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "The Well-Tempered Clavier",
-        "info":"1x09",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/ivn9u2t26tx7/1x09_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "La mente bicameral",
-        "info":"1x10",
-        "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
-        "url":"https://filemoon.to/d/t6r9f2t6cbh2/1x10_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	}
-
-	]
-	},
-
-	{
-        "name": "TEMPORADA 2",
-        "info":"",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-	"stations":
-	[
-
-	{
-        "name": "Viaje a la noche",
-        "info":"2x01",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/fk0xccxzf47p/2x01_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Reunión",
-        "info":"2x02",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/6spyii8oifg4/2x02_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Virtù e Fortuna",
-        "info":"2x03",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/trrg5bbl72m9/2x03_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "The Riddle of the Sphinx",
-        "info":"2x04",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/yv6kkdh95gxh/2x04_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Akane No Mai",
-        "info":"2x05",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/416aua8l1rdq/2x05_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Espacio Fásico",
-        "info":"2x06",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/dj3twy1slnnc/2x06_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Les Écorchés",
-        "info":"2x07",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/d8lbdlsx2eu5/2x07_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Kiksuya",
-        "info":"2x08",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/5okwyxtrdnd2/2x08_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Punto de desvanecimiento",
-        "info":"2x09",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/lc9hmcglg2ic/2x09_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "El Pasajero",
-        "info":"2x10",
-        "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
-        "url":"https://filemoon.to/d/hovvd4obux0z/2x10_-_Westworld__x265_.mkv",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	}
-
-	]
-	},
-
-	{
-        "name": "TEMPORADA 3",
-        "info":"",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-	"stations":
-	[
-
-	{
-        "name": "Parce Domine ",
-        "info":"3x01",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/ao9rxoJDVYL5yGe",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "The Winter Line ",
-        "info":"3x02",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/PKN4OwzDgBNEDLj",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "The Absence of Field ",
-        "info":"3x03",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/0DogOGD1g1M5KjM",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "The Mother of Exiles ",
-        "info":"3x04",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/PlBVEZkMzWGODv9",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Genre ",
-        "info":"3x05",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/YWA8E94pyoqxGmM",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Decoherence",
-        "info":"3x06",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/NMRLEpWDlKJxXaG",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Passed Pawn ",
-        "info":"3x07",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/ao9rxoJDVKQ5yGe",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Crisis Theory ",
-        "info":"3x08",
-        "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
-        "url":"https://listeamed.net/v/qL0YEywWlrd5DRX",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	}
-
-	]
-	},
-
-	{
-        "name": "TEMPORADA 4",
-        "info":"",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-	"stations":
-	[
-
-	{
-        "name": "The Auguries ",
-        "info":"4x01",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/3Q0lxBq2gPw5j1J",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Well Enough Alone",
-        "info":"4x02",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/3Q0lxBq2g3m5j1J",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Annees Folles",
-        "info":"4x03",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/g9Vd5J63g9A5qQj",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Generation Loss ",
-        "info":"4x04",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/NMRLEpWDlalxXaG",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Zhuangzi ",
-        "info":"4x05",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/PlBVEZkMzZgODv9",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Fidelity ",
-        "info":"4x06",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/k3gG5qLDYXdO1N2",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Metanoia ",
-        "info":"4x07",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/LQm9OXZPzlpx1lg",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	},
-	{
-        "name": "Que Será, Será ",
-        "info":"4x08",
-        "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
-        "url":"https://listeamed.net/v/PlBVEZkMzd0ODv9",
-	"embed":"",
-        "isHost":"true",
-        "online":"true" 
-	}
-
-	]
-	}
-
-
-	]
+  "name": "WESTWORLD",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://series-af1cionados.vercel.app/serie%20WESTWORLD.w3u",
+  "image": "https://pics.filmaffinity.com/westworld-449705051-large.jpg",
+  "telegram": "@AdriDeCai",
+  "info": "",
+  "groups": [
+    {
+      "name": "TEMPORADA 1",
+      "info": "2016",
+      "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+      "stations": [
+        {
+          "name": "El original",
+          "info": "1x01",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/1yjfjeungf3m/1x01_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Castaña",
+          "info": "1x02",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/vno4xuou9lxj/1x02_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "El parásito",
+          "info": "1x03",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/0o4g3sw30s7i/1x03_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "La teoría de la disonancia ",
+          "info": "1x04",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/ey8iygghegbk/1x04_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Contrapasso",
+          "info": "1x05",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/yb2vfp8uvpsx/1x05_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "El adversario",
+          "info": "1x06",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/vf9f43z33xdf/1x06_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Trompe L'Oeil ",
+          "info": "1x07",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/2gpasv2auruq/1x07_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Trace Decay ",
+          "info": "1x08",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/4xfbyofzgmth/1x08_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "The Well-Tempered Clavier",
+          "info": "1x09",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/ivn9u2t26tx7/1x09_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "La mente bicameral",
+          "info": "1x10",
+          "image": "https://i.postimg.cc/Sx5pb4vN/612-Fzhg6-GQL-AC-SL1500.jpg",
+          "url": "https://filemoon.to/d/t6r9f2t6cbh2/1x10_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 2",
+      "info": "",
+      "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+      "stations": [
+        {
+          "name": "Viaje a la noche",
+          "info": "2x01",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/fk0xccxzf47p/2x01_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Reunión",
+          "info": "2x02",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/6spyii8oifg4/2x02_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Virtù e Fortuna",
+          "info": "2x03",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/trrg5bbl72m9/2x03_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "The Riddle of the Sphinx",
+          "info": "2x04",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/yv6kkdh95gxh/2x04_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Akane No Mai",
+          "info": "2x05",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/416aua8l1rdq/2x05_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Espacio Fásico",
+          "info": "2x06",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/dj3twy1slnnc/2x06_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Les Écorchés",
+          "info": "2x07",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/d8lbdlsx2eu5/2x07_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Kiksuya",
+          "info": "2x08",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/5okwyxtrdnd2/2x08_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Punto de desvanecimiento",
+          "info": "2x09",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/lc9hmcglg2ic/2x09_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "El Pasajero",
+          "info": "2x10",
+          "image": "https://i.postimg.cc/T3GzbXkC/WESTWORLD-TEMPORADA-2.jpg",
+          "url": "https://filemoon.to/d/hovvd4obux0z/2x10_-_Westworld__x265_.mkv",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 3",
+      "info": "",
+      "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+      "stations": [
+        {
+          "name": "Parce Domine ",
+          "info": "3x01",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/ao9rxoJDVYL5yGe",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "The Winter Line ",
+          "info": "3x02",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/PKN4OwzDgBNEDLj",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "The Absence of Field ",
+          "info": "3x03",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/0DogOGD1g1M5KjM",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "The Mother of Exiles ",
+          "info": "3x04",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/PlBVEZkMzWGODv9",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Genre ",
+          "info": "3x05",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/YWA8E94pyoqxGmM",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Decoherence",
+          "info": "3x06",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/NMRLEpWDlKJxXaG",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Passed Pawn ",
+          "info": "3x07",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/ao9rxoJDVKQ5yGe",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Crisis Theory ",
+          "info": "3x08",
+          "image": "https://i.postimg.cc/QCLwSLq4/WESTWORLD-TEMPORADA-3.jpg",
+          "url": "https://listeamed.net/v/qL0YEywWlrd5DRX",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 4",
+      "info": "",
+      "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+      "stations": [
+        {
+          "name": "The Auguries ",
+          "info": "4x01",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBq2gPw5j1J",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Well Enough Alone",
+          "info": "4x02",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBq2g3m5j1J",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Annees Folles",
+          "info": "4x03",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/g9Vd5J63g9A5qQj",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Generation Loss ",
+          "info": "4x04",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/NMRLEpWDlalxXaG",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Zhuangzi ",
+          "info": "4x05",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/PlBVEZkMzZgODv9",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Fidelity ",
+          "info": "4x06",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/k3gG5qLDYXdO1N2",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Metanoia ",
+          "info": "4x07",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/LQm9OXZPzlpx1lg",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Que Será, Será ",
+          "info": "4x08",
+          "image": "https://i.postimg.cc/1z1SRY2Z/WESTWORLD-TEMPORADA-4.jpg",
+          "url": "https://listeamed.net/v/PlBVEZkMzd0ODv9",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
 }
