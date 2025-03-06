@@ -1,0 +1,85 @@
+
+{
+"name": "Solo una mirada",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/xgq86zowu9t1/Solo_una_mirada_S01E01_Episodio_1.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/yjlbx2ye0r28/Solo_una_mirada_S01E02_Episodio_2.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/5oyzjm52ydfr/Solo_una_mirada_S01E03_Episodio_3.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/d7zjszuqdq49/Solo_una_mirada_S01E04_Episodio_4.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/9tsjow0gk83l/Solo_una_mirada_S01E05_Episodio_5.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+"url": "https://filemoon.to/d/i942zjjm62f3/Solo_una_mirada_S01E06_Episodio_6.mp4",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+}
