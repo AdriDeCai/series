@@ -1408,6 +1408,13 @@
 		"import": false
 		},
 		{
+		"name": "Gatopardo",
+		"image": "https://pics.filmaffinity.com/il_gattopardo-672124098-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20GATOPARDO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Generation",
 		"image": "https://pics.filmaffinity.com/genera_ion-734980897-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie GENERATION.w3u",
@@ -2056,6 +2063,13 @@
 		"name": "Mayor of Kingstown",
 		"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MAYOR%20OF%20KINGSTOWN.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Medusa",
+		"image": "https://pics.filmaffinity.com/medusa-465066850-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20MEDUSA.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
@@ -3026,6 +3040,13 @@
 		"name": "Solo asesinatos en el edificio",
 		"image": "https://pics.filmaffinity.com/only_murders_in_the_building-579746694-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SOLO%20ASESINATOS%20EDIFICIO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Solo una mirada",
+		"image": "https://pics.filmaffinity.com/juste_un_regard_just_one_look-872413914-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20SOLO%20UNA%20MIRADA.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
