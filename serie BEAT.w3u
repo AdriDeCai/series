@@ -1,0 +1,97 @@
+
+{
+"name": "",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/2fj1os8kj79v/BEAT_S01E01_BEAT.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/n1i1jl762mh3/BEAT_S01E02_POP.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/gp1mgb2lunmj/BEAT_S01E03_BPM.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/oyeozplhzyg0/BEAT_S01E04_LOOP.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/3gxvvepm70gq/BEAT_S01E05_BACKSPIN.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/o6blkkkdw7dz/BEAT_S01E06_DROP.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
+"url": "https://filemoon.to/d/3exwkl7ls2c4/BEAT_S01E07_CODA.mkv",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+}
