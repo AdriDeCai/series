@@ -236,6 +236,28 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://filemoon.to/d/3c141vw0r2cj/Reacher_S03E04.mp4",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
+"url": "https://filemoon.to/d/fpywfvt1k2mb/Reacher_S03E05_Combate_1080p_AMZN_WEB_DDP5_264_mkv.mp4",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 ]
 }
