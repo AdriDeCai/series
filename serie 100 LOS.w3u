@@ -251,6 +251,46 @@
 "import": false
 }
 ]
+},
+
+{
+"name": "TEMPORADA 6",
+"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
+"url": "",
+"info": "[Español 2014]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 7",
+"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
+"url": "",
+"info": "[Español 2014]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
 }
 
 ]
