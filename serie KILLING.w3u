@@ -6,8 +6,14 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":
+[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
@@ -163,6 +169,68 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"url": "",
+"info": "[Español 2011]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"url": "",
+"info": "[Español 2011]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 4",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_killing-459966267-large.jpg",
+"url": "",
+"info": "[Español 2011]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
 }
 
 ]
