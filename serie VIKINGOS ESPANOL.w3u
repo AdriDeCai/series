@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
@@ -49,7 +54,7 @@
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://filemoon.to/d/mhycgkqbp6dk/Vikingos_S01E04.mkv",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -62,7 +67,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://filemoon.to/d/63acwsyiewib/Vikingos_S01E05.mkv",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -75,7 +80,106 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://filemoon.to/d/k447fa79l342/Vikingos_S01E06.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/u2os7gchocz7/Vikingos_S01E07.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/tek3vslku57f/Vikingos_S01E08.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/azddsygfsw1c/Vikingos_S01E09.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/mk4l8yshcroi/Vikingos_S02E01.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/szz5zcjd7qh4/Vikingos_S02E02.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/o7m6qgfvxxs4/Vikingos_S02E03.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/4nw7lnnv56qe/Vikingos_S02E04.mkv",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -88,7 +192,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://filemoon.to/d/l5q5h5nugu4l/Vikingos_S02E05.mkv",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -101,7 +205,7 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://filemoon.to/d/a7nrd96qtyue/Vikingos_S02E06.mkv",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -110,6 +214,81 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/5cqtum8s595g/Vikingos_S02E07.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/19sgo6qk1o6a/Vikingos_S02E08.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/rim0qgi7xwp1/Vikingos_S02E09.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://filemoon.to/d/gu0cfbawdlsh/Vikingos_S02E10.mkv",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
