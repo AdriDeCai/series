@@ -1,0 +1,56 @@
+{
+"name": "Temporada 3",
+"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+"url": "https://series-af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+"url": "https://filemoon.to/d/h8lj5lbhnhf1/Ver_Cheers_3x1_online_en_castellano_latino_subtitulado_espa_ol_temporada_3_episodio_1_Cheers_castellano_latino_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 1982]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+"url": "https://filemoon.to/d/veoic3jvh9yz/Ver_Cheers_3x2_online_en_castellano_latino_subtitulado_espa_ol_temporada_3_episodio_2_Cheers_castellano_latino_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 1982]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+"url": "https://filemoon.to/d/u66gmarlqcic/Ver_Cheers_3x3_online_en_castellano_latino_subtitulado_espa_ol_temporada_3_episodio_3_Cheers_castellano_latino_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 1982]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/cheers-907839707-large.jpg",
+"url": "https://filemoon.to/d/qvbyh3wmbolj/Ver_Cheers_3x4_online_en_castellano_latino_subtitulado_espa_ol_temporada_3_episodio_4_Cheers_castellano_latino_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 1982]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
