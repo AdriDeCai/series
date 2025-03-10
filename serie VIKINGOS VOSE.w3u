@@ -62,7 +62,7 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/6zeREaMV6rGEZPa",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -75,7 +75,7 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/b4ZJx2rK8jnx2P3",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -86,9 +86,9 @@
 "import": false
 },
 {
-"name": "CAPITULO 5",
+"name": "CAPITULO 7",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/kKJVORKz4qw53XD",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -99,9 +99,22 @@
 "import": false
 },
 {
-"name": "CAPITULO 6",
+"name": "CAPITULO 8",
 "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https:",
+"url": "https://listeamed.net/v/vQBYEbpRD3k5n1m",
+"info": "[Español 2013]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+"url": "https://listeamed.net/v/MAlwEMez3V8EJ39",
 "info": "[Español 2013]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
