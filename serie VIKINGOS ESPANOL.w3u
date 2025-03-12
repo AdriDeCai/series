@@ -1,275 +1,956 @@
 {
-"name": "Vikingos (ESPAÑOL)",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20ESPANOL.w3u",
-"info": "bY AdriDeCai",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"telegram": "@YIsus_mEx",
-"groups":[
-
-{
-"name": "TEMPORADA 1",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"stations":
-[
-{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/o10gwkt3b039/Vikingos_S01E01.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 2",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/rp5lqcexksth/Vikingos_S01E02.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 3",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/vrxd8sikbbxi/Vikingos_S01E03.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 4",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/mhycgkqbp6dk/Vikingos_S01E04.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 5",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/63acwsyiewib/Vikingos_S01E05.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 6",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/k447fa79l342/Vikingos_S01E06.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 7",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/u2os7gchocz7/Vikingos_S01E07.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 8",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/tek3vslku57f/Vikingos_S01E08.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 9",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/azddsygfsw1c/Vikingos_S01E09.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-}
-]
-},
-
-{
-"name": "TEMPORADA 2",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"stations":
-[
-{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/mk4l8yshcroi/Vikingos_S02E01.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 2",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/szz5zcjd7qh4/Vikingos_S02E02.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 3",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/o7m6qgfvxxs4/Vikingos_S02E03.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 4",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/4nw7lnnv56qe/Vikingos_S02E04.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 5",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/l5q5h5nugu4l/Vikingos_S02E05.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 6",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/a7nrd96qtyue/Vikingos_S02E06.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 7",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/5cqtum8s595g/Vikingos_S02E07.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 8",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/19sgo6qk1o6a/Vikingos_S02E08.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 9",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/rim0qgi7xwp1/Vikingos_S02E09.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 10",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://filemoon.to/d/gu0cfbawdlsh/Vikingos_S02E10.mkv",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-}
-]
-},
-
-{
-"name": "TEMPORADA 3",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"stations":
-[
-{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "",
-"info": "[Español 2013]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-}
-]
-}
-
-]
+  "name": "Vikingos (ESPAÑOL)",
+  "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+  "url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20ESPANOL.w3u",
+  "info": "bY AdriDeCai",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "telegram": "@YIsus_mEx",
+  "groups": [
+    {
+      "name": "TEMPORADA 1",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/o10gwkt3b039/Vikingos_S01E01.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/rp5lqcexksth/Vikingos_S01E02.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/vrxd8sikbbxi/Vikingos_S01E03.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/mhycgkqbp6dk/Vikingos_S01E04.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/63acwsyiewib/Vikingos_S01E05.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/k447fa79l342/Vikingos_S01E06.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/u2os7gchocz7/Vikingos_S01E07.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/tek3vslku57f/Vikingos_S01E08.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/azddsygfsw1c/Vikingos_S01E09.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 2",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/mk4l8yshcroi/Vikingos_S02E01.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/szz5zcjd7qh4/Vikingos_S02E02.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/o7m6qgfvxxs4/Vikingos_S02E03.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/4nw7lnnv56qe/Vikingos_S02E04.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/l5q5h5nugu4l/Vikingos_S02E05.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/a7nrd96qtyue/Vikingos_S02E06.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/5cqtum8s595g/Vikingos_S02E07.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/19sgo6qk1o6a/Vikingos_S02E08.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/rim0qgi7xwp1/Vikingos_S02E09.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/gu0cfbawdlsh/Vikingos_S02E10.mkv",
+          "info": "[Español 2013]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 3",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/giizq3xtleuo",
+          "info": "[MultiAudio]",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "isHost": "true",
+          "online": "true",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/anyxxj4kwykm",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/286thaz8rwyy",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/fujqg4g71qmb",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/3hxk8pkbqfv0",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/gl1qo5v1ni2c",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/nggk70hyze3e",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/vh6mmf0f598i",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/9a54mj8gk3au",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORDA 4",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/gg0ma5z1vfb0",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/pw9sn0a5qium",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/y66ee8y502ic",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/0h81w7d0d0qy",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/7nmwafn2zrf2",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/7wirew3dj7hm",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/l1ajt2324qkf",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/mbo3elc8kn6e",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/z8qtkwklnbtk",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/piutoq0b4psz",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 11",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/vkpjp2v3gjah",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 12",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/zwouxvnwdpoz",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 13",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/3lbqvlxvitsr",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 14",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/n7w3kavfijc8",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 15",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/w1sz7iys6fgu",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 16",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/eql5ath132oe",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 17",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/icxkmxs0y9xd",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 18",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/gompuo4mh8ni",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 19",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/rnjrgl4prndx",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 20",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/f3vkzjqvu34i",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORDA 5",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/bjv2qq9vg7wa",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/cy3utiymll9l",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/4txmyr0themr",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/593z95q8xgb9",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/zanu8a7a483b",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/vyjpbgebyhas",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/nsyivsrjz5ph",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/w4xlitk5c2b5",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/i00pcstgv8re",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/a29db8c90z4c",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 11",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/8y974a4omzog",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 12",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/0npkb9v8yq9m",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 13",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/l5qk3gll6ll1",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 14",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/f2arefo7pvnz",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 15",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/z0g3j7sdnx1u",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 16",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/78g1fe9u0rwg",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 17",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/kpltodim4ixc",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 18",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/nyngjlkx3h48",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 19",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/hix3u7rnjwm6",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 20",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/9gfezobfnn03",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "TEMPORDA 6",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/k221iq3g775e",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/ag9wqkrppajt",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/o3aqt8d34pw3",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/f24k71ayfate",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/hhs3iyuq5ysr",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/xlc3tx8ftrx9",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 7",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/l70laoqgubpp",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 8",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/l36k9anuqhv4",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 9",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/dihug35rewbf",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 10",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/oeuosr55tf7p",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 11",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/926na9ihu4kc",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 12",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/7b2mqwsehh6r",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 13",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/gq093zulscq4",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 14",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/h5nc176olg42",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 15",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/4ucl2pok14gt",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 16",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/kzmv7pxpf6w8",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 17",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/w05btud68lvq",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 18",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/9t8oyer10k1w",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 19",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/dj48svle2i7z",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 20",
+          "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+          "url": "https://filemoon.to/d/hd3k8cqoyc0l",
+          "info": "[MultiAudio]",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    }
+  ]
 }
