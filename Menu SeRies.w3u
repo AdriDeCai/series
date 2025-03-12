@@ -625,6 +625,13 @@
 		"import": false
 		},
 		{
+		"name": "Cassandra",
+		"image": "https://pics.filmaffinity.com/cassandra-180059494-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20CASSANDRA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Caza, La",
 		"image": "https://pics.filmaffinity.com/the_fall-499971113-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LA CAZA.w3u",
