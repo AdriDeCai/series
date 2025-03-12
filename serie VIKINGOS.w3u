@@ -5,29 +5,19 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"groups": [
-
-{
-"name": "VIKINGOS (VERSION ORIGINAL)",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20VO.w3u",
-"import": false
-},
-
-{
-"name": "VIKINGOS (ESPAÑOL)",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20ESPANOL.w3u",
-"import": false
-},
-
-{
-"name": "VIKINGOS (VOSE)",
-"image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
-"url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20VOSE.w3u",
-"import": false
+"groups": 
+  [
+    {
+      "name": "VIKINGOS (ESPAÑOL)",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20ESPANOL.w3u",
+      "import": false
+    },
+    {
+      "name": "VIKINGOS (VOSE)",
+      "image": "https://pics.filmaffinity.com/vikings-616055151-large.jpg",
+      "url": "https://series-af1cionados.vercel.app/serie%20VIKINGOS%20VOSE.w3u",
+      "import": false
+    }
+  ]
 }
-
-]
-}
-
