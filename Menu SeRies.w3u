@@ -2081,6 +2081,13 @@
 		"import": false
 		},
 		{
+		"name": "Matlock",
+		"image": "https://pics.filmaffinity.com/matlock-561843294-large.jpg",
+		"url": "https://github.com/af1Series1/Series/edit/main/serie%20MATLOCK.m3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Maxton Hall",
 		"url": "https://af1c1onados.vercel.app/Series.Maxton.Hall.w3u",
 		"image": "https://pics.filmaffinity.com/maxton_hall_die_welt_zwischen_uns-394220900-large.jpg",
