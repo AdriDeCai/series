@@ -228,6 +228,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 19",
+"image": "",
+"url": "",
+"info": "[Español 2024]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 },
