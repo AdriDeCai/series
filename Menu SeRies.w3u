@@ -1478,10 +1478,17 @@
 		"import": false
 		},
 		{
-		"name": "Genertation Kill",
+		"name": "Generation Kill",
 		"image": "https://pics.filmaffinity.com/generation_kill-837067946-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie GENERATION KILL.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Gente Ansiosa",
+		"image": "https://pics.filmaffinity.com/folk_med_angest-968813212-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20GENTE%20ANSIOSA.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
