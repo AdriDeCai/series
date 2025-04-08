@@ -5,8 +5,14 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORDA 1",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"info": "",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
@@ -54,10 +60,19 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
 },
+
 {
-"name": "CAPITULO 5",
-"image": "",
+"name": "TEMPORDA 2",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"info": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
 "url": "",
 "info": "[Español 2021]",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -66,6 +81,68 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
 }
 
 ]
