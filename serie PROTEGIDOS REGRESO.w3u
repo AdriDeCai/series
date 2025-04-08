@@ -129,6 +129,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+"url": "",
+"info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
