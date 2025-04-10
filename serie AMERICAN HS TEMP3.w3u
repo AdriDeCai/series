@@ -54,6 +54,61 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+	},
+	{
+	"name": "CAPITULO 5",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "https://listeamed.net/v/njJYOdZG2Jvxe9o",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 6",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "https://listeamed.net/v/Ro7kOVeX9GBEZWB",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 7",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "https://listeamed.net/v/rabVOQmoGBgOKdW",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 8",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "https://listeamed.net/v/ZMVoEroJgqqO9Pa",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 9",
+	"image": "https://i.postimg.cc/nLCLbs8n/AMERICAN-HORRO-STORIES-3.jpg",
+	"url": "https://listeamed.net/v/04rQxWd0pMeEb2N",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	}
 
 ]
