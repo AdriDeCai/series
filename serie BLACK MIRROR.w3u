@@ -16,7 +16,6 @@
        	"info": "",
 	"stations":
         	[
-
 	       	{
  	       	"name": "EL HIMNO NACIONAL",
 	        "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
@@ -343,6 +342,27 @@
 	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
 	        "url": "https://upstream.to/tl2w8s5fy8le",
         	"info": "6X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+		]
+	},
+
+	{
+ 	"name": "BLANCA NAVIDAD",
+	"image": "https://pics.filmaffinity.com/black_mirror_white_christmas-744528117-large.jpg",
+       	"info": "",
+	"stations":
+        	[
+
+	       	{
+ 	       	"name": "BLANCA NAVIDAD",
+	        "image": "https://pics.filmaffinity.com/black_mirror_white_christmas-744528117-large.jpg",
+	        "url": "https://filemoon.to/d/e80micq7xhro/Black_Mirror_Especial_Blanca_Navidad.mp4",
+        	"info": "",
         	"embed": "",
         	"isHost": "true",
         	"online": "true",
