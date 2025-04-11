@@ -254,10 +254,8 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
-
 		]
 	},
-
 
 	{
 	"name": "TEMPORADA 5",
@@ -299,10 +297,8 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
-
 		]
 	},
-
 
 	{
 	"name": "TEMPORADA 6",
@@ -310,7 +306,6 @@
 	"info": "",
 	"stations":
 		[
-
 	       	{
  	       	"name": "JOAN ES HORRIBLE",
 	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
@@ -366,11 +361,72 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
+		]
+	},
 
+	{
+	"name": "TEMPORADA 7",
+	"image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+		{
+ 	       	"name": "",
+	        "image": "",
+	        "url": "",
+        	"info": "7X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "",
+	        "image": "",
+	        "url": "",
+        	"info": "7X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "",
+	        "image": "",
+	        "url": "",
+        	"info": "7X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "",
+	        "image": "",
+	        "url": "",
+        	"info": "7X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "",
+	        "image": "",
+	        "url": "",
+        	"info": "7X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
 		]
 	}
-
-
 
 	]
 }
