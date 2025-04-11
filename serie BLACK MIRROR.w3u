@@ -1,0 +1,376 @@
+
+
+
+{
+"name": "BLACK MIRROR",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20BLACK%20MIRROR.w3u",
+"image": "https://i.postimg.cc/9FCdxmQQ/Logo-Black-Mirror.png",
+"telegram": "@AdriDeCai",
+"info": "",
+"groups":
+	[
+	{
+ 	"name": "TEMPORADA 1",
+	"image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
+       	"info": "",
+	"stations":
+        	[
+
+	       	{
+ 	       	"name": "EL HIMNO NACIONAL",
+	        "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
+	        "url": "https://upstream.to/lah9zajjvu1t",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "15 MILLONES DE MERITOS",
+	        "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
+	        "url": "https://upstream.to/bhp493asw7ha",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "TODA TU HISTORIA",
+	        "image": "https://i.postimg.cc/MKQYMM4X/Temporada-1-Black-Mirror.jpg",
+	        "url": "https://upstream.to/6clxboh760yl",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+
+
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://i.postimg.cc/X7rQ3D4M/Temporada-2-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+
+	       	{
+ 	       	"name": "VUELVO ENSEGUIDA",
+	        "image": "https://i.postimg.cc/X7rQ3D4M/Temporada-2-Black-Mirror.jpg",
+	        "url": "https://upstream.to/979a4o9ii9k3",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "OSO BLANCO",
+	        "image": "https://i.postimg.cc/X7rQ3D4M/Temporada-2-Black-Mirror.jpg",
+	        "url": "https://upstream.to/9oqurrerxn65",
+        	"info": "2X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "EL MOMENTO WALDO",
+	        "image": "https://i.postimg.cc/X7rQ3D4M/Temporada-2-Black-Mirror.jpg",
+	        "url": "https://upstream.to/et2lg49w0zuw",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+
+	       	{
+ 	       	"name": "CAIDA EN PICADA",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/ne5lxrc7bzve",
+        	"info": "3X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "PLAYTESTING",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/godlgypcvqtq",
+        	"info": "3X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "CALLATE Y BAILA",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/df29gyrfidoe",
+        	"info": "3X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "SAN JUNIPERO",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/vcjvnxhv4dx7",
+        	"info": "3X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "LA CIENCIA DE MATAR",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/msrlawvb16k4",
+        	"info": "3X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "ODIO NACIONAL",
+	        "image": "https://i.postimg.cc/Qd1CT5c4/Temporada-3-Black-Mirror.jpg",
+	        "url": "https://upstream.to/btobw4h0wqw6",
+        	"info": "3X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+
+	{
+	"name": "TEMPORADA 4",
+	"image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+
+	       	{
+ 	       	"name": "U.S.S CALLISTER",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/1sosuivtvzsd",
+        	"info": "4X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "ARKANGEL",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/tlhqdlctbeh4",
+        	"info": "4X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "COCODRILO",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/3rd8v6uk9bod",
+        	"info": "4X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "HANG THE DJ",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/bs7ebvonb37k",
+        	"info": "4X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "CABEZA DE METAL",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/svf3tmcm61km",
+        	"info": "4X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "BLACK MUSEUM",
+	        "image": "https://i.postimg.cc/N0Ww7PYR/Temporada-4-Black-Mirror.jpg",
+	        "url": "https://upstream.to/podlewkj0jy8",
+        	"info": "4X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+
+	{
+	"name": "TEMPORADA 5",
+	"image": "https://i.postimg.cc/6prRNFbp/Temporada-5-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+
+	       	{
+ 	       	"name": "VIBORAS AGRESORAS",
+	        "image": "https://i.postimg.cc/6prRNFbp/Temporada-5-Black-Mirror.jpg",
+	        "url": "https://upstream.to/2ru8e2yemkf6",
+        	"info": "5X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "AÑICOS",
+	        "image": "https://i.postimg.cc/6prRNFbp/Temporada-5-Black-Mirror.jpg",
+	        "url": "https://upstream.to/ou7ht8jz7vuu",
+        	"info": "5X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "RACHEL, JACK Y ASHLEY TOO",
+	        "image": "https://i.postimg.cc/6prRNFbp/Temporada-5-Black-Mirror.jpg",
+	        "url": "https://upstream.to/tlokpu3ejymd",
+        	"info": "5X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+
+	{
+	"name": "TEMPORADA 6",
+	"image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	"info": "",
+	"stations":
+		[
+
+	       	{
+ 	       	"name": "JOAN ES HORRIBLE",
+	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	        "url": "https://upstream.to/7n0v29wn7tfi",
+        	"info": "6X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "LOCH HENRY",
+	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	        "url": "https://upstream.to/uaf6cbmk69ax",
+        	"info": "6X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "BEYOND THE SEA",
+	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	        "url": "https://upstream.to/wnup1g1wi67r",
+        	"info": "6X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "MAZEY DAY",
+	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	        "url": "https://upstream.to/xt5j4botkbj5",
+        	"info": "6X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "DEMONIO 79",
+	        "image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	        "url": "https://upstream.to/tl2w8s5fy8le",
+        	"info": "6X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	}
+
+
+
+	]
+}
