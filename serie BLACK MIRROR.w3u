@@ -366,14 +366,14 @@
 
 	{
 	"name": "TEMPORADA 7",
-	"image": "https://i.postimg.cc/SNX3VfTr/Temporada-6-Black-Mirror.jpg",
+	"image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
 	"info": "",
 	"stations":
 		[
 		{
- 	       	"name": "",
-	        "image": "",
-	        "url": "",
+ 	       	"name": "GENTE CORRIENTE",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/qb2nb0gdtmjz/Black_Mirror_S07E01_Gente_corriente.mp4",
         	"info": "7X01",
         	"embed": "",
         	"isHost": "true",
@@ -382,9 +382,9 @@
         	"import": false
         	},
 	       	{
- 	       	"name": "",
-	        "image": "",
-	        "url": "",
+ 	       	"name": "BETE NOIRE",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/0tzb3uy9a46x/Black_Mirror_S07E02_B_te_Noire.mp4",
         	"info": "7X02",
         	"embed": "",
         	"isHost": "true",
@@ -393,9 +393,9 @@
         	"import": false
         	},
 	       	{
- 	       	"name": "",
-	        "image": "",
-	        "url": "",
+ 	       	"name": "HOTEL REVERIE",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/dsi39lwnzi46/Black_Mirror_S07E03_Hotel_Reverie.mp4",
         	"info": "7X03",
         	"embed": "",
         	"isHost": "true",
@@ -404,9 +404,9 @@
         	"import": false
         	},
 	       	{
- 	       	"name": "",
-	        "image": "",
-	        "url": "",
+ 	       	"name": "JUGUETES",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/s545tcw23ob3/Black_Mirror_S07E04_Juguetes.mp4",
         	"info": "7X04",
         	"embed": "",
         	"isHost": "true",
@@ -415,10 +415,21 @@
         	"import": false
         	},
 	       	{
- 	       	"name": "",
-	        "image": "",
-	        "url": "",
+ 	       	"name": "EULOGY",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/yt70xhxn5o98/Black_Mirror_S07E05_Eulogy.mp4",
         	"info": "7X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       	{
+ 	       	"name": "USS CALLISTER: INFINITY",
+	        "image": "https://images.justwatch.com/poster/329427463/s166/temporada-7.avif",
+	        "url": "https://filemoon.to/d/b4axoi80jxww/Black_Mirror_S07E06_USS_Callister__Infinity.mp4",
+        	"info": "7X06",
         	"embed": "",
         	"isHost": "true",
         	"online": "true",
