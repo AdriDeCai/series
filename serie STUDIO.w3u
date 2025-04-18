@@ -5,8 +5,141 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "ESPAÑOL",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"url": "https://filemoon.to/d/qnk41p13jyda/Ver_El_estudio_1x1_online_en_castellano_latino_subtitulado_espa_ol_temporada_1_episodio_1_El_estudio_castellano_latino_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "",
+"url": "https:",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "",
+"url": "https:",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "",
+"url": "https:",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "",
+"url": "https:",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "",
+"url": "https:",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "VERSION ORIGINAL",
+"image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/the_studio-548174477-large.jpg",
@@ -126,6 +259,8 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
 }
 
 ]
