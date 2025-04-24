@@ -208,7 +208,6 @@
           "isHost": "true",
           "online": "true"
         }
-      
       ]
     },
     {
@@ -848,7 +847,7 @@
           "name": "2x01 Se acerca el invierno",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "",
+          "url": "//listeamed.net/v/wP2050r8XK2Edmy",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -857,7 +856,7 @@
           "name": "2x02 El Camino Real",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "",
+          "url": "//listeamed.net/v/qL0YEywBJXd5DRX",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -866,7 +865,70 @@
           "name": "2x03 Lord Nieve ",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "",
+          "url": "//listeamed.net/v/qL0YEywBJXd5DRX",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x04 Jardín de huesos",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://listeamed.net/v/8lKQxYjnJZlEDGY",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x05 El fantasma de Harrenhal",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/JzkPxzwrJvXEbyd",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x06 Los dioses antiguos y nuevos",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/dNjgOlAnpjQ59Wn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x07 Un hombre sin honor",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/pVa4E8R12jy5kzM",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x08 Un príncipe de Invernalia",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/0DogOGDRva75KjM",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x09 Aguasnegras",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/e028E6lZDgR5YAv",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x10 Valar Morghulis",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "//listeamed.net/v/04rQxWdnKayEb2N",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
