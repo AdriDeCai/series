@@ -839,15 +839,15 @@
 
     {
       "name": "TEMPORADA 2",
-      "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+      "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
       "info": "",
       "stations": 
       [
         {
           "name": "2x01 Se acerca el invierno",
           "info": "",
-          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "//listeamed.net/v/wP2050r8XK2Edmy",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://listeamed.net/v/wP2050r8XK2Edmy",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -855,8 +855,8 @@
         {
           "name": "2x02 El Camino Real",
           "info": "",
-          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "//listeamed.net/v/qL0YEywBJXd5DRX",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://listeamed.net/v/qL0YEywBJXd5DRX",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -864,8 +864,8 @@
         {
           "name": "2x03 Lord Nieve ",
           "info": "",
-          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-          "url": "//listeamed.net/v/qL0YEywBJXd5DRX",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://listeamed.net/v/qL0YEywBJXd5DRX",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
