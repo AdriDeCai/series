@@ -1654,6 +1654,13 @@
 		"import": false
 		},
 		{
+		"name": "Heroes",
+		"image": "https://pics.filmaffinity.com/heroes-207656919-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20HEROES.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Heroes de Guardia",
 		"image": "https://pics.filmaffinity.com/jung_jeung_eui_sang_sen_teo-625617544-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20HEROES%20GUARDIA.w3u",
