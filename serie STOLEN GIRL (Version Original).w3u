@@ -5,8 +5,149 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "ESPAÑOL",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/5dnga13sj6cw/Ver_The_Stolen_Girl_1x1_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/ti12w28ss2sr/Ver_The_Stolen_Girl_1x2_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/sbtwudw6zr1m/Ver_The_Stolen_Girl_1x3_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/osp401g3smpo/Ver_The_Stolen_Girl_1x4_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/s0q1z89kwc0u/Ver_The_Stolen_Girl_1x5_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "VOSE",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/lwjupl3epfe4/Ver_The_Stolen_Girl_1x1_online_en_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/mk2bqyoohui2/Ver_The_Stolen_Girl_1x2_online_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/cgakk5rf99dn/Ver_The_Stolen_Girl_1x3_online_en_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/xq6q4iu6d4br/Ver_The_Stolen_Girl_1x4_online_en_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"url": "https://filemoon.to/d/ppzb6gmvtt7h/Ver_The_Stolen_Girl_1x5_online_en_subtitulado_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "VERSION ORIGINAL",
+"image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/the_stolen_girl-799879220-large.jpg",
@@ -67,6 +208,9 @@
 "online": "true",
 "import": false
 }
+]
+}
+
 
 ]
 }
