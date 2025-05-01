@@ -1317,6 +1317,13 @@
 		"import": false
 		},
 		{
+		"name": "Eternauta, El",
+		"image": "https://pics.filmaffinity.com/el_eternauta-575950349-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20ETERNAUTA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Eva y Nicole",
 		"image": "https://pics.filmaffinity.com/eva_nicole-946692785-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20EVAyNICOLE.w3u",
@@ -2009,13 +2016,6 @@
 		"url": "https://af1cionados.vercel.app/serie%20LINE%20OF%20DUTY.w3u",
 		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
 		"info": "bY. aDri",
-		"import": false
-		},
-		{
-		"name": "Linea Invisible, La",
-		"image": "https://pics.filmaffinity.com/la_linea_invisible-180929300-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LINEA%20INVISIBLE.w3u",
-		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
