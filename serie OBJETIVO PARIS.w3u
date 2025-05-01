@@ -40,6 +40,50 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
 }
-
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://diananatureforeign.com/nxmi974ijzhn",
+"info": "[Español 2024]",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://diananatureforeign.com/i2453oqtejgd",
+"info": "[Español 2024]",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://diananatureforeign.com/7i7mepkgdoef",
+"info": "[Español 2024]",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://diananatureforeign.com/per4y6rafamf",
+"info": "[Español 2024]",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
+"url": "https://diananatureforeign.com/frhtpxcgfnoa",
+"info": "[Español 2024]",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+}
 ]
 }
