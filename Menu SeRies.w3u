@@ -3896,24 +3896,17 @@
 		"import": false
 		},
 		{
-		"name": "Yo fui un asesino, Crimen Katana",
-		"image": "https://pics.filmaffinity.com/yo_fui_un_asesino_el_crimen_de_la_catana-293928315-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20CRIMEN%20KATANA.w3u",
-		"info": "bY. aDri",
-		"import": false
-		},
-		{
-        	"name": "Your Honor",
-        	"image": "https://i.postimg.cc/jdwM1gKF/0.png",
-        	"url": "https://af1c1onados.vercel.app/Series.Your.Honor.w3u",
-        	"info":"bY. yIsus",
-        	"import": false
-        	},
-		{
 		"name": "Yo Adicto",
 		"image": "https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Yo.Adicto.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Yo fui un asesino, Crimen Katana",
+		"image": "https://pics.filmaffinity.com/yo_fui_un_asesino_el_crimen_de_la_catana-293928315-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20CRIMEN%20KATANA.w3u",
+		"info": "bY. aDri",
 		"import": false
 		},
 		{
@@ -3923,6 +3916,20 @@
          	"info":"bY. yIsus",
          	"import": false
         	},
+		{
+        	"name": "YOU",
+        	"image": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        	"url": "https://af1c1onados.vercel.app/Series.You.w3u",
+        	"info":"bY. yIsus",
+        	"import": false
+        	},	
+		{
+        	"name": "Your Honor",
+        	"image": "https://i.postimg.cc/jdwM1gKF/0.png",
+        	"url": "https://af1c1onados.vercel.app/Series.Your.Honor.w3u",
+        	"info":"bY. yIsus",
+        	"import": false
+        	},		
 		{
 		"name": "Zero Chill (Sueños sobre Hielo)",
 		"image": "https://pics.filmaffinity.com/zero_chill-842061722-large.jpg",
