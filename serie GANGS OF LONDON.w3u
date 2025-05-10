@@ -4,14 +4,21 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
-{"name": "Capítulo 1",
+{
+"name": "TEMPORDA 1",
+"image": "https://pics.filmaffinity.com/gangs_of_london-413797235-large.jpg",
+"stations":
+[
+{
+"name": "Capítulo 1",
 "image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
 "url": "https://uqload.com/embed-fq9gmkjnc0fe.html",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "embed": "true",
-"isHost": "true"},
+"isHost": "true"
+},
  
 {"name": "Capítulo 2",
 "image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
@@ -55,16 +62,56 @@
 "embed": "true",
 "isHost": "true"},
  
-{"name": "Capítulo 8",
+{
+"name": "Capítulo 8",
 "image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
 "url": "https://uqload.com/embed-z2s9fo0zid6g.html",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "embed": "true",
-"isHost": "true"},
- 
-{"name": "Capítulo 9",
+"isHost": "true"
+},
+{
+"name": "Capítulo 9",
 "image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
 "url": "https://uqload.com/embed-xl1d3fssz76a.html",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "embed": "true",
-"isHost": "true"}]}
+"isHost": "true"
+}
+]
+},
+
+{
+"name": "TEMPORDA 2",
+"image": "https://pics.filmaffinity.com/gangs_of_london-413797235-large.jpg",
+"stations":
+[
+{
+"name": "Capítulo 1",
+"image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
+"url": "https:",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"embed": "true",
+"isHost": "true"
+}
+]
+},
+
+{
+"name": "TEMPORDA 3",
+"image": "https://pics.filmaffinity.com/gangs_of_london-413797235-large.jpg",
+"stations":
+[
+{
+"name": "Capítulo 1",
+"image": "https://i.ibb.co/Ld0xCdK/51cca-KH47j-L-AC-UF1000-1000-QL80.jpg",
+"url": "https:",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"embed": "true",
+"isHost": "true"
+}
+]
+}
+
+]
+}
