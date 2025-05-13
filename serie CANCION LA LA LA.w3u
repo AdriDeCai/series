@@ -1,0 +1,48 @@
+{
+"name": "Cancion La, la la",
+"image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie DAMA VELADA.w",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+"url": "https://filemoon.to/d/huuavb103o3c/La_canci_n_la_la_la__2025__S01E01_La_tele.mkv",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+"url": "https://filemoon.to/d/vbusyj611kqn/La_canci_n_la_la_la__2025__S01E02_La_tanqueta.mkv",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
+"url": "https://filemoon.to/d/p9f9xoztnq18/La_canci_n_la_la_la__2025__S01E03_La_gala.mkv",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+}
