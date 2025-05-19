@@ -1,12 +1,91 @@
 {
-"name": "Blue Lights (Temporada 2)",
+"name": "Blue Lights",
 "image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
 "url": "https://series-af1cionados.vercel.app/serie%20BLUE%20LIGHTS.w3u",
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"url": "https:",
+"info": "[Español 2023]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
@@ -72,6 +151,8 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
 }
 
 ]
