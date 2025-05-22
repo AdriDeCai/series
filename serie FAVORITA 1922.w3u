@@ -6,8 +6,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
@@ -103,23 +108,19 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
 },
+
 {
-"name": "CAPITULO 9",
-"image": "",
-"url": "https:",
-"info": "[Español 2025]",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "CAPITULO 10",
+"name": "TEMPORADA 1",
 "image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
-"url": "https:",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "https://listeamed.net/v/6zeREaMryBrEZPa",
 "info": "[Español 2025]",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "referer": "",
@@ -127,6 +128,8 @@
 "isHost": "true",
 "online": "true",
 "import": false
+}
+]
 }
 
 ]
