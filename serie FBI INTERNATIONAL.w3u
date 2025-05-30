@@ -1,4 +1,5 @@
-{"name": "FBI INTERNATIONAL",
+{
+"name": "FBI INTERNATIONAL",
 "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
 "url": "https://series-af1cionados.vercel.app/serie%20FBI%20INTERNATIONAL.w3u",
 "info": "bY AdriDeCai",
@@ -9,7 +10,7 @@
 	{
 	name: "CASTELLANO",
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-	"stations":
+	"groups":
 	[
 
 	{
@@ -954,7 +955,7 @@
 	{
 	name: "VERSION ORIGINAL SUBTITULADA",
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-	"stations":
+	"groups":
 	[
 
 	{
