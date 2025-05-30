@@ -5,7 +5,8 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"groups":[
+"groups":
+	[
 
 	{
 	name: "CASTELLANO",
@@ -18,7 +19,6 @@
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
 	"stations":
 	[
-
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
@@ -953,7 +953,7 @@
 	},
 
 	{
-	name: "VERSION ORIGINAL SUBTITULADA",
+	"name": "VERSION ORIGINAL SUBTITULADA",
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
 	"groups":
 	[
@@ -963,7 +963,6 @@
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
 	"stations":
 	[
-
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
