@@ -7,6 +7,12 @@
 "groups":[
 
 	{
+	name: "CASTELLANO",
+	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+	"stations":
+	[
+
+	{
 	"name": "TEMPORADA 1",
 	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
 	"stations":
@@ -125,7 +131,7 @@
 	{
 	"name": "CAPITULO 11",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/dNjgOl4bDoDO9Wn",
+        "url": "https://listeamed.net/v/ZMVoEroBRweO9Pa",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -136,7 +142,7 @@
 	{
 	"name": "CAPITULO 12",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https:https://listeamed.net/v/KNWlEDN3VMm5kbp",
+        "url": "https://listeamed.net/v/wP2050r23l2Edmy",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -147,7 +153,7 @@
 	{
 	"name": "CAPITULO 13",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/e028E6RwV8MEYAv",
+        "url": "https://listeamed.net/v/P0poO1Lw3bDEz17",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -158,7 +164,7 @@
 	{
 	"name": "CAPITULO 14",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/LQm9OXNyp7nx1lg",
+        "url": "https://listeamed.net/v/PlBVEZkwmgaODv9",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -169,7 +175,7 @@
 	{
 	"name": "CAPITULO 15",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/7QWN5eyMle659oR",
+        "url": "https://listeamed.net/v/LQm9OXZoJDRx1lg",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -180,7 +186,7 @@
 	{
 	"name": "CAPITULO 16",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/l4vexvD8G6kO8B9",
+        "url": "https://listeamed.net/v/MAlwEMePDvkEJ39",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -191,7 +197,7 @@
 	{
 	"name": "CAPITULO 17",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/mMq75L891Rn5XPB",
+        "url": "https://listeamed.net/v/e028E6lymjm5YAv",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -202,7 +208,7 @@
 	{
 	"name": "CAPITULO 18",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/8lKQxYV8vnVEDGY",
+        "url": "https://listeamed.net/v/YWA8E946vDKxGmM",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -213,7 +219,7 @@
 	{
 	"name": "CAPITULO 19",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/pVa4E8MJV6aOkzM",
+        "url": "https://listeamed.net/v/7QWN5ejzJLBx9oR",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -224,7 +230,7 @@
 	{
 	"name": "CAPITULO 20",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/kKJVORW2GXd53XD",
+        "url": "https://listeamed.net/v/mMq75L6mVaNEXPB",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -235,7 +241,7 @@
 	{
 	"name": "CAPITULO 21",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/wP2050epVwYxdmy",
+        "url": "https://listeamed.net/v/NMRLEpWjR3exXaG",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -246,7 +252,7 @@
 	{
 	"name": "CAPITULO 22",
         "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
-        "url": "https://listeamed.net/v/qL0YEyP7eZjxDRX",
+        "url": "",
        	"info": "[Español 2021]",
        	"embed": "",
        	"isHost": "true",
@@ -942,6 +948,266 @@
        	}
 	]
 	}
+	]
+	},
+
+	{
+	name: "VERSION ORIGINAL SUBTITULADA",
+	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+	"stations":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+	"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/7QWN5ejzJpmx9oR",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/VqbX53pJ3l9xQzp",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/qA3WOmJqAL15Kkz",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/qM1VOP94oDV5o4k",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/MAlwEMePD4WEJ39",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/edVqE4MXm2MOYWm",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/0DogOGDjevM5KjM",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/njJYOdZgkDaxe9o",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/mMq75L6mV4VEXPB",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/YWA8E946vKbxGmM",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 11",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/dNjgOl4bDoDO9Wn",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 12",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https:https://listeamed.net/v/KNWlEDN3VMm5kbp",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 13",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/e028E6RwV8MEYAv",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 14",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/LQm9OXNyp7nx1lg",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 15",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/7QWN5eyMle659oR",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 16",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/l4vexvD8G6kO8B9",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 17",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/mMq75L891Rn5XPB",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 18",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/8lKQxYV8vnVEDGY",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 19",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/pVa4E8MJV6aOkzM",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 20",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/kKJVORW2GXd53XD",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 21",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/wP2050epVwYxdmy",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 22",
+        "image": "https://pics.filmaffinity.com/fbi_international-964204222-large.jpg",
+        "url": "https://listeamed.net/v/qL0YEyP7eZjxDRX",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
+
 
 ]
 }
