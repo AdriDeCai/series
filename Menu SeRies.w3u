@@ -3292,20 +3292,6 @@
 		"import": false
 		},
 		{
-		"name": "Shadow and Bone",
-		"image": "https://pics.filmaffinity.com/shadow_and_bone-184093170-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SHADOWBONE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Shogun",
-		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
-		"import": false
-		},
-		{
 		"name": "Silo",
 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 		"info": "bY. yIsus",
@@ -3345,6 +3331,27 @@
 		"image": "https://pics.filmaffinity.com/sin_novedad-671850975-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SIN%20NOVEDAD.w3u",
 		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Sirenas",
+		"image":"https://pics.filmaffinity.com/sirens-553343319-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Sirenas.w3u",		
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Shadow and Bone",
+		"image": "https://pics.filmaffinity.com/shadow_and_bone-184093170-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SHADOWBONE.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Shogun",
+		"image": "https://digitalt.tv/wp-content/uploads/2023/11/Shogun_da.webp",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.Shogun.w3u",
 		"import": false
 		},
 		{
