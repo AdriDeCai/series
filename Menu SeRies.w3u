@@ -1767,6 +1767,13 @@
 		"import": false
 		},
 		{
+		"name": "Hijos del Tercer Reich",
+		"image": "https://pics.filmaffinity.com/unsere_mutter_unsere_vater_generation_war-510487977-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20HIJOS%20TERCER%20REICH.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Hinchas Enemigos",
 		"image": "https://pics.filmaffinity.com/kibic-235269979-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20HINCHAS%20ENEMIGOS.w3u",
