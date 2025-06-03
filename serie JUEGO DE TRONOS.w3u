@@ -1327,10 +1327,142 @@
           "online": "true"
         }
       ]
+    },
+    {
+      "name": "TEMPORADA 7",
+      "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "7x01 Dragonstone",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/fv6ptaff0a41/Ver_Juego_de_Tronos_7x1_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x02 Bajo la tormenta",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/0r7dpjn8r46q/Ver_Juego_de_Tronos_7x2_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x03 La justicia de la reina",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/rzfydzgbexoo/Ver_Juego_de_Tronos_7x3_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x04 The Spoils of War",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/p4m51uko3unb/Ver_Juego_de_Tronos_7x4_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x05 Guardaoriente",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/i5n8r8y3qejj/Ver_Juego_de_Tronos_7x5_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x06 Episode 6",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/3nap224mkbdy/Ver_Juego_de_Tronos_7x6_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x07 The Dragon and the Wolf",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://filemoon.to/d/1icp5s43dqw7/Ver_Juego_de_Tronos_7x7_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 8",
+      "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "8x01 King's Landing",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/7wcvpq822ruz/Ver_Juego_de_Tronos_8x1_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x02 La reina legítima",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/6h1c4bztnvz0/Ver_Juego_de_Tronos_8x2_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x03 Conflicto Bélico",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/4lxrvkykfl1p/Ver_Juego_de_Tronos_8x3_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x04 Éxodo",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/rmyj2p8sqoh6/Ver_Juego_de_Tronos_8x4_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x05 Episodio 5",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/dnucjqqc9n8j/Ver_Juego_de_Tronos_8x5_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x06 Episodio 6",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://filemoon.to/d/a6jh8k6ig0om/Ver_Juego_de_Tronos_8x6_online_subtitulado_-_HDFull.tv.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
     }
 
-    ]
-    }
+  ]
+  }
+
 
   ]
 }
