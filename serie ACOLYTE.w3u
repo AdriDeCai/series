@@ -18,14 +18,6 @@
        	"import": false
        	},
 	{
-	"name": "CAPITULO 1",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/vdybnwch6fwt",
-       	"info": "[Latino]",
-       	"isHost": "true",
-       	"online": "true"
-	},
-	{
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.to/d/0es9nd495a9h/Ver_Star_Wars-_The_Acolyte_1x2_online_en_castellano_-_HDFull.tv.mp4",
@@ -36,14 +28,6 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	{
-	"name": "CAPITULO 2",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/78qbk5isz3dz",
-       	"info": "[Latino]",
-       	"isHost": "true",
-       	"online": "true"
-	},
 	{
 	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
@@ -56,29 +40,10 @@
        	"import": false
        	},
 	{
-	"name": "CAPITULO 3",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/860q467jvgas",
-       	"info": "[Latino]",
-       	"isHost": "true",
-       	"online": "true"
-	},
-	{
 	"name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.to/d/v76tkidakz1g/Ver_Star_Wars-_The_Acolyte_1x4_online_en_castellano_-_HDFull.tv.mp4",
        	"info": "[Español 2024]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 4",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/ctj7btbiy0qq/1x04_The_Acolyte__latino_.mp4",
-       	"info": "[Latino]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -97,32 +62,10 @@
        	"import": false
        	},
 	{
-	"name": "CAPITULO 5",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/smxabzh5txng/1x05_The_Acolyte__latino_.mp4",
-       	"info": "[Latino]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
 	"name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.to/d/ovypf4uevj6q/Ver_Star_Wars-_The_Acolyte_1x6_online_en_castellano_-_HDFull.tv.mp4",
        	"info": "[Español 2024]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 6",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/wuumbnzg3rye/Ver_The_Acolyte_S01E06_Ense_Corromper_Latino_1080_mp4.mp4",
-       	"info": "[Latino]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -141,33 +84,11 @@
        	"import": false
        	},
 	{
-	"name": "CAPITULO 7",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/5yzhamazxe5v/Acolyte_1x07_1080p_Latino_mp4.mp4",
-       	"info": "[Latino]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
 	"name": "CAPITULO 8",
         "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
         "url": "https://filemoon.to/d/yvu1iqhtrmru/Ver_Star_Wars-_The_Acolyte_1x8_online_en_castellano_-_HDFull.tv.mp4",
        	"info": "[Español 2024]",
        	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 8",
-        "image": "https://pics.filmaffinity.com/star_wars_the_acolyte-596015918-large.jpg",
-        "url": "https://filemoon.sx/d/1ohanyaxl8kx/The_Acolyte_1x08_1080p_Latino_mkv.mp4",
-       	"info": "[Latino]",
-       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
