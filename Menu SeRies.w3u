@@ -423,6 +423,13 @@
 		"import": false
 		},
 		{
+		"name": "Becker",
+		"image": "https://m.media-amazon.com/images/M/MV5BOTdhMTMxMzctYWY2MS00MjEyLTg5MjUtMDg1ZDk2NDlkMDkwXkEyXkFqcGc@._V1_.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Becker.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Before",
 		"image": "https://pics.filmaffinity.com/before-505774946-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20BEFORE.w3u",
