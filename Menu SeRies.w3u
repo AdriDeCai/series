@@ -1095,6 +1095,13 @@
 		"import": false
 		},
 		{
+		"name": "Desaparecido",
+		"image": "https://pics.filmaffinity.com/desagertuta-720119527-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Desde el Mañana",
 		"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Desde.El.Mañana.w3u",
