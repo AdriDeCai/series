@@ -1095,6 +1095,13 @@
 		"import": false
 		},
 		{
+		"name": "Desagertuta",
+		"image": "https://m.media-amazon.com/images/M/MV5BODRjYzA2OTctMTEzMS00MTU2LWIzOTYtMjljMmVlMGU3NWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Desagertuta.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Desaparecido",
 		"image": "https://pics.filmaffinity.com/desagertuta-720119527-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DESAPARECIDO.w3u",
@@ -2051,6 +2058,13 @@
 		"image": "https://i.postimg.cc/prPKkBFK/La-que-se-avecina-Temp-11.png",
 		"info": "bY Af1cionados",
 		"url": "https://af1cionados.vercel.app/serie LA QUE SE AVECINA.w3u",
+		"import": false
+		},
+		{
+		"name": "Las Berrocal",
+		"image": "https://pics.filmaffinity.com/Las_Berrocal_Serie_de_TV-746955650-large.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Las.Berrocal.w3u",
 		"import": false
 		},
 		{
