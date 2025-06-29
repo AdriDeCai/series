@@ -2740,6 +2740,13 @@
 		"import": false
 		},
 		{
+		"name": "Olympo",
+		"image": "https://pics.filmaffinity.com/olympo-978990880-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20OLYMPO.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "On Call",
 		"image": "https://pics.filmaffinity.com/on_call-721523579-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ON%20CALL.w3u",
