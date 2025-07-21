@@ -157,13 +157,6 @@
 		"import": false
 		},
 		{
-		"name": "Alice in Borderland",
-		"image": "https://i.postimg.cc/rpkWNX85/s-l1200.png",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Alice.in.Borderland.w3u",
-		"import": false
-		},
-		{
 		"name": "Alba",
 		"image": "https://es.web.img3.acsta.net/pictures/21/02/16/17/03/3819700.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Alba.w3u",
@@ -171,9 +164,23 @@
 		"import": false
 		},
 		{
+		"name": "Alice in Borderland",
+		"image": "https://i.postimg.cc/rpkWNX85/s-l1200.png",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.Alice.in.Borderland.w3u",
+		"import": false
+		},
+		{
 		"name": "Alienista, El",
 		"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ALIENISTA.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Allo Allo",
+		"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20ALLO%20ALLO.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
