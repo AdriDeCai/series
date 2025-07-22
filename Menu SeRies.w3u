@@ -3013,6 +3013,13 @@
 		"import": false
 		},
 		{
+		"name": "Perejil",
+		"image": "https://pics.filmaffinity.com/perejil-215966233-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DocuSerie%20PEREJIL.w3u",
+		"info": "bY af1cionados",
+		"import": false
+		},
+		{
 		"name": "Pesadillas",
 		"image": "https://pics.filmaffinity.com/goosebumps_the_vanishing-939683011-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20PESADILLAS.w3u",
