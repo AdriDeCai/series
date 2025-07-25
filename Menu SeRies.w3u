@@ -1703,6 +1703,13 @@
 		"import": false
 		},
 		{
+		"name": "Good Boy",
+		"image": "https://telepick.es/wp-content/uploads/2025/06/good-boy.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Good.Boy.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Gomorra",
 		"image": "https://i.postimg.cc/503nVY1Z/gomorra01.png",
 		"url": "https://af1c1onados.vercel.app/Series.Gomorra.w3u",
@@ -1918,6 +1925,13 @@
 		"image": "https://pics.filmaffinity.com/overcompensating-410869794-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20IMPOSTURA.w3u",
 		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Indomable",
+		"image": "https://pics.filmaffinity.com/Indomable_Miniserie_de_TV-590354397-large.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Indomable.w3u",
 		"import": false
 		},
 		{
