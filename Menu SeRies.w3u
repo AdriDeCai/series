@@ -1457,6 +1457,13 @@
 		"import": false
 		},
 		{
+		"name": "Estado Crítico: Entre la Vida y la Muerte",
+		"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/svLQ5W0QotpkhNW2JsViRte0Vfm.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Estado.Critico.w3u",
+		"import": false
+		},
+		{
 		"name": "Eternauta, El",
 		"image": "https://pics.filmaffinity.com/el_eternauta-575950349-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ETERNAUTA.w3u",
@@ -1570,9 +1577,16 @@
 		"import": false
 		},
 		{
+		"name": "Fiasco Total: Asalto al Area 51",
+		"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/7/w1280/ymypB753KCdNpUpefcav6phpBEZ.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Fiasco.Total.Asalto.al.Area.51.w3u",
+		"import": false
+		},
+		{
 		"name": "Fidelidad",
 		"image": "https://i.postimg.cc/JhjgJGQY/fide.png",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"url": "https://af1c1onados.vercel.app/Series.Fidelidad.w3u",
 		"import": false
 		},
@@ -1896,14 +1910,21 @@
 		"name": "Hotel Cocaine",
 		"image": "https://i.postimg.cc/tJyX5kCD/hotel-coca.png",
 		"url": "https://af1c1onados.vercel.app/Series.Hotel.Cocaine.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Humans",
 		"image": "https://es.web.img3.acsta.net/c_310_420/pictures/15/10/01/09/58/360220.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Humans.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Huracán Katrina: La Carrera Contra el Tiempo",
+		"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w1280/o1wXiQvxCCZXvhQZaADaSumhVYv.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Huracan.Katrina.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -3310,6 +3331,13 @@
 		"image": "https://i.postimg.cc/2SpTzkWy/los-ropers.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Los.Ropers.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Rubiales vs Hermoso: El beso de la Copa del Mundo",
+		"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/lyyvHEJT5r5jUgPaGu9O9zF0Z8N.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Rubiales.vs.Hermoso.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
