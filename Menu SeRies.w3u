@@ -1000,14 +1000,21 @@
 		"name": "Corazon Salvaje",
 		"image": "https://i.postimg.cc/ZR1RQv3r/corazon-salvaje.png",
 		"url": "https://af1c1onados.vercel.app/Series.Corazon.Salvaje.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Corazon de Cristal",
+		"image": "https://m.media-amazon.com/images/M/MV5BN2MzM2M0MTEtMTE5Ni00ZDFhLWI5ZDMtZjdjYjJlZmJmOTU3XkEyXkFqcGc@._V1_.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Corazon.de.Cristal.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Cosas De Marcianos",
 		"image": "https://i.postimg.cc/NfVSM3xS/3-roca-desde-el-sol-1.webp",
 		"url": "https://af1c1onados.vercel.app/Series.Cosas.de.Marcianos.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -1322,55 +1329,62 @@
 		"name": "El Agente Nocturno",
 		"image": "https://es.web.img3.acsta.net/img/ce/1c/ce1ce9b33d6b2fd5d7076bb06ae3ce76.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Agente.Nocturno.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "El Clan Olimpia",
+		"image": "https://lumiere-a.akamaihd.net/v1/images/el_clan_olimpia_-_disney_09f9e5fc.jpeg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Clan.Olimpia.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "El Mal",
 		"image": "https://pics.filmaffinity.com/El_mal_Evil_Serie_de_TV-874300610-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Mal.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "El Ministerio del Tiempo",
 		"image": "https://i.postimg.cc/WpCBWCs4/ministerio.png",
 		"url": "https://af1c1onados.vercel.app/Series.Ministerio.Del.Tiempo.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "El Pingüino",
 		"image": "https://images.abandomoviez.net/dbs/foto/dbs_4926_78.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Pinguino.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Emily en París",
 		"image": "https://i.postimg.cc/VNkksGGt/s00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Emily.en.París.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Empire",
 		"url": "https://af1c1onados.vercel.app/Series.Empire.w3u",
 		"image": "https://pics.filmaffinity.com/empire-446833948-large.jpg",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "En Fin",
 		"image": "https://pics.filmaffinity.com/En_fin_Miniserie_de_TV-876175888-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.En.Fin.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "En Nombre De La Rosa",
 		"image": "https://i.postimg.cc/Kjz3cqgQ/Il-nome-della-Rosa.png",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"url": "https://af1c1onados.vercel.app/Series.En.Nombre.De.La.Rosa.w3u",
 		"import": false
 		},
@@ -2401,6 +2415,13 @@
 		"image": "https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Marbella.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Marcada",
+		"image": "https://pics.filmaffinity.com/marked-119131680-mmed.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Marcada.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -4230,6 +4251,12 @@
 		"image": "https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_wizardsbeyondwaverlyplaceupdate_p_41da5be7.jpeg",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Wizards.w3u"
+		},
+		{
+		"name": "WWE Unreal",
+		"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2025/7/w300/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.WWE.Unreal.w3u"
 		},
 		{
 		"name": "Yellowjackets",
