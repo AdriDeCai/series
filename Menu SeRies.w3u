@@ -8,7 +8,13 @@
 "groups": 
 	[
 
-
+		{
+		"name": "2 chicas sin blanca",
+		"image": "https://pics.filmaffinity.com/2_broke_girls-673883061-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DOS%20CHICAS%20SIN%20BLANCA.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
 		{
 		"name": "2 Hombres y medio",
 		"image": "https://pics.filmaffinity.com/two_and_a_half_men-390220233-large.jpg",
