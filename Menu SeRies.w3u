@@ -702,6 +702,13 @@
 		"import": false
 		},
 		{
+		"name": "Camino a Arcadia",
+		"image": "https://pics.filmaffinity.com/arcadia-741584262-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20CAMINO%20ARCADIA.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Cancion De Los Bandidos",
 		"image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20CANCION%20DE%20LOS%20BANDIDOS.w3u",
