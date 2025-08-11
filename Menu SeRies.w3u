@@ -891,9 +891,9 @@
 		"import": false
 		},
 		{
-    		"name": "Chucky",
-    		"url": "https://af1c1onados.vercel.app/Series.Chucky.w3u",
-    		"image": "https://pics.filmaffinity.com/chucky-209085492-large.jpg",
+    	"name": "Chucky",
+    	"url": "https://af1c1onados.vercel.app/Series.Chucky.w3u",
+    	"image": "https://pics.filmaffinity.com/chucky-209085492-large.jpg",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -1062,6 +1062,13 @@
 		"name": "Cristobal Balenciaga",
 		"image": "https://pics.filmaffinity.com/cristobal_balenciaga-794914050-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie CRISTOBAL BALENCIAGA.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Cronicas Vampiricas",
+		"image": "https://pics.filmaffinity.com/the_vampire_diaries-912122065-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20CRONICAS%20VAMPIRICAS.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
