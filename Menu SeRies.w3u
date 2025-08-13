@@ -1548,6 +1548,13 @@
 		"import": false
 		},
 		{
+		"name": "Expedition Files",
+		"image": "https://pics.filmaffinity.com/Expedition_Files_Serie_de_TV-167221579-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Expedition.Files.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Extraño Retorno de Diana Salazar, El",
 		"url": "https://af1c1onados.vercel.app/Series.Extraño.Retorno.Diana.Salazar.w3u",
 		"image": "https://pics.filmaffinity.com/el_extrano_retorno_de_diana_salazar-924140347-large.jpg",
@@ -2116,6 +2123,13 @@
 		"import": false
 		},
 		{
+		"name": "Jovenes y Millonarios",
+		"image": "https://pics.filmaffinity.com/young_millionaires-991702952-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Jovenes.y.Millonarios.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Juego de Tronos",
 		"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
 		"info": "bY Af1cionados",
@@ -2273,6 +2287,13 @@
 		"name": "Lazarus Project, The",
 		"image": "https://pics.filmaffinity.com/the_lazarus_project-757640215-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LAZARUS PROJECT THE.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Leanne",
+		"image": "https://pics.filmaffinity.com/leanne-149371424-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Leanne.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -3319,6 +3340,13 @@
 		"import": false
 		},
 		{
+		"name": "Rebels",
+		"image": "https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Rebels.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Rebus",
 		"image": "https://pics.filmaffinity.com/rebus-237262968-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20REBUS.w3u",
@@ -4285,14 +4313,21 @@
 		"name": "WandaVision",
 		"image": "https://www.ecured.cu/images/b/b9/Wandavision.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.WandaVisión.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Wataha",
+		"image": "https://decine21.com/img/upload/obras/wataha-41170/wataha-41170-c.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Wataha.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Wednesday",
 		"image": "https://i.pinimg.com/564x/5f/5f/3e/5f5f3e6e00f9fa2534f5ac0d2236e99b.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Wednesday.w3u",
-		"info": "bY. yIsus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
