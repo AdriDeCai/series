@@ -5,8 +5,13 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"stations":
+[
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
@@ -116,6 +121,126 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/afp5cuk4muor/Mi_vida_con_los_chicos_Walter_2x01",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/sp5pti6oenaj/Mi_vida_con_los_chicos_Walter_2x02",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/fvl67r4i4zqv/Mi_vida_con_los_chicos_Walter_2x03",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/xbayaco8hohy/Mi_vida_con_los_chicos_Walter_2x04",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/gqs8laml18iu/Mi_vida_con_los_chicos_Walter_2x05",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/xqin8ys23jrf/Mi_vida_con_los_chicos_Walter_2x06",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/hpvof6zap1qy/Mi_vida_con_los_chicos_Walter_2x07",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/h2zy7ycs9tcr/Mi_vida_con_los_chicos_Walter_2x08",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/qrtr8zrtxcjh/Mi_vida_con_los_chicos_Walter_2x09",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/my_life_with_the_walter_boys-401122962-large.jpg",
+"url": "https://filemoon.to/d/5bu0qbrausf0/Mi_vida_con_los_chicos_Walter_2x10",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
 }
 
 ]
