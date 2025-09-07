@@ -828,6 +828,13 @@
 		"import": false
 		},
 		{
+		"name": "Caza, La. Irati",
+		"image": "https://pics.filmaffinity.com/la_caza_irati-540685408-large.jpg",
+		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20CAZA%2C%20LA.%20IRATI.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Caza, La Monteperdido",
 		"image": "https://pics.filmaffinity.com/la_caza_monteperdido-384669852-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie CAZA MONTEPERDIDO.w3u",
