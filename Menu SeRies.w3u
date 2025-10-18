@@ -1198,7 +1198,7 @@
 		"info": "bY Af1cionados",
 		"import": false
 		},
-    		{
+    	{
 		"name": "Darkness",
 		"image": "https://pics.filmaffinity.com/den_som_draeber_fanget_af_morket-982716227-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie DARKNESS.w3u",
@@ -1266,6 +1266,13 @@
 		"image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DEVILS.w3u",
 		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Devil in Disguise: John Wayne Gacy",
+		"image": "https://pics.filmaffinity.com/devil_in_disguise_john_wayne_gacy-282381196-large.jpg",
+		"url": "https://cutt.ly/hr3Mve2Q",
+		"info": "bY VirginMary",
 		"import": false
 		},
 		{
