@@ -4588,6 +4588,13 @@
 		"url": "https://af1c1onados.vercel.app/Series.WWE.Unreal.w3u"
 		},
 		{
+		"name": "Yakarta",
+		"image": "https://pics.filmaffinity.com/yakarta-390391008-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Yakarta.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Yellowjackets",
 		"image": "https://m.media-amazon.com/images/I/81wyPc3+HxL._AC_UF894,1000_QL80_.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Yellowjackets.w3u",
