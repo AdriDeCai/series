@@ -254,10 +254,17 @@
 		"import": false
 		},
 		{
+		"name": "Anatomia De Un Instante",
+		"image": "https://pics.filmaffinity.com/anatomia_de_un_instante-122205180-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Anatom-a-de-un-instante/refs/heads/main/Anatom%C3%ADa%20de%20un%20instante.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Anatomia de Grey",
 		"image": "https://pics.filmaffinity.com/grey_s_anatomy-461638569-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Anatomia.Grey0.w3u",
-		"info": "bY Yisus",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
