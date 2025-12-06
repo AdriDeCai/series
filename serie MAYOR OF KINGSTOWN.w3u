@@ -1,4 +1,5 @@
-{"name": "Mayor of Kingstown",
+{
+"name": "Mayor of Kingstown",
 "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
 "url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MAYOR%20OF%20KINGSTOWN.w3u",
 "info": "bY AdriDeCai",
@@ -358,7 +359,126 @@
        	"import": false
        	}
 ]
+},
+
+{
+"name": "TEMPORADA 4",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"stations":
+[
+	    {
+	    "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/avbisv7rnzba/Mayor_of_Kingstown_4x01",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/noxljtzvyql0/Mayor_of_Kingstown_4x02",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/961ekwclli9x/Mayor_of_Kingstown_4x03",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/7go9tc3jo6xg/Mayor_of_Kingstown_4x04",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/n7esjkz7zcdl/Mayor_of_Kingstown_4x05",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "https://filemoon.to/d/8wo3hnaqb4ey/Mayor_of_Kingstown_4x06",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 7",
+        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 8",
+        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 9",
+        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	    {
+	    "name": "CAPITULO 10",
+        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+        "url": "",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
 }
+
 
 ]
 }
