@@ -2417,10 +2417,10 @@
 		"import": false
 		},
 		{
-		"name": "Last of Us, The",
-		"image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.The.Last.Of.Us.w3u",
-		"info": "bY. yIsus",
+		"name": "Last Kingdom,The",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/The-last-kingdom/refs/heads/main/The%20last%20kingdom.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
@@ -2428,6 +2428,13 @@
 		"image": "https://pics.filmaffinity.com/last_light-102263673-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LAST%20LIGHT.w3u",
 		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Last of Us, The",
+		"image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.The.Last.Of.Us.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
