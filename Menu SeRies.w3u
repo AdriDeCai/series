@@ -170,6 +170,13 @@
 		"import": false
 		},
 		{
+		"name": "Agente Nocturno, El",
+		"image": "https://es.web.img3.acsta.net/img/ce/1c/ce1ce9b33d6b2fd5d7076bb06ae3ce76.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Agente.Nocturno.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Agente Encubierta, La",
 		"image": "https://pics.filmaffinity.com/legenden-553494452-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-agente-encubierta/refs/heads/main/La%20agente%20encubierta.w3u",
@@ -1024,6 +1031,13 @@
 		"import": false
 		},
 		{
+		"name": "Clan Olimpia, El",
+		"image": "https://lumiere-a.akamaihd.net/v1/images/el_clan_olimpia_-_disney_09f9e5fc.jpeg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Clan.Olimpia.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Clanes",
 		"image": "https://i.postimg.cc/CLZywCWm/clanes-serie-tv-1718867614155-3554085.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20CLANES.w3u",
@@ -1189,6 +1203,13 @@
 		"image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Cuando.Nadie.Nos.Ve.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Cuco De Cristal, El",
+		"image": "https://pics.filmaffinity.com/el_cuco_de_cristal-500015995-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/El-cuco-de-cristal/refs/heads/main/El%20cuco%20de%20cristal",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -1472,48 +1493,6 @@
 		"import": false
 		},
 		{
-		"name": "El Agente Nocturno",
-		"image": "https://es.web.img3.acsta.net/img/ce/1c/ce1ce9b33d6b2fd5d7076bb06ae3ce76.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Agente.Nocturno.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "El Clan Olimpia",
-		"image": "https://lumiere-a.akamaihd.net/v1/images/el_clan_olimpia_-_disney_09f9e5fc.jpeg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Clan.Olimpia.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "El Cuco De Cristal",
-		"image": "https://pics.filmaffinity.com/el_cuco_de_cristal-500015995-large.jpg",
-		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/El-cuco-de-cristal/refs/heads/main/El%20cuco%20de%20cristal",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "El Mal",
-		"image": "https://pics.filmaffinity.com/El_mal_Evil_Serie_de_TV-874300610-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Mal.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "El Ministerio del Tiempo",
-		"image": "https://i.postimg.cc/WpCBWCs4/ministerio.png",
-		"url": "https://af1c1onados.vercel.app/Series.Ministerio.Del.Tiempo.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "El Pingüino",
-		"image": "https://images.abandomoviez.net/dbs/foto/dbs_4926_78.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Pinguino.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Emily en París",
 		"image": "https://i.postimg.cc/VNkksGGt/s00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Emily.en.París.w3u",
@@ -1648,7 +1627,6 @@
 		"name": "Evil",
 		"image": "https://pics.filmaffinity.com/evil-817444445-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20EVIL.w3u",
-		"info": "bY Af1cionados",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -2620,6 +2598,13 @@
 		"import": false
 		},
 		{
+		"name": "Mal, El",
+		"image": "https://pics.filmaffinity.com/El_mal_Evil_Serie_de_TV-874300610-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Mal.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Mal invisilbe, El",
 		"image": "https://pics.filmaffinity.com/el_mal_invisible-495326502-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20MAL%20INVISIBLE.w3u",
@@ -2827,6 +2812,13 @@
 		"image": "https://i.postimg.cc/2yHNR0yT/mindhunter-s00.png",
 		"url": "https://af1c1onados.vercel.app/Series.MindHunter.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Ministerio del Tiempo, El",
+		"image": "https://i.postimg.cc/WpCBWCs4/ministerio.png",
+		"url": "https://af1c1onados.vercel.app/Series.Ministerio.Del.Tiempo.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -3386,6 +3378,13 @@
 		"name": "Pingüino",
 		"image": "https://pics.filmaffinity.com/the_penguin-328044903-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20PINGUINO.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Pingüino, El",
+		"image": "https://images.abandomoviez.net/dbs/foto/dbs_4926_78.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Pinguino.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
