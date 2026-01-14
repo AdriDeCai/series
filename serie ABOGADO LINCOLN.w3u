@@ -7,356 +7,390 @@
   "telegram": "@YIsus_mEx",
   "groups": 
   [
-    {
-      "name": "TEMPORADA 1",
-      "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-      "stations":
-      [
-        {
-          "name": "CAPITULO 1",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/vywjoy6wl8mu/El_abogado_del_Lincoln_1x01.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 2",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/3kdqieqo9oy9/El_abogado_del_Lincoln_1x02.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 3",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/oqg7e5i2jv1i/El_abogado_del_Lincoln_1x03.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 4",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/dkohm5wtofe4/El_abogado_del_Lincoln_1x04.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 5",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/5g84sppmnkpm/El_abogado_del_Lincoln_1x05.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 6",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/odfz4qcvm6qs/El_abogado_del_Lincoln_1x06.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 7",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/fmd55ix0e7cp/El_abogado_del_Lincoln_1x07.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 8",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/qjofxbsyz2x9/El_abogado_del_Lincoln_1x08.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 9",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/g34ai4dtchvl/El_abogado_del_Lincoln_1x09.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 10",
-          "image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
-          "url": "https://filemoon.to/d/puq3b1x2tr38/El_abogado_del_Lincoln_1x10.mkv",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-      ]
-    },
-    {
-      "name": "TEMPORADA 2",
-      "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-      "stations": 
-      [
-        {
-          "name": "CAPITULO 1",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/nsla5clcpldj/El_abogado_del_Lincoln_2x01",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 2",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/v0tgvyilham3/El_abogado_del_Lincoln_2x02",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 3",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/lqnkz0q53kvz/El_abogado_del_Lincoln_2x03",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 4",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/yfuzuiucnslf/El_abogado_del_Lincoln_2x04",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 5",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/gkb1b00e212g/El_abogado_del_Lincoln_2x05",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 6",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/p37aj4gi5581/El_abogado_del_Lincoln_2x06",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 7",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/y8bzfsrjflpp/El_abogado_del_Lincoln_2x07",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 8",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/qm3lm2jwhift/El_abogado_del_Lincoln_2x08",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 9",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/szaw2hbvoyyo/El_abogado_del_Lincoln_2x09",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 10",
-          "image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
-          "url": "https://filemoon.to/d/wmnksxhlu30b/El_abogado_del_Lincoln_2x10",
-          "info": "[Español 2022]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-      ]
-    },
-    {
-      "name": "TEMPORADA 3",
-      "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-      "stations": 
-      [
-        {
-          "name": "CAPITULO 1",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/oy6lilscsgiq/El_abogado_del_Lincoln_3x01",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 2",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/3cgrj6ny97ar/El_abogado_del_Lincoln_3x02",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 3",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/bx4zlk50rl6q/El_abogado_del_Lincoln_3x03",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 4",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/l2rbsnrbcdlf/El_abogado_del_Lincoln_3x04",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 5",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/aosmhxasj4ds/El_abogado_del_Lincoln_3x05",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 6",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/7dqj8zyj9fzl/El_abogado_del_Lincoln_3x06",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 7",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/mrtmf9cy21i2/El_abogado_del_Lincoln_3x07",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 8",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/5xu0my2hej34/El_abogado_del_Lincoln_3x08",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 9",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/2rdnn39crb2a/El_abogado_del_Lincoln_3x09",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        },
-        {
-          "name": "CAPITULO 10",
-          "image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
-          "url": "https://filemoon.to/d/utd2fnpgtam7/El_abogado_del_Lincoln_3x10",
-          "info": "[Español 2024]",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-      ]
-    }
-  ]
+
+{
+"name": "TEMPORADA 1",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/wgh3ke2dlwlf/el-abogado-del-lincoln-1x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/u0ho2sxvkion/el-abogado-del-lincoln-1x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/erd0fv1yyek4/el-abogado-del-lincoln-1x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/8xw4khzj81wk/el-abogado-del-lincoln-1x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/8lbpz32nxzbk/el-abogado-del-lincoln-1x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/pok73wvru5ul/el-abogado-del-lincoln-1x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/p1zcjsmz3o24/el-abogado-del-lincoln-1x07",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/kjvfdzy91012/el-abogado-del-lincoln-1x08",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/3lfwyrmgvmr7/el-abogado-del-lincoln-1x09",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/59PLdVjd/season01.jpg",
+"url": "https://byseraguci.com/d/jrn5l770n1ws/el-abogado-del-lincoln-1x10",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/iztxm6pzkoo3/el-abogado-del-lincoln-2x01",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/iti79wgj0dbu/el-abogado-del-lincoln-2x02",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/ulu53518muzb/el-abogado-del-lincoln-2x03",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/ansl08fu8r5r/el-abogado-del-lincoln-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/il2o7cmwqeey/el-abogado-del-lincoln-2x05",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/fybltdwqeie7/el-abogado-del-lincoln-2x06",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/83uz7oqgwwid/el-abogado-del-lincoln-2x07",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/9bcpxrc7sldz/el-abogado-del-lincoln-2x08",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/hbb7w3hp9d6z/el-abogado-del-lincoln-2x09",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/k4gGf2QV/season02.jpg",
+"url": "https://byseraguci.com/d/03czbu452wut/el-abogado-del-lincoln-2x10",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "TEMPORADA 3",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/pj6cat62kamu/el-abogado-del-lincoln-3x01",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/nuv0573m4j6p/el-abogado-del-lincoln-3x02",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/zdqe5183qv90/el-abogado-del-lincoln-3x03",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/0c2o5ej1rngp/el-abogado-del-lincoln-3x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/dljx0yd9jkb6/el-abogado-del-lincoln-3x05",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/qbjtfqfeu4sn/el-abogado-del-lincoln-3x06",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/ljona1nw6nq5/el-abogado-del-lincoln-3x07",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/eqhogkqy79bt/el-abogado-del-lincoln-3x08",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/ntyen039ey5x/el-abogado-del-lincoln-3x09",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/g2b01Syb/season03.jpg",
+"url": "https://byseraguci.com/d/56b3j8pgizb8/el-abogado-del-lincoln-3x10",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
 }
