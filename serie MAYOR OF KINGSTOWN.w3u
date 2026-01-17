@@ -366,116 +366,126 @@
 "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
 "stations":
 [
-	    {
-	    "name": "CAPITULO 1",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/avbisv7rnzba/Mayor_of_Kingstown_4x01",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 2",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/noxljtzvyql0/Mayor_of_Kingstown_4x02",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 3",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/961ekwclli9x/Mayor_of_Kingstown_4x03",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 4",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/7go9tc3jo6xg/Mayor_of_Kingstown_4x04",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 5",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/n7esjkz7zcdl/Mayor_of_Kingstown_4x05",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 6",
-        "image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "https://filemoon.to/d/8wo3hnaqb4ey/Mayor_of_Kingstown_4x06",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 7",
-        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 8",
-        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 9",
-        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	    {
-	    "name": "CAPITULO 10",
-        "image": "ttps://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
-        "url": "",
-       	"info": "[Español 2025]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	    "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	}
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/ihvznas1lpce/mayor-of-kingstown-4x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/nb5tbo0ltzep/mayor-of-kingstown-4x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/gegca4lhgaaz/mayor-of-kingstown-4x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/4y8uet5ndass/mayor-of-kingstown-4x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/9qe6bnn8fc6i/mayor-of-kingstown-4x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/fgxy6x9c7szr/mayor-of-kingstown-4x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/iejq4hxosx3o/mayor-of-kingstown-4x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/qbht514s5xvg/mayor-of-kingstown-4x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/hy4xqu735nwx/mayor-of-kingstown-4x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/mayor_of_kingstown-350998519-large.jpg",
+"url": "https://byseraguci.com/d/idhhvf34b3yi/mayor-of-kingstown-4x09",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
 ]
 }
 
