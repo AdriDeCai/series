@@ -731,8 +731,8 @@
 		},
 		{
 		"name": "Caballero de los 7 Reinos, El",
-		"image": "ttps://pics.filmaffinity.com/a_knight_of_the_seven_kingdoms_the_hedge_knight-848827233-large.jpg",
-		"url": "",
+		"image": "https://pics.filmaffinity.com/a_knight_of_the_seven_kingdoms_the_hedge_knight-848827233-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/El-caballero-de-los-7-reinos/refs/heads/main/El%20caballero%20de%20los%207%20reinos.w3u",
 		"info": "bY Virgin Mary",
 		"import": false
 		},
