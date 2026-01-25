@@ -44,6 +44,13 @@
 		"import": false
 		},
 		{
+		"name": "30 Monedas",
+		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/30-monedas/refs/heads/main/30%20MONEDAS.w3u",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+		{
 		"name": "100 años de soledad",
 		"image": "https://pics.filmaffinity.com/cien_anos_de_soledad-606630216-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20100%20AÑOS%20SOLEDAD.w3u",
@@ -75,13 +82,6 @@
 		"name": "1899",
 		"image": "https://pics.filmaffinity.com/1899-620331296-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie 1899.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "30 Monedas",
-		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
