@@ -323,7 +323,7 @@
 		"info": "bY Af1cionados",
 		"import": false
 		},
-    		{
+    	{
 		"name": "Arca, El",
 		"image": "https://i.postimg.cc/50gLKhJc/El-Arca-2023-Mini-Serie.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20EL%20ARCA.w3u",
@@ -667,10 +667,10 @@
 		"import": false
 		},
 		{
-		"name": "Bridgerton",
+		"name": "Bridgerton, Los",
 		"image": "https://i.postimg.cc/cCtynM4s/Bridgerton.webp",
-		"url": "https://af1c1onados.vercel.app/Series.Bridgerton.w3u",
-		"info": "bY. yIsus",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-Bridgerton/refs/heads/main/Los%20Bridgerton.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
