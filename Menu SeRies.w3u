@@ -1437,6 +1437,13 @@
 		"import": false
 		},
 		{
+		"name": "Duquesa de Merteuil, La",
+		"image": "https://pics.filmaffinity.com/merteuil-724350958-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-duquesa-de-Merteuil/refs/heads/main/serie%20LA%20DUQUESA%20DE%20MERTEUIL.w3u",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+		{
 		"name": "Earth Abides",
 		"image": "https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20EARTH%20ABIDES.w3u",
@@ -2715,7 +2722,7 @@
 		"url": "https://af1cionados.vercel.app/serie MARICON PERDIDO.w3u",
 		"info": "bY Af1cionados",
 		"import": false
-		},		
+		},
 		{
 		"name": "Martin, El Hombre Y La Leyenda",
 		"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/7/w1280/k3nVYMmO5VHCgIygssyimBtTANK.jpg",
