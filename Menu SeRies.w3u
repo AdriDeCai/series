@@ -1339,6 +1339,13 @@
 		"import": false
 		},
 		{
+		"name": "Devs",
+		"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Devs/refs/heads/main/serie%20DEVS.w3u",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+		{
 		"name": "Dexter",
 		"image": "https://m.media-amazon.com/images/I/61uEVzSwqfL._AC_UF894,1000_QL80_.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Dexter.w3u",
