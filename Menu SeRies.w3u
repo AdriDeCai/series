@@ -2605,6 +2605,13 @@
 		"import": false
 		},
 		{
+		"name": "Los Años Nuevos",
+		"image": "https://pics.filmaffinity.com/Los_aanos_nuevos_Miniserie_de_TV-851854473-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Los.Años.Nuevos.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Los Favoritos de Midas",
 		"image": "https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Los.Favoritos.de.Midas.w3u",
@@ -2992,8 +2999,8 @@
 		{
 		"name": "Muertos SL",
 		"image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie MUERTOS SL.w3u",
-		"info": "bY Af1cionados",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Pluribus/refs/heads/main/Series.Pluribus.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
