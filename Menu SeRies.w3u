@@ -1445,9 +1445,9 @@
 		},
 		{
 		"name": "Dune, La Profecia",
-		"image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20DUNE%20PROFECIA.w3u",
-		"info": "bY Af1cionados",
+		"image": "https://pics.filmaffinity.com/Dune_La_profecaia_Serie_de_TV-537289858-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Serie-Dune/refs/heads/main/serie%20DUNE%2C%20LA%20PROFEC%C3%8DA.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
@@ -2769,6 +2769,13 @@
 		"name": "Mas alla del limite",
 		"image": "https://pics.filmaffinity.com/the_outer_limits-739655965-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20MAS%20ALLA%20DEL%20LIMITE%20TEMP%2000.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Mas Que Rivales",
+		"image": "https://i.postimg.cc/NfTYfZdd/Mas-que-rivales.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Mas.Que.Rivales.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
