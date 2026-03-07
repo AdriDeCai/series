@@ -1271,8 +1271,15 @@
 		{
 		"name": "Da Vinci's Demons",
 		"image": "https://i.pinimg.com/474x/c0/da/7b/c0da7b7224aa44cb999e4034e0d8a36f.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Da.Vincis.Demons.w3u",
-		"info": "bY. yIsus",
+		"url": "https://series-af1cionados.vercel.app/serie%20DEMONIOS%20DE%20DA%20VINCI%2C%20LOS.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Dentista,  El",
+		"image": "https://pics.filmaffinity.com/el_dentista-974879766-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20DENTISTA.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
