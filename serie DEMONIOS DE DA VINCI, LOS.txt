@@ -1,0 +1,378 @@
+
+{
+"name": "Demonios de Da Vinci, Los",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": ""url": "https://series-af1cionados.vercel.app/",
+"info": "bY Af1cionados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":
+[
+
+{
+"name": "Temporada 01",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"info": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/uhpairh5ykvi/los-demonios-de-da-vinci-1x01cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/68avhafhj102/los-demonios-de-da-vinci-1x02cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/7bd1263e685j/los-demonios-de-da-vinci-1x03cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/rqdvk7xjmhb1/los-demonios-de-da-vinci-1x04cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/tyudu9zseg7d/los-demonios-de-da-vinci-1x05cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/7tuea403u8np/los-demonios-de-da-vinci-1x06cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/x57a7nv88ur1/los-demonios-de-da-vinci-1x07cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/dpvoe9nbmgh9/los-demonios-de-da-vinci-1x08cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Temporada 02",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"info": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/cydbvt3enqb9/los-demonios-de-da-vinci-2x01cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/nl3meh8eitxy/los-demonios-de-da-vinci-2x02cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/wlfh4w7sahep/los-demonios-de-da-vinci-2x03cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/8uhztb7v61cc/los-demonios-de-da-vinci-2x04cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/e45tydm3xmyk/los-demonios-de-da-vinci-2x05cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/9xh5267y72e9/los-demonios-de-da-vinci-2x06cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/2cdpn9vwsfsh/los-demonios-de-da-vinci-2x07cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/s3aqqz72o7r9/los-demonios-de-da-vinci-2x08cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "ttps://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/7uyn6vos9wuo/los-demonios-de-da-vinci-2x10cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+
+{
+"name": "Temporada 03",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"info": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "ttps://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/l0gtnp930u17/los-demonios-de-da-vinci-3x02cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/t4cr2rzjsuoc/los-demonios-de-da-vinci-3x03cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/vi2b7qafxpax/los-demonios-de-da-vinci-3x04cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/9gl31do5y9ya/los-demonios-de-da-vinci-3x05cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/3fekw2hnq49m/los-demonios-de-da-vinci-3x06cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/1eylkjah5fzl/los-demonios-de-da-vinci-3x07cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/vmdx8b44hjqa/los-demonios-de-da-vinci-3x08cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/96qj9btzqs16/los-demonios-de-da-vinci-3x09cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/da_vinci_s_demons-510070710-large.jpg",
+"url": "https://bysesayeveum.com/d/pgpwtajrgb0z/los-demonios-de-da-vinci-3x10cinecine",
+"info": "[Español][2013]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
+}
+
+
