@@ -3634,12 +3634,27 @@
 		"import": false
 		},
 		{
-		"name": "Protegidos, Los. El Regreso",
-		"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PROTEGIDOS%20REGRESO.w3u",
-		"info": "bY Af1cionados",
+		"name": "Protegidos, Los. ADN",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/9uURaCvSFUzstxPMQGqKvfTA7U9.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-protegidos-A.D.N/refs/heads/main/Series.Los%20protegidos%20ADN.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
+		{
+		"name": "Protegidos, Los. El Regreso",
+		"image": "https://pics.filmaffinity.com/los_protegidos_el_regreso-144440869-large.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-protegidos-El-regreso/refs/heads/main/Series.Los%20protegidos%20El%20regreso.w3u",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+		{
+		"name": "Protegidos, Los. Un nuevo Poder",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/znq1gVSpGj9pmuhmkRoLbQgLr9A.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-protegidos-Un-nuevo-poder/refs/heads/main/serie%20LOS%20PROTEGIDOS%20UN%20NUEVO%20PODER.w3u",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+
 		{
 		"name": "Queen Of The South",
 		"image": "https://images.static-bluray.com/products/20/56831_2_large.jpg",
