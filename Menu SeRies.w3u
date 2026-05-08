@@ -3139,8 +3139,8 @@
 		{
 		"name": "Novia gitana, La",
 		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie%20LA%20NOVIA%20GITANA.w3u",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-novia-gitana/refs/heads/main/serie%20LA%20NOVIA%20GITANA.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
@@ -4442,6 +4442,13 @@
 		"image": "https://pics.filmaffinity.com/tell_me_lies-651862245-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20TELL%20ME%20LIES.w3u",
 		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Testamentos, Los",
+		"image": "https://pics.filmaffinity.com/the_testaments-301162605-msmall.jpg",
+		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Los-testamentos/refs/heads/main/serie%20LOS%20TESTAMENTOS.w3u",
+		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
