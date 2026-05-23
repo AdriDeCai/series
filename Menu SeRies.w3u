@@ -306,7 +306,7 @@
 		"name": "Antidisturbios",
 		"image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
 		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie ANTIDISTURBIOS.w3u",
+		"url": "https://af1c1onados.vercel.app/Series.Antidisturbios.w3u",
 		"import": false
 		},
 		{
@@ -1579,7 +1579,7 @@
 		{
 		"name": "Entrevias",
 		"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ENTREVIAS.w3u",
+		"url": "https://af1c1onados.vercel.app/Series.Entrevias.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -4476,6 +4476,13 @@
 		"name": "Tell me Lies",
 		"image": "https://pics.filmaffinity.com/tell_me_lies-651862245-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20TELL%20ME%20LIES.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Terapia Sin Filtros",
+		"image": "https://image.tmdb.org/t/p/original/ukRnzDbUIX7sUfnUifZk3uQGht4.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Terapia.sin.Filtro.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
