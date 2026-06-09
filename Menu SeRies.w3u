@@ -912,13 +912,6 @@
 		"import": false
 		},
 		{
-		"name": "Caza del Asesino",
-		"image": "https://pics.filmaffinity.com/manhunt-374417243-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie CAZA DEL ASESINO.w3u",
-		"import": false
-		},
-		{
 		"name": "Caza del solitario, La",
 		"image": "https://pics.filmaffinity.com/la_caza_del_solitario-832692481-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CAZA%20SOLITARIO.w3u",
@@ -2805,6 +2798,13 @@
 		"image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.The.Mandalorian.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Manhunt: La Caza del Asesino",
+		"image": "https://image.tmdb.org/t/p/w500/9LplgakgxzCSgjjJPxU4nchJH4D.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Manhunt.La.Caza.del.Asesino.w3u",
 		"import": false
 		},
 		{
