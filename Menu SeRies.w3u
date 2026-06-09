@@ -485,6 +485,13 @@
 		"import": false
 		},
 		{
+		"name": "Bad Thoughts",
+		"image": "https://pics.filmaffinity.com/Malos_pensamientos_Serie_de_TV-958875303-large.jpg",
+		"info": "bY Af1cionados",
+		"url": "https://af1c1onados.vercel.app/Series.Bad.Thoughts.w3u",
+		"import": false
+		},
+		{
 		"name": "Bandidos",
 		"image": "https://pics.filmaffinity.com/bandidos-128291859-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Bandidos.w3u",
