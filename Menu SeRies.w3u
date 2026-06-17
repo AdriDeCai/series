@@ -100,6 +100,13 @@
 		"import": false
 		},
 		{
+		"name": "Abandonados",
+		"image": "https://pics.filmaffinity.com/abandonados-205224073-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Abandonados.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Abogadas, Las",
 		"image": "https://pics.filmaffinity.com/las_abogadas-780110917-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABOGADAS.w3u",
@@ -209,6 +216,13 @@
 		"image": "https://i.postimg.cc/rpkWNX85/s-l1200.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Alice.in.Borderland.w3u",
+		"import": false
+		},
+		{
+		"name": "Alice y Steve",
+		"image": "https://pics.filmaffinity.com/Alice_y_Steve_Serie_de_TV-107663373-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Alice.and.Steve.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -384,6 +398,13 @@
 		"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Ahsoka.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Así aprenderás",
+		"image": "https://peliculas.lavanguardia.com/imagenes/w500/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Así.aprenderás.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -2700,6 +2721,13 @@
 		"image": "https://pics.filmaffinity.com/Los_favoritos_de_Midas_Miniserie_de_TV-368670725-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Los.Favoritos.de.Midas.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Los Superfrikis",
+		"image": "https://es.web.img2.acsta.net/img/5f/62/5f62a5bec80a802e58c71c9f01c8b201.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Los.SUPERfrikis.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
