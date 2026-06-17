@@ -1213,27 +1213,6 @@
 		"import": false
 		},
 		{
-		"name": "Desorden que dejas, El",
-		"image": "https://pics.filmaffinity.com/el_desorden_que_dejas-784768386-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20DESORDEN%20QUE%20DEJAS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Detrás De Sus Ojos",
-		"image": "https://i.postimg.cc/zXNp4q7n/IMG-20241120-184059-426.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20DETRAS%20SUS%20OJOS.w3u",
-		"info": "bY. AdriDeCai",
-		"import": false
-		},
-		{
-		"name": "Deudas",
-		"image": "https://pics.filmaffinity.com/deudas-619671478-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20DEUDAS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Devils",
 		"image": "https://i.postimg.cc/vDRSJL33/DEVILS.png",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DEVILS.w3u",
@@ -1245,20 +1224,6 @@
 		"image": "https://pics.filmaffinity.com/devil_in_disguise_john_wayne_gacy-282381196-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Devil-in-Disguise-John-Wayne-Gacy/refs/heads/main/Devil%20in%20Disguise%20John%20Wayne%20Gacy.w3u",
 		"info": "bY VirginMary",
-		"import": false
-		},
-		{
-		"name": "Devs",
-		"image": "https://pics.filmaffinity.com/Devs_Miniserie_de_TV-645207482-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Devs.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Devs",
-		"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
-		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Devs/refs/heads/main/serie%20DEVS.w3u",
-		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
@@ -1293,13 +1258,6 @@
 		"name": "Dia de Mañana, El",
 		"image": "https://pics.filmaffinity.com/el_dia_de_manana-903232523-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie DIA DE MAÑANA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Dickinson",
-		"image": "https://pics.filmaffinity.com/dickinson-312029731-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20DICKINSON.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1346,24 +1304,10 @@
 		"import": false
 		},
 		{
-		"name": "Disclaimer",
-		"image": "https://pics.filmaffinity.com/disclaimer-273292429-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20DISCLAIMER.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Dos Monedas",
 		"image": "https://pics.filmaffinity.com/due_spicci-361838528-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Dos.Monedas.w3u",
 		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Dune, La Profecia",
-		"image": "https://pics.filmaffinity.com/Dune_La_profecaia_Serie_de_TV-537289858-large.jpg",
-		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Serie-Dune/refs/heads/main/serie%20DUNE%2C%20LA%20PROFEC%C3%8DA.w3u",
-		"info": "bY Virgin Mary",
 		"import": false
 		},
 		{
