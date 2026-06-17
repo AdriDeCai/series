@@ -198,23 +198,9 @@
 		"import": false
 		},
 		{
-		"name": "Alice in Borderland",
-		"image": "https://i.postimg.cc/rpkWNX85/s-l1200.png",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Alice.in.Borderland.w3u",
-		"import": false
-		},
-		{
 		"name": "Alice y Steve",
 		"image": "https://pics.filmaffinity.com/Alice_y_Steve_Serie_de_TV-107663373-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Alice.and.Steve.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Alienista, El",
-		"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ALIENISTA.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -352,13 +338,6 @@
 		"import": false
 		},
 		{
-		"name": "Arcane",
-		"image": "https://pics.filmaffinity.com/arcane_league_of_legends-266443454-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ARCANE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Asalto al Banco Central",
 		"image": "https://i.postimg.cc/Dzv1XQyF/IMG-20241109-235716-874.jpg",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Asalto Al Banco Central.w3u",
@@ -454,13 +433,6 @@
 		"image": "https://es.web.img3.acsta.net/pictures/21/01/17/05/06/0475287.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Awkwafina.es.nora.de.Queens.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Azules, Las",
-		"image": "https://pics.filmaffinity.com/las_azules-635617266-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20AZULES%20LAS.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
