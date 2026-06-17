@@ -2192,6 +2192,13 @@
 		"import": false
 		},
 		{
+		"name": "Hit viral",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyJGKdN7MWWCwtmpeac56cWZ_FjknmWR97dcuGdDDPA&s=10",
+		"url": "https://af1c1onados.vercel.app/Series.Hit.viral.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
 		"name": "Hombre decente, Un",
 		"image": "https://pics.filmaffinity.com/porzadny_czlowiek-890731476-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20HOMBRE%20DECENTE.w3u",
@@ -4148,7 +4155,7 @@
 		{
 		"name": "Se Tiene Que Morir Mucha Gente",
 		"image": "https://i.postimg.cc/L52vJbZm/morir.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Se.Tiene.Que.Morir.Mucha.Gente.w3u",
+		"url": "https://af1c1onados.vercel.app/Series.Se.tiene.que.morir.mucha.gente.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -4233,6 +4240,13 @@
 		"name": "Sisi Emperatriz de Austria",
 		"image": "https://pics.filmaffinity.com/sisi-118430008-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20SISI%20EMPERATRIZ.w3u",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Scarpetta",
+		"image": "https://pics.filmaffinity.com/scarpetta-345892939-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Scarpetta.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -4727,7 +4741,7 @@
 		{
 		"name": "Todo esto te daré",
 		"image": "https://pics.filmaffinity.com/tout_cela_je_te_le_donnerai-576942954-large.jpg",
-		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20TODO%20ESTO%20TE%20DARE.w3u",
+		"url": "https://af1c1onados.vercel.app/Series.Todo.esto.te.daré.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
