@@ -730,13 +730,6 @@
 		"import": false
 		},
 		{
-		"name": "Californication",
-		"image": "https://pics.filmaffinity.com/californication-800717346-large.jpg",
-		"url": "https://cutt.ly/ltg0mHWy",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Cambiadas al nacer",
 		"image": "https://pics.filmaffinity.com/switched_at_birth-522733673-large.jpg",
 		"info": "bY Af1cionados",
@@ -814,20 +807,6 @@
 		"import": false
 		},
 		{
-		"name": "Caso del Sambre, El",
-		"image": "https://pics.filmaffinity.com/sambre-450343552-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CASO%20SAMBRE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Caso Hartung",
-		"image": "https://pics.filmaffinity.com/kastanjemanden-761412094-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Caso.Hartung.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Cassandra",
 		"image": "https://pics.filmaffinity.com/cassandra-180059494-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CASSANDRA.w3u",
@@ -866,13 +845,6 @@
 		"name": "Caza del solitario, La",
 		"image": "https://pics.filmaffinity.com/la_caza_del_solitario-832692481-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CAZA%20SOLITARIO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Celeste",
-		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CELESTE.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -961,13 +933,6 @@
 		"import": false
 		},
 		{
-		"name": "Cicatriz",
-		"image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie CICATRIZ.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Cid, El",
 		"image": "https://pics.filmaffinity.com/el_cid-121690815-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20CID,%20EL.w3u",
@@ -1010,20 +975,6 @@
 		"import": false
 		},
 		{
-		"name": "Clanes",
-		"image": "https://i.postimg.cc/CLZywCWm/clanes-serie-tv-1718867614155-3554085.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20CLANES.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Clickbait",
-		"image": "https://pics.filmaffinity.com/clickbait-572117048-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CLICKBAIT.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Club de la Medianoche",
 		"image": "https://pics.filmaffinity.com/the_midnight_club-692770886-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie CLUB MEDIANOCHE.w3u",
@@ -1038,23 +989,9 @@
 		"import": false
 		},
 		{
-		"name": "Cocinera de Castamar, La",
-		"image": "https://pics.filmaffinity.com/la_cocinera_de_castamar-448587597-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20COCINERA%20CASTAMAR.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Codigo que valia millones, El",
 		"image": "https://pics.filmaffinity.com/the_billion_dollar_code-169277409-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie CODIGO VALIA MILLONES.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Como cazar a un monstruo",
-		"image": "https://pics.filmaffinity.com/kastanjemanden-761412094-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie COMO CAZAR MONSTRUO.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1077,13 +1014,6 @@
 		"image": "https://pics.filmaffinity.com/constellation-688391671-mmed.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Constellation.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Corazon del Imperio, El",
-		"image": "https://pics.filmaffinity.com/el_corazon_del_imperio-638544186-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CORAZON%20IMPERIO.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
