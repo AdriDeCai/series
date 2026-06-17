@@ -443,13 +443,6 @@
 		"import": false
 		},
 		{
-		"name": "Babylon Berlin",
-		"image": "https://pics.filmaffinity.com/babylon_berlin-745193767-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie BABYLON BERLIN.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Bad Banks",
 		"image": "https://pics.filmaffinity.com/bad_banks-172025153-large.jpg",
 		"info": "bY Af1cionados",
@@ -527,24 +520,10 @@
 		"import": false
 		},
 		{
-		"name": "Before",
-		"image": "https://pics.filmaffinity.com/before-505774946-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20BEFORE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Bellas Artes",
 		"image": "https://pics.filmaffinity.com/Bellas_Artes_Serie_de_TV-918323320-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Bellas.Artes.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Beguinas",
-		"image": "https://pics.filmaffinity.com/beguinas-542683486-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20BEGUINAS.w3u",
-		"info": "bY. aDRi",
 		"import": false
 		},
 		{
@@ -695,13 +674,6 @@
 		"import": false
 		},
 		{
-		"name": "Brigada Costa del Sol",
-		"image": "https://pics.filmaffinity.com/brigada_costa_del_sol-921602924-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20BRIGADA%20COSTA%20DEL%20SOL.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Buccaneers, The, Aristocratas",
 		"image": "https://pics.filmaffinity.com/the_buccaneers-285472299-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20BUCCANEERS.w3u",
@@ -713,13 +685,6 @@
 		"image": "https://images.justwatch.com/poster/329545770/s718/una-buena-familia-americana.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Una.Buena.Familia.Americana.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Bull",
-		"image": "https://pics.filmaffinity.com/bull-569515036-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20BULL0.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
