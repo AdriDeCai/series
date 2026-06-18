@@ -771,13 +771,6 @@
 		"import": false
 		},
 		{
-		"name": "Casa de Papel, La",
-		"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie CASA DE PAPEL%2CLA .w3u",
-		"import": false
-		},
-		{
 		"name": "Casa de papel Berlin",
 		"image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
 		"info": "bY Af1cionados",
@@ -816,20 +809,6 @@
 		"name": "Caza, La. Irati",
 		"image": "https://pics.filmaffinity.com/la_caza_irati-540685408-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.La.caza.Irati.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Caza, La Monteperdido",
-		"image": "https://pics.filmaffinity.com/la_caza_monteperdido-384669852-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie CAZA MONTEPERDIDO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Caza del solitario, La",
-		"image": "https://pics.filmaffinity.com/la_caza_del_solitario-832692481-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CAZA%20SOLITARIO.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
