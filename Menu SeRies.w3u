@@ -113,24 +113,10 @@
 		"import": false
 		},
 		{
-		"name": "AD Biblia continua",
-		"image": "https://pics.filmaffinity.com/a_d_the_bible_continues-936487683-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20AD%20BIBLIA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Adolescencia",
 		"image": "https://pics.filmaffinity.com/adolescence-497490057-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ADOLESCENCIA.w3u",
 		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Agatha quien si no",
-		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20AGATHA%20QUIEN%20SI%20NO.w3u",
-		"info": "bY Tintxi",
 		"import": false
 		},
 		{
@@ -159,13 +145,6 @@
 		"image": "https://pics.filmaffinity.com/legenden-553494452-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-agente-encubierta/refs/heads/main/La%20agente%20encubierta.w3u",
 		"info": "bY Virgin Mary",
-		"import": false
-		},
-		{
-		"name": "Agente Nocturno",
-		"image": "https://pics.filmaffinity.com/the_night_agent-308367960-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20AGENTE%20NOCTURNO.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -379,20 +358,6 @@
 		"import": false
 		},
 		{
-		"name": "Asuntos Internos",
-		"image": "https://pics.filmaffinity.com/asuntos_internos-280202867-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ASUNTOS%20INTERNOS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Asura",
-		"image": "https://pics.filmaffinity.com/asura_no_gotoku-375435966-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ASURA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Atasco",
 		"image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Atasco.w3u",
@@ -403,13 +368,6 @@
 		"name": "Atomic",
 		"image": "https://pics.filmaffinity.com/atomic-263868429-large.jpg",
 		"url": "https://cutt.ly/zrMULvQ0",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Atrapados de nuevo",
-		"image": "https://pics.filmaffinity.com/entrapped-815359551-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ATRAPADOS%20DE%20NUEVO.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -498,13 +456,6 @@
 		"import": false
 		},
 		{
-		"name": "Beat",
-		"image": "https://pics.filmaffinity.com/beat-949238071-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20BEAT.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Becker",
 		"image": "https://m.media-amazon.com/images/M/MV5BOTdhMTMxMzctYWY2MS00MjEyLTg5MjUtMDg1ZDk2NDlkMDkwXkEyXkFqcGc@._V1_.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Becker.w3u",
@@ -544,13 +495,6 @@
 		"image": "https://pics.filmaffinity.com/Big_Mouth_Serie_de_TV-662477175-large.jpg",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Big.Mouth.w3u",
-		"import": false
-		},
-		{
-		"name": "Billions",
-		"image": "https://pics.filmaffinity.com/billions-828823110-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20BILLIONS.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -600,13 +544,6 @@
 		"image": "https://i.postimg.cc/qvppN2jQ/blood.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Blood.&.Treasure.w3u",
-		"import": false
-		},
-		{
-		"name": "Blue Lights (Temporada 2)",
-		"image": "https://pics.filmaffinity.com/blue_lights-305237178-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20BLUE%20LIGHTS.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -687,13 +624,6 @@
 		"import": false
 		},
 		{
-		"name": "Buscate La Vida",
-		"url": "https://series-af1cionados.vercel.app/serie%20BUSCATE%20LA%20VIDA.w3u",
-		"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
-		"info": "bY Tintxi",
-		"import": false
-		},
-		{
 		"name": "Butterfly",
 		"image": "https://pics.filmaffinity.com/butterfly-767528701-large.jpg",
 		"url": "https://cutt.ly/Ztg0Qwj2",
@@ -746,13 +676,6 @@
 		"name": "Cancion De Los Bandidos",
 		"image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20CANCION%20DE%20LOS%20BANDIDOS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Cancion La, la la",
-		"image": "https://pics.filmaffinity.com/la_cancion-288674554-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CANCION%20LA%20LA%20LA.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1068,13 +991,6 @@
 		"name": "Cuco De Cristal, El",
 		"image": "https://pics.filmaffinity.com/el_cuco_de_cristal-500015995-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/El-cuco-de-cristal/refs/heads/main/El%20cuco%20de%20cristal",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Cuento de la Criada, El",
-		"image": "https://pics.filmaffinity.com/the_handmaid_s_tale-538001951-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20CUENTO%20CRIADA.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
