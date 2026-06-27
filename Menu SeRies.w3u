@@ -512,13 +512,6 @@
 		"import": false
 		},
 		{
-		"name": "Bosque, El",
-		"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20BOSQUE.w3u",
-		"import": false
-		},
-		{
 		"name": "Boys,The",
 		"image": "https://i.postimg.cc/kg4JZvmQ/00.png",
 		"url": "https://af1c1onados.vercel.app/Series.The.Boys.w3u",
@@ -903,13 +896,6 @@
 		"info": "bY Af1cionados",
 		"import": false
 		},
-    	{
-		"name": "Darkness",
-		"image": "https://pics.filmaffinity.com/den_som_draeber_fanget_af_morket-982716227-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie DARKNESS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
 		{
 		"name": "Da Vinci's Demons",
 		"image": "https://i.pinimg.com/474x/c0/da/7b/c0da7b7224aa44cb999e4034e0d8a36f.jpg",
@@ -971,27 +957,6 @@
 		"image": "https://hdfullcdn.cc/tthumb/172x265/show_fd3c1abdc554d4586c7e3dfe6e7b7f50.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Dexter-resurrecci-n/refs/heads/main/Dexter%20resurreccion.w3u",
 		"info": "bY Virgin Mary",
-		"import": false
-		},
-		{
-		"name": "Dia de Mañana, El",
-		"image": "https://pics.filmaffinity.com/el_dia_de_manana-903232523-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie DIA DE MAÑANA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Dime quien soy",
-		"image": "https://pics.filmaffinity.com/dime_quien_soy-154592650-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie DIME QUIEN SOY.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Dinastia Lakers",
-		"image": "https://pics.filmaffinity.com/winning_time_the_rise_of_the_lakers_dynasty-400860322-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%20DINASTIA%20LAKERS.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -1058,23 +1023,9 @@
 		"import": false
 		},
 		{
-		"name": "Elegido, El",
-		"image": "https://pics.filmaffinity.com/el_elegido_the_chosen_one-247210758-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ELEGIDO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Élite",
 		"image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20%C3%89LITE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Ella camina sola",
-		"image": "https://pics.filmaffinity.com/ella_camina_sola-596367812-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ELLA CAMINA SOLA.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1121,13 +1072,6 @@
 		"import": false
 		},
 		{
-		"name": "Encuentro con el mal, Mi",
-		"image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ENCUENTRO MAL.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Entre s",
 		"image": "https://pics.filmaffinity.com/entre_s-875534209-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Entre-s/refs/heads/main/Entre%20s.w3u",
@@ -1149,13 +1093,6 @@
 		"import": false
 		},
 		{
-		"name": "Erase una vez... pero ya no",
-		"image": "https://pics.filmaffinity.com/erase_una_vez_pero_ya_no-832731027-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ERASE PERO YA NO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Eric",
 		"image": "https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Eric.w3u",
@@ -1173,13 +1110,6 @@
 		"image": "https://i.postimg.cc/8zdvWJ9t/Esmeralda2.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Esmeralda.w3u"
-		},
-		{
-		"name": "Espabilados Los",
-		"image": "https://pics.filmaffinity.com/los_espabilados-720894546-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie ESPABILADOS LOS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
 		},
 		{
 		"name": "Espia, El (The Spy)",
@@ -1259,24 +1189,10 @@
 		"import": false
 		},
 		{
-		"name": "Fargo",
-		"image": "https://pics.filmaffinity.com/Fargo_V_Miniserie_de_TV-822311248-large.jpg",
-		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Fargo.w3u",
-		"import": false
-		},
-		{
 		"name": "Fariña",
 		"image": "https://i.postimg.cc/3JYXBVs9/fari-a.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Fariña.w3u",
-		"import": false
-		},
-		{
-		"name": "Fauda",
-		"image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1c1onados.vercel.app/Series.Fauda.w3u",
 		"import": false
 		},
 		{
@@ -1308,13 +1224,6 @@
 		"import": false
 		},
 		{
-		"name": "Forst",
-		"image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie FORST.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Foundation",
 		"image": "https://pics.filmaffinity.com/foundation-920437599-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie FOUNDATION.w3u",
@@ -1343,13 +1252,6 @@
 		"import": false
 		},
 		{
-		"name": "Gabinete de Curiosidades",
-		"image": "https://pics.filmaffinity.com/guillermo_del_toro_s_cabinet_of_curiosities-614447953-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie GABINETE DE CURIOSIDADES.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Gambito de dama",
 		"image": "https://pics.filmaffinity.com/the_queen_s_gambit-906552919-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Gambito-de-dama/refs/heads/main/Gambito%20de%20dama.w3u",
@@ -1360,13 +1262,6 @@
 		"name": "Gatillo (Trigger)",
 		"image": "https://pics.filmaffinity.com/teurigeo-982784814-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20GATILLO%20TRIGGER.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Generation",
-		"image": "https://pics.filmaffinity.com/genera_ion-734980897-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie GENERATION.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1483,13 +1378,6 @@
 		"import": false
 		},
 		{
-		"name": "Hechos polvo",
-		"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie HECHOS POLVO.w3u",
-		"import": false
-		},
-		{
 		"name": "Hermanos de sangre",
 		"image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
 		"info": "bY Af1cionados",
@@ -1602,13 +1490,6 @@
 		"import": false
 		},
 		{
-		"name": "Inmortal, El",
-		"image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie INMORTAL%2CEL.w3u",
-		"import": false
-		},
-		{
 		"name": "Innato",
 		"image": "https://pics.filmaffinity.com/innato-256004460-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20INNATO.w3u",
@@ -1616,23 +1497,9 @@
 		"import": false
 		},
 		{
-		"name": "Inside Man",
-		"image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%20INSIDE%20MAN%20(DESDE%20DENTRO).w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Instituto, El",
 		"image": "https://pics.filmaffinity.com/the_institute-685313098-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20INSTITUTO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Invasion",
-		"image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie INVASION.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1676,13 +1543,6 @@
 		"image": "https://pics.filmaffinity.com/it_welcome_to_derry-558367072-large.jpg",
 		"url": "https://urlfy.org/fhCyDqH",
 		"info": "bY Virgin Mary",
-		"import": false
-		},
-		{
-		"name": "Jaguar",
-		"image": "https://pics.filmaffinity.com/jaguar-386505647-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie JAGUAR.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -2246,13 +2106,6 @@
 		"import": false
 		},
 		{
-		"name": "Mentalista, El",
-		"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
-		"info": "bY. Tintxi",
-		"url": "https://pastebin.com/0QCPR4qC",
-		"import": false
-		},
-		{
 		"name": "Merli",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MERLI.w3u",
 		"image": "https://i.postimg.cc/6qtsM4sj/merli-1.jpg",
@@ -2600,13 +2453,6 @@
 		"image": "https://pics.filmaffinity.com/miss_fallaci-702061641-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ORIANA%20FALLACI.w3u",
 		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Otro lado, El",
-		"image": "https://pics.filmaffinity.com/el_otro_lado-542200171-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie%20EL%20OTRO%20LADO.w3u",
 		"import": false
 		},
 		{
