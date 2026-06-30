@@ -1016,13 +1016,6 @@
 		"import": false
 		},
 		{
-		"name": "Élite",
-		"image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%20%C3%89LITE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Emily en París",
 		"image": "https://i.postimg.cc/VNkksGGt/s00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Emily.en.París.w3u",
@@ -1186,13 +1179,6 @@
 		"image": "https://i.postimg.cc/3JYXBVs9/fari-a.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Fariña.w3u",
-		"import": false
-		},
-		{
-		"name": "Favorita 1922, La",
-		"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20FAVORITA%201922.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -1402,20 +1388,6 @@
 		"name": "Hit viral",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyJGKdN7MWWCwtmpeac56cWZ_FjknmWR97dcuGdDDPA&s=10",
 		"url": "https://af1c1onados.vercel.app/Series.Hit.viral.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Hombre decente, Un",
-		"image": "https://pics.filmaffinity.com/porzadny_czlowiek-890731476-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20HOMBRE%20DECENTE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Honor",
-		"image": "https://pics.filmaffinity.com/honor-566810956-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20HONOR.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1665,27 +1637,6 @@
 		"import": false
 		},
 		{
-		"name": "Ladrones de Drogas",
-		"image": "https://pics.filmaffinity.com/dope_thief-111970593-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LADRONES%20DROGAS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Lady Love",
-		"image": "https://pics.filmaffinity.com/lady_love-864092129-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LADY%20LOVE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Landman, un negocio crudo",
-		"image": "https://pics.filmaffinity.com/landman-388004447-large.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.Landman.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Last Kingdom,The",
 		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/The-last-kingdom/refs/heads/main/The%20last%20kingdom.w3u",
@@ -1707,51 +1658,9 @@
 		"import": false
 		},
 		{
-		"name": "Legado",
-		"image": "https://pics.filmaffinity.com/legado-576646068-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LEGADO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Leo Talks",
-		"image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
-		"url": "https://af1cionados.vercel.app/serie%20LEO%20TALKS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Leverage Redemption",
-		"image": "https://pics.filmaffinity.com/leverage_redemption-262442111-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie LEVERAGE REDEMPTION.w3u",
-		"import": false
-		},
-		{
-		"name": "Ley y Desorden",
-		"image": "https://pics.filmaffinity.com/mercato-754341406-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LEY%20DESORDEN.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Liberacion, La",
-		"image": "https://pics.filmaffinity.com/la_liberacion-671605268-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LIBERACION.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Libro de Boba Fett, El",
 		"image": "https://pics.filmaffinity.com/the_book_of_boba_fett-736176382-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/El-libro-de-Boba-Fett/refs/heads/main/El%20libro%20de%20Boba%20Fett.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Line of Duty",
-		"url": "https://af1cionados.vercel.app/serie%20LINE%20OF%20DUTY.w3u",
-		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -1767,13 +1676,6 @@
 		"image": "https://pics.filmaffinity.com/Locomaia_Miniserie_de_TV-204391564-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Locomia.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Locke and Key",
-		"image": "https://pics.filmaffinity.com/locke_key-773725457-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie LOCKEKEY.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -1823,13 +1725,6 @@
 		"image": "https://i.postimg.cc/bvwW40pC/S00.png",
 		"url": "https://af1c1onados.vercel.app/Series.LOTR.Los.Anillos.Del.Poder.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Ludwig",
-		"image": "https://pics.filmaffinity.com/ludwig-604062501-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20LUDWIG.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -2919,13 +2814,6 @@
 		"import": false
 		},
 		{
-		"name": "Sagrada Familia",
-		"image": "https://pics.filmaffinity.com/sagrada_familia-313579880-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SAGRADA FAMILIA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Sala, La",
 		"image": "https://pics.filmaffinity.com/la_sala-336708044-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LA SALA.w3u",
@@ -2940,13 +2828,6 @@
 		"import": false
 		},
 		{
-		"name": "Sandman",
-		"image": "https://pics.filmaffinity.com/the_sandman-801503155-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SANDMAN.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Sangre helada, La",
 		"image": "https://pics.filmaffinity.com/the_north_water-442528040-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-sangre-helada/refs/heads/main/serie%20SANGRE%20HELADA.w3u",
@@ -2957,13 +2838,6 @@
 		"name": "Santuario",
 		"image": "https://pics.filmaffinity.com/santuario-226360635-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SANTUARIO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "See",
-		"image": "https://i.postimg.cc/qMWx9q0B/See-Temporada-1-2023-Serie.png",
-		"url": "https://af1cionados.vercel.app/serie%20SEE.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -2992,13 +2866,6 @@
 		"name": "Sentencia de Muerte",
 		"image": "https://pics.filmaffinity.com/black_warrant-979199088-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20SENTENCIA%20MUERTE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Señor dame paciencia",
-		"image": "https://pics.filmaffinity.com/senor_dame_paciencia-935679678-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20SEÑOR%20DAME%20PACIENCIA.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -3045,20 +2912,6 @@
 		"import": false
 		},
 		{
-		"name": "Sexify",
-		"image": "https://pics.filmaffinity.com/sexify-695045535-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SEXIFY.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Sexo y Vida",
-		"image": "https://pics.filmaffinity.com/sex_life-881151684-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SEXO%20y%20VIDA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Silo",
 		"image": "https://pics.filmaffinity.com/Silo_Serie_de_TV-338930565-large.jpg",
 		"info": "bY. yIsus",
@@ -3077,13 +2930,6 @@
 		"url": "https://af1c1onados.vercel.app/Series.Simuladores.w3u",
 		"image":"https://pics.filmaffinity.com/los_simuladores-362636184-large.jpg",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Sin Identidad",
-		"image": "https://pics.filmaffinity.com/sin_identidad-981722571-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SIN%20IDENTIDAD.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -3125,13 +2971,6 @@
 		"name": "Scarpetta",
 		"image": "https://pics.filmaffinity.com/scarpetta-345892939-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Scarpetta.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Shadow and Bone",
-		"image": "https://pics.filmaffinity.com/shadow_and_bone-184093170-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SHADOWBONE.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -3389,13 +3228,6 @@
 		"name": "Superman y Lois",
 		"image": "https://pics.filmaffinity.com/superman_lois-182949012-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SUPERMANLOIS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Supernormal",
-		"image": "https://pics.filmaffinity.com/supernormal-423947470-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SUPERNORMAL.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
