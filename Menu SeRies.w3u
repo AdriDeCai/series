@@ -2120,20 +2120,6 @@
 		"import": false
 		},
 		{
-		"name": "Nuevo amanecer, Un",
-		"image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie NUEVO AMANECER.w3u",
-		"import": false
-		},
-		{
-		"name": "Objetivo: Paris",
-		"image": "https://pics.filmaffinity.com/paris_has_fallen-949027365-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20OBJETIVO%20PARIS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Obi-Wan Kenobi",
 		"image": "https://hips.hearstapps.com/hmg-prod/images/obi-wan-kenobi-serie-disney-poster-1651689693.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Obi-Wan.Kenobi.w3u",
@@ -2162,23 +2148,9 @@
 		"import": false
 		},
 		{
-		"name": "Old Man, The",
-		"image": "https://pics.filmaffinity.com/the_old_man-446336921-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie OLD MAN.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Olympo",
 		"image": "https://pics.filmaffinity.com/olympo-978990880-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20OLYMPO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "On Call",
-		"image": "https://pics.filmaffinity.com/on_call-721523579-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ON%20CALL.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
