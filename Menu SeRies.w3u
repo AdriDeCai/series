@@ -2260,13 +2260,6 @@
 		"import": false
 		},
 		{
-		"name": "Penny Dreadful",
-		"image": "https://pics.filmaffinity.com/penny_dreadful-749899600-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie PENNY DREADFUL.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Pequeñas mentirosas",
 		"image": "https://pics.filmaffinity.com/pretty_little_liars_summer_school-866043991-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Pequenas.mentirosas.w3u",
@@ -2288,38 +2281,10 @@
 		"import": false
 		},
 		{
-		"name": "Perdiendo el Juicio",
-		"image": "https://pics.filmaffinity.com/perdiendo_el_juicio-107380955-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PERDIENDO%20JUICIO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Perejil",
 		"image": "https://pics.filmaffinity.com/perejil-215966233-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DocuSerie%20PEREJIL.w3u",
 		"info": "bY af1cionados",
-		"import": false
-		},
-		{
-		"name": "Pesadillas",
-		"image": "https://pics.filmaffinity.com/goosebumps_the_vanishing-939683011-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PESADILLAS.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Pilares de la Tierra, Los",
-		"image": "https://pics.filmaffinity.com/the_pillars_of_the_earth-230210777-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PILARES%20DE%20LA%20TIERRA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Pingüino",
-		"image": "https://pics.filmaffinity.com/the_penguin-328044903-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PINGUINO.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -2372,13 +2337,6 @@
 		"import": false
 		},
 		{
-		"name": "Pollos sin cabeza",
-		"image": "https://pics.filmaffinity.com/pollos_sin_cabeza-283401940-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20POLLOS%20SIN%20CABEZA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Pombo",
 		"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
 		"info": "bY Af1cionados",
@@ -2389,13 +2347,6 @@
 		"name": "Poquita Fe",
 		"image": "https://pics.filmaffinity.com/poquita_fe-758809205-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie POQUITA FE.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Power Book IV",
-		"image": "https://pics.filmaffinity.com/power_book_iv_force-322109015-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20POWER%20BOOK.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -2428,31 +2379,10 @@
 		"import": false
 		},
 		{
-		"name": "Prisoner",
-		"image": "https://pics.filmaffinity.com/huset-519575178-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PRISONER.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "Problema De Los 3 Cuerpos",
 		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
 		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "Problema de los 3 cuerpos, El",
-		"image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
-		"info": "bY Af1cionados",
-		"url": "https://af1cionados.vercel.app/serie PROBLEMA DE LOS 3 CUERPOS.w3u",
-		"import": false
-		},
-		{
-		"name": "Problemas con Papa",
-		"image": "https://pics.filmaffinity.com/daddy_issues-773029888-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PROBLEMAS%20PAPA.w3u",
-		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
@@ -2476,7 +2406,6 @@
 		"info": "bY Virgin Mary",
 		"import": false
 		},
-
 		{
 		"name": "Queen Of The South",
 		"image": "https://images.static-bluray.com/products/20/56831_2_large.jpg",
