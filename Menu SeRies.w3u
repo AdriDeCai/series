@@ -2183,20 +2183,6 @@
 		"import": false
 		},
 		{
-		"name": "Oriana Fallaci",
-		"image": "https://pics.filmaffinity.com/miss_fallaci-702061641-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20ORIANA%20FALLACI.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Our Girl (VOSE)",
-		"image": "https://pics.filmaffinity.com/our_girl-923816271-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20OUR%20GIRL%20(VOSE).w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
 		"name": "OutLander",
 		"image": "https://i.postimg.cc/MTj6HV7N/out01.png",
 		"url": "https://af1c1onados.vercel.app/Series.OutLander.w3u",
@@ -2214,13 +2200,6 @@
 		"name": "Ozark",
 		"image": "https://pics.filmaffinity.com/ozark-806811895-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie OZARK.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Padrino de Harlem, EL",
-		"image": "https://pics.filmaffinity.com/godfather_of_harlem-315159440-large.jpg",
-		"url": "https://series-af1cionados.vercel.app/serie%20PADRINO%20HARLEM.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
@@ -2253,37 +2232,9 @@
 		"import": false
 		},
 		{
-		"name": "Paradise",
-		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
-		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Paradise/refs/heads/main/Paradise.w3u",
-		"info": "bY Virgin Mary",
-		"import": false
-		},
-		{
 		"name": "Paraiso",
 		"image": "https://pics.filmaffinity.com/paraiso-266004300-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie PARAISO.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Parasyte, los grises",
-		"image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie PARASYTE LOS GRISES.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Pareja Perfecta, Una",
-		"image": "https://pics.filmaffinity.com/the_perfect_couple-368682490-large.jpg",
-		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie PAREJA PERFECTA.w3u",
-		"info": "bY Af1cionados",
-		"import": false
-		},
-		{
-		"name": "Parot",
-		"image": "https://pics.filmaffinity.com/parot-954972553-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie PAROT.w3u",
 		"info": "bY Af1cionados",
 		"import": false
 		},
