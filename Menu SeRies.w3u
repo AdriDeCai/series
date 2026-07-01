@@ -2049,13 +2049,6 @@
       "import": false
     },
     {
-      "name": "New Look, The",
-      "image": "https://pics.filmaffinity.com/the_new_look-636351645-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie NEW LOOK.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Nos Vemos en otra Vida",
       "image": "https://pics.filmaffinity.com/Nos_vemos_en_otra_vida_Miniserie_de_TV-670006789-large.jpg",
       "url": "https://af1c1onados.vercel.app/Series.Nos.Vemos.en.otra.Vida.w3u",
@@ -2109,13 +2102,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/obi-wan-kenobi-serie-disney-poster-1651689693.jpg",
       "url": "https://af1c1onados.vercel.app/Series.Obi-Wan.Kenobi.w3u",
       "info": "bY. yIsus",
-      "import": false
-    },
-    {
-      "name": "Office, The",
-      "image": "https://pics.filmaffinity.com/the_office-862602609-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie OFFICE%2C THE.w3u",
-      "info": "bY Af1cionados",
       "import": false
     },
     {
@@ -2178,13 +2164,6 @@
       "name": "Outlander, Sangre de mi Sangre",
       "image": "https://pics.filmaffinity.com/outlander_blood_of_my_blood-775609489-large.jpg",
       "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20OUTLANDER%20SANGRE%20MI%20SANGRE.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Ozark",
-      "image": "https://pics.filmaffinity.com/ozark-806811895-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie OZARK.w3u",
       "info": "bY Af1cionados",
       "import": false
     },
@@ -2413,13 +2392,6 @@
       "import": false
     },
     {
-      "name": "Reacher",
-      "image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20REACHER.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Rebels",
       "image": "https://es.web.img3.acsta.net/c_310_420/img/80/82/8082e81fe17cfa2291e4c923ce122278.jpg",
       "url": "https://af1c1onados.vercel.app/Series.Rebels.w3u",
@@ -2501,13 +2473,6 @@
       "image": "https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
       "url": "https://af1c1onados.vercel.app/Series.El.Rey.del.Cachopo.w3u",
       "info": "bY. yIsus",
-      "import": false
-    },
-    {
-      "name": "Reyes de la Noche",
-      "image": "https://pics.filmaffinity.com/reyes_de_la_noche-198570836-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20REYES%20NOCHE.w3u",
-      "info": "bY Af1cionados",
       "import": false
     },
     {
@@ -3027,20 +2992,6 @@
       "import": false
     },
     {
-      "name": "Teacup",
-      "image": "https://i.postimg.cc/C5xCfjj4/IMG-20241208-222430-061.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20TEACUP.w3u",
-      "info": "bY Tintxi",
-      "import": false
-    },
-    {
-      "name": "Ted Lasso",
-      "image": "https://pics.filmaffinity.com/ted_lasso-314669289-large.jpg",
-      "info": "bY Af1cionados",
-      "url": "https://series-af1cionados.vercel.app/serie%20TED%20LASSO.w3u",
-      "import": false
-    },
-    {
       "name": "Teherán",
       "image": "https://i.postimg.cc/76KJrkB9/teharan00.png",
       "url": "https://af1c1onados.vercel.app/Series.Teheran.w3u",
@@ -3170,13 +3121,6 @@
       "name": "Tiempo que te doy, El",
       "image": "https://pics.filmaffinity.com/el_tiempo_que_te_doy-272208550-large.jpg",
       "url": "https://series-af1cionados.vercel.app/serie%20TIEMPO%20QUE%20TE%20DOY.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Tiempo entre Costuras",
-      "image": "https://pics.filmaffinity.com/el_tiempo_entre_costuras-341395574-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20TIEMPO%20ENTRE%20COSTURAS.w3u",
       "info": "bY Af1cionados",
       "import": false
     },
@@ -3328,13 +3272,6 @@
       "import": false
     },
     {
-      "name": "Umbrella Academy",
-      "image": "https://pics.filmaffinity.com/the_umbrella_academy-794888543-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie UMBRELLA ACADEMY.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "V Invasión Extraterrestre",
       "image": "https://i.postimg.cc/SRBvWt29/V-Batalla-Final.png",
       "url": "https://af1c1onados.vercel.app/Series.Invasion.V.w3u",
@@ -3444,13 +3381,6 @@
       "image": "https://i.postimg.cc/xTL1qHsm/Vikings-Valhalla.png",
       "url": "https://af1c1onados.vercel.app/Series.Vikingos.Valhalla.w3u",
       "info": "bY. Adri"
-    },
-    {
-      "name": "Visitante, El",
-      "image": "https://pics.filmaffinity.com/the_outsider-991862662-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie VISITANTE%2C EL.w3u",
-      "info": "bY Af1cionados",
-      "import": false
     },
     {
       "name": "Viudas de los Jueves",
