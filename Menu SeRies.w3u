@@ -2448,13 +2448,6 @@
       "import": false
     },
     {
-      "name": "Ripley",
-      "image": "https://pics.filmaffinity.com/ripley-423947230-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie RIPLEY.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Robin Hood",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/3teWChNzKJdbfen46IdeKTygdZa.jpg",
       "url": "https://raw.githubusercontent.com/Bl4ckl4dy/Robin-Hood/refs/heads/main/Robin%20Hood.w3u",
@@ -2978,13 +2971,6 @@
       "import": false
     },
     {
-      "name": "Those about to die",
-      "image": "https://pics.filmaffinity.com/those_about_to_die-770885934-large.jpg",
-      "url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie THOSE ABOUT TO DIE.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Tiempo que te doy, El",
       "image": "https://pics.filmaffinity.com/el_tiempo_que_te_doy-272208550-large.jpg",
       "url": "https://series-af1cionados.vercel.app/serie%20TIEMPO%20QUE%20TE%20DOY.w3u",
@@ -3041,20 +3027,6 @@
       "import": false
     },
     {
-      "name": "Trapped (Atrapados)",
-      "image": "https://pics.filmaffinity.com/ofaerd-593752669-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20TRAPPED.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Tribus de Europa",
-      "image": "https://pics.filmaffinity.com/tribes_of_europa-351690076-large.jpg",
-      "url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie TRIBUS DE EUROPA.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Trigger Point",
       "image": "https://i.postimg.cc/RZ7tw1nF/Trigger-Point.png",
       "url": "https://af1c1onados.vercel.app/Series.Trigger.Point.w3u",
@@ -3094,20 +3066,6 @@
       "image": "https://i.postimg.cc/2jgxnWqP/MV5-BYjc3-YWM3-Mjct-ZDAz-Ny00-OWY4-LTkw-Nj-Mt-MWM2-YTg1-ZWRl-MDAw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY3-MDE5-MDY1-V1.jpg",
       "info": "bY. yIsus",
       "url": "https://af1c1onados.vercel.app/Series.TWD.The.Ones.Who.Live.w3u",
-      "import": false
-    },
-    {
-      "name": "Twisted Metal",
-      "image": "https://pics.filmaffinity.com/twisted_metal-121166903-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20TWISTED%20METAL.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Twin Peaks",
-      "image": "https://pics.filmaffinity.com/twin_peaks-401853658-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20TWIN%20PEAKS.w3u",
-      "info": "bY Af1cionados",
       "import": false
     },
     {
