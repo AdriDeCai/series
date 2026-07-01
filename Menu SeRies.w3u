@@ -1251,13 +1251,6 @@
       "import": false
     },
     {
-      "name": "Gentlemen",
-      "image": "https://pics.filmaffinity.com/the_gentlemen-650002224-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie GENTLEMEN.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Gigantes",
       "image": "https://i.postimg.cc/jC0XwyXj/gigantes.png",
       "url": "https://af1c1onados.vercel.app/Series.Gigantes.w3u",
@@ -2000,13 +1993,6 @@
       "import": false
     },
     {
-      "name": "Morning Show, The",
-      "image": "https://pics.filmaffinity.com/the_morning_show-492321191-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie MORNING SHOW.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Mr. Loverman",
       "image": "https://pics.filmaffinity.com/mr_loverman-487227709-large.jpg",
       "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20MR.%20LOVERMAN.w3u",
@@ -2584,13 +2570,6 @@
       "name": "Rumbo al Infierno",
       "image": "https://pics.filmaffinity.com/jiok-617674681-large.jpg",
       "url": "https://af1cionados.vercel.app/serie RUMBOINFIERNO.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Sala, La",
-      "image": "https://pics.filmaffinity.com/la_sala-336708044-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie LA SALA.w3u",
       "info": "bY Af1cionados",
       "import": false
     },
