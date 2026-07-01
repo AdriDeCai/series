@@ -2203,13 +2203,6 @@
       "import": false
     },
     {
-      "name": "Pasion turca",
-      "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
-      "url": "https://af1cionados.vercel.app/serie PASION TURCA.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Patria",
       "image": "https://i.postimg.cc/rmJm0DnD/patria01.png",
       "url": "https://raw.githubusercontent.com/Bl4ckl4dy/Patria/refs/heads/main/serie%20PATRIA.w3u",
@@ -2553,13 +2546,6 @@
       "import": false
     },
     {
-      "name": "Santuario",
-      "image": "https://pics.filmaffinity.com/santuario-226360635-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20SANTUARIO.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "SEAL Team",
       "image": "https://i.postimg.cc/GpSLpYCV/seal-team.png",
       "url": "https://af1c1onados.vercel.app/Series.Seal.Team.w3u",
@@ -2581,31 +2567,10 @@
       "import": false
     },
     {
-      "name": "Sentencia de Muerte",
-      "image": "https://pics.filmaffinity.com/black_warrant-979199088-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20SENTENCIA%20MUERTE.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
-      "name": "Señor de la casa, El",
-      "image": "https://pics.filmaffinity.com/suepsandan-997785204-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20SEÑOR%20CASA.w3u",
-      "info": "bY Af1cionados",
-      "import": false
-    },
-    {
       "name": "Señor De Los Cielos, El",
       "image": "https://i.postimg.cc/ydmcrKf7/cielos.png",
       "url": "https://af1c1onados.vercel.app/Series.el.señor.del.cielo.w3u",
       "info": "bY. yIsus",
-      "import": false
-    },
-    {
-      "name": "Señoras del Hampa",
-      "image": "https://pics.filmaffinity.com/senoras_del_h_ampa-129182990-large.jpg",
-      "url": "https://series-af1cionados.vercel.app/serie%20SEÑORAS%20HAMPA.w3u",
-      "info": "bY Af1cionados",
       "import": false
     },
     {
