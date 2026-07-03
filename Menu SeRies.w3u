@@ -224,6 +224,13 @@
       "import": false
     },
     {
+      "name": "Animal",
+      "image": "https://pics.filmaffinity.com/animal-360462038-large.jpg",
+      "url": "https://af1c1onados.vercel.app/Series.Animal.w3u",
+      "info": "bY Af1cionados",
+      "import": false
+    },
+    {
       "name": "Andor",
       "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
       "info": "bY Af1cionados",
@@ -2042,10 +2049,17 @@
       "import": false
     },
     {
+      "name": "No Digas Nada",
+      "image": "https://pics.filmaffinity.com/No_digas_nada_Miniserie_de_TV-437951865-large.jpg",
+      "url": "https://af1c1onados.vercel.app/Series.No.Digas.Nada.w3u",
+      "info": "bY Af1cionados",
+      "import": false
+    },
+    {
       "name": "Nos Vemos en otra Vida",
       "image": "https://pics.filmaffinity.com/Nos_vemos_en_otra_vida_Miniserie_de_TV-670006789-large.jpg",
       "url": "https://af1c1onados.vercel.app/Series.Nos.Vemos.en.otra.Vida.w3u",
-      "info": "bY. yIsus",
+      "info": "bY Af1cionados",
       "import": false
     },
     {
@@ -2087,6 +2101,13 @@
       "name": "Nueve Perfectos Extraños",
       "image": "https://pics.filmaffinity.com/nine_perfect_strangers-257729651-large.jpg",
       "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20NUEVE%20PERFECTOS%20EXTRA%C3%91OS.w3u",
+      "info": "bY Af1cionados",
+      "import": false
+    },
+    {
+      "name": "Oasis",
+      "image": "https://pics.filmaffinity.com/oasis-171752869-large.jpg",
+      "url": "https://af1c1onados.vercel.app/Series.Oasis.w3u",
       "info": "bY Af1cionados",
       "import": false
     },
