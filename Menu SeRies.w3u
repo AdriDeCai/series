@@ -6,14 +6,6 @@
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista_AF1CIONADOS",
   "groups": [
-
-    {
-      "name": "10 Libras y Un Sueño",
-      "image": "https://pics.filmaffinity.com/ten_pound_poms-723106626-large.jpg",
-      "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%2010%20LIBRAS%20SUE%C3%91O.m3u8",
-      "info": "bY Af1cionados",
-      "import": false
-    },
     {
       "name": "2 Tumbas",
       "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
@@ -3329,6 +3321,13 @@
       "image": "https://i.postimg.cc/jdwM1gKF/0.png",
       "url": "https://af1c1onados.vercel.app/Series.Your.Honor.w3u",
       "info": "bY. yIsus",
+      "import": false
+    },
+    {
+      "name": "10 Libras y Un Sueño",
+      "image": "https://pics.filmaffinity.com/ten_pound_poms-723106626-large.jpg",
+      "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%2010%20LIBRAS%20SUE%C3%91O.m3u8",
+      "info": "bY Af1cionados",
       "import": false
     }
   ]
