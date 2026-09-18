@@ -1273,6 +1273,13 @@
       "import": false
     },
     {
+      "name": "Gentlemen",
+      "image": "https://pics.filmaffinity.com/the_gentlemen-967252209-large.jpg",
+      "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20GENTLEMEN.w3u",
+      "info": "bY Af1cionados",
+      "import": false
+    },
+    {
       "name": "Gigantes",
       "image": "https://i.postimg.cc/jC0XwyXj/gigantes.png",
       "url": "https://af1c1onados.vercel.app/Series.Gigantes.w3u",
