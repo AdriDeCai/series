@@ -7,6 +7,13 @@
   "info": "Lista_AF1CIONADOS",
   "groups": 
   [
+{
+"name": "#Love",
+"image": "https://i.postimg.cc/XYvHPDYs/Love.jpg",
+"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20%23LOVE.w3u",
+"info": "bY Af1cionados",
+"import": false
+},
     {
       "name": "2 Tumbas",
       "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
