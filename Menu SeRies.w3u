@@ -1630,7 +1630,7 @@
       "import": false
     },
 {
-"name": "JUEGOS AMIGOS Y SEXO",
+"name": "Juegos Amigos y Sexo",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
 "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20JUEGOS%20AMIGOS%20y%20SEXO.w3u",
 "info": "bY Virgin Mary",
@@ -1790,8 +1790,15 @@
       "info": "bY Af1cionados",
       "import": false
     },
+{
+"name": "Lista Final, La",
+"image": "https://pics.filmaffinity.com/the_terminal_list_s1-321454942-large.jpg",
+"url": "https://series-af1cionados.vercel.app/serie LISTA FINAL.w3u",
+"info": "bY Virgin Mary",
+"import": false
+},
     {
-      "name": "little America",
+      "name": "Little America",
       "image": "https://pics.filmaffinity.com/little_america-592559468-large.jpg",
       "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20LITTLE%20AMERICA.w3u",
       "info": "bY Af1cionados",
